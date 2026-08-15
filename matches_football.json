@@ -1,39 +1,7 @@
 {
-  "generatedAt": "2026-08-15T12:30:00+03:00",
+  "generatedAt": "2026-08-15T16:27:00+03:00",
   "sport": "football",
   "matches": [
-    {
-      "id": "krasnodar-ahmat-2026-08-15",
-      "league": "РПЛ, 4-й тур",
-      "kickoff": "2026-08-15T20:45:00+03:00",
-      "home": { "name": "Краснодар", "tablePosition": 1 },
-      "away": { "name": "Ахмат", "tablePosition": 14 },
-      "h2h": {
-        "summary": "Краснодар выигрывал 17 раз, Ахмат — 13, вничью — 8. Последняя очная встреча — 5 августа 2026 в Кубке России, боевая ничья 1:1 в основное время, по пенальти прошёл Краснодар (5:4).",
-        "record": { "homeWins": 17, "draws": 8, "awayWins": 13 }
-      },
-      "form": {
-        "home": { "last5": "Единственная команда РПЛ без потерянных очков после 3 туров — 3 победы из 3", "goalsScoredAvg": null, "goalsConcededAvg": null },
-        "away": { "last5": "Без побед в первых турах, в прошлом туре ничья 0:0 с Факелом", "goalsScoredAvg": null, "goalsConcededAvg": null }
-      },
-      "strengthsWeaknesses": {
-        "home": { "strengths": ["Единоличный лидер РПЛ, 9 очков из 9 возможных", "Игра на своём поле (Ozon Arena)", "Преимущество в личных встречах (17 побед против 13)"], "weaknesses": ["Свежая физическая нагрузка после серии пенальти в Кубке России 5 августа"] },
-        "away": { "strengths": ["Крепкая оборона в последнем туре (0:0 с Факелом)"], "weaknesses": ["14-е место в таблице, без победных очков в чемпионате", "Букмекеры дают лишь 6.10 на выездную победу против 1.52 у хозяев"] }
-      },
-      "prediction": {
-        "winner": "home",
-        "confidence": "high",
-        "reasoning": "Краснодар — единственная команда РПЛ без потерь очков в первых трёх турах и превосходит соперника по личным встречам; Ахмат пока не одержал ни одной победы в чемпионате.",
-        "goals": { "btts": true, "overUnder25": "over", "predictedScore": "2:1" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
-      },
-      "sources": [
-        "https://www.championat.com/bets/article-6582176-krasnodar-ahmat-prognoz-i-stavka-na-match-15-avgusta-2026-goda-smotret-besplatno-kakoj-kanal-schyot-goly-pryamoj-efir.html",
-        "https://metaratings.ru/prognozy/futbol/krasnodar-ahmat-prognoz-na-match-rpl-15-avgusta-2026-goda/",
-        "https://www.sports.ru/football/1117328817-krasnodar-vyshel-na-1-e-mesto-v-rpl-posle-trex-turov-zenit-spartak-i-b.html"
-      ],
-      "actualResult": null
-    },
     {
       "id": "ska-habarovsk-veles-2026-08-15",
       "league": "Первая лига (PARI), 6-й тур",
@@ -60,7 +28,7 @@
         "https://ria.ru/20260815/ska-habarovsk-2111054698.html",
         "https://www.championat.com/football/news-6582834-ska-habarovsk-veles-rezultat-matcha-15-avgusta-schet-2-0-6-j-tur-pervoj-ligi-2026-2027.html"
       ],
-      "actualResult": "2:0"
+      "actualResult": null
     },
     {
       "id": "enisey-kamaz-2026-08-15",
@@ -118,6 +86,38 @@
       "actualResult": null
     },
     {
+      "id": "rodina-akron-2026-08-15",
+      "league": "РПЛ, 4-й тур",
+      "kickoff": "2026-08-15T14:00:00+03:00",
+      "home": { "name": "Родина", "tablePosition": null },
+      "away": { "name": "Акрон", "tablePosition": null },
+      "h2h": {
+        "summary": "Всего сыграно 4 официальных матча: 1 победа «Родины», 2 победы «Акрона», 1 ничья. Игры между командами часто результативны — в 3 из последних 5 очных встреч забито 3 и более мячей.",
+        "record": { "homeWins": 1, "draws": 1, "awayWins": 2 }
+      },
+      "form": {
+        "home": { "last5": "Неожиданно обыграла в гостях «Зенит» (2:1), 3 очка после 3 туров, ранее разгромила «Рубин» 5:0 в Кубке России", "goalsScoredAvg": null, "goalsConcededAvg": 1.6 },
+        "away": { "last5": "Сыграла вничью с «Локомотивом» 0:0, до этого пропустила 4 гола от «Ростова» в Кубке и 5 от «Зенита» в РПЛ, 1 очко после 3 туров", "goalsScoredAvg": 0.2, "goalsConcededAvg": null }
+      },
+      "strengthsWeaknesses": {
+        "home": { "strengths": ["Неожиданная победа над «Зенитом» в гостях (2:1)", "Разгромила «Рубин» 5:0 в Кубке России", "Игра на своём поле (Арена Химки)"], "weaknesses": ["В среднем пропускает 1.60 гола за игру в последних 5 матчах"] },
+        "away": { "strengths": ["Не проиграла в последнем туре (0:0 с «Локомотивом»)"], "weaknesses": ["В среднем забивает лишь 0.20 гола за игру в последних 5 матчах", "Пропустила 4 гола от «Ростова» в Кубке и 5 от «Зенита» в РПЛ", "Всего 1 очко после 3 туров"] }
+      },
+      "prediction": {
+        "winner": "home",
+        "confidence": "low",
+        "reasoning": "«Родина» неожиданно обыграла «Зенит» в гостях и разгромила «Рубин» 5:0 в Кубке, но в среднем пропускает 1.60 гола за игру в последних 5 матчах. «Акрон» испытывает серьёзные проблемы с атакой (0.20 забитого гола в среднем за игру) и подходит к матчу с 1 очком после 3 туров. Букмекеры видят лишь небольшое преимущество хозяев, поэтому уверенность в исходе невысокая.",
+        "goals": { "btts": true, "overUnder25": "over", "predictedScore": "2:1" },
+        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+      },
+      "sources": [
+        "https://www.championat.com/bets/article-6580826-rodina-akron-prognoz-i-translyaciya-15-avgusta-2026-goda.html",
+        "https://metaratings.ru/prognozy/futbol/rodina-akron-prognoz-na-match-rpl-15-avgusta-2026-goda/",
+        "https://www.championat.com/football/stats/rodina-vs-akron-8139_8149/"
+      ],
+      "actualResult": null
+    },
+    {
       "id": "leningradec-arsenal-tula-2026-08-15",
       "league": "Первая лига (PARI), 6-й тур",
       "kickoff": "2026-08-15T16:00:00+03:00",
@@ -141,6 +141,38 @@
       },
       "sources": [
         "https://metaratings.ru/prognozy/futbol/leningradets-arsenal-tula-prognoz-i-stavki-na-match-ligi-pari-15-avgusta-2026-goda/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "cska-fakel-2026-08-15",
+      "league": "РПЛ, 4-й тур",
+      "kickoff": "2026-08-15T16:15:00+03:00",
+      "home": { "name": "ЦСКА", "tablePosition": 6 },
+      "away": { "name": "Факел", "tablePosition": null },
+      "h2h": {
+        "summary": "В 7 сыгранных матчах ЦСКА выиграл 3 раза, «Факел» — 2, вничью — 2. Последняя встреча (8 декабря 2024, РПЛ) завершилась победой ЦСКА 2:0. Крупнейшая победа ЦСКА — 5:1.",
+        "record": { "homeWins": 3, "draws": 2, "awayWins": 2 }
+      },
+      "form": {
+        "home": { "last5": "Не проиграла ни одного матча в сезоне РПЛ, 5 очков после 3 туров, в прошлом туре сыграла вничью 0:0 с «Ростовом»", "goalsScoredAvg": null, "goalsConcededAvg": null },
+        "away": { "last5": "Результаты не внушают оптимизма, в прошлом туре сыграл вничью 0:0 с «Ахматом»", "goalsScoredAvg": null, "goalsConcededAvg": null }
+      },
+      "strengthsWeaknesses": {
+        "home": { "strengths": ["Не проиграла ни одного матча в сезоне РПЛ", "Явный фаворит по коэффициентам букмекеров (около 1.40 на победу)", "Игра на своём поле (ВЭБ Арена)", "Преимущество в личных встречах (3 победы против 2 у «Факела»)"], "weaknesses": ["Лишь шестое место в таблице при статусе одного из фаворитов сезона"] },
+        "away": { "strengths": ["Установка на глухую оборону и низкий блок в гостевых матчах"], "weaknesses": ["Результаты не внушают оптимизма", "Явный аутсайдер по коэффициентам (около 8.36 на победу)"] }
+      },
+      "prediction": {
+        "winner": "home",
+        "confidence": "high",
+        "reasoning": "ЦСКА не проигрывает в этом сезоне и является явным фаворитом по коэффициентам букмекеров (около 1.40 на победу против 8.36 на «Факел»). В личных встречах ЦСКА также сильнее (3 победы против 2 у «Факела» в 7 матчах). «Факел» пока показывает результаты, которые не внушают оптимизма, и в гостях делает ставку на глухую оборону.",
+        "goals": { "btts": false, "overUnder25": "over", "predictedScore": "3:0" },
+        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+      },
+      "sources": [
+        "https://www.championat.com/bets/article-6580846-cska-fakel-prognoz-i-translyaciya-matcha-15-avgusta-2026.html",
+        "https://legalbet.ru/match-center/cska-fakel-15-08-2026/",
+        "https://ria.ru/h2h/fakel_voronezh_vs_cska_moscow_441298238-1692_9760.html"
       ],
       "actualResult": null
     },
@@ -196,6 +228,70 @@
       },
       "sources": [
         "https://www.livesport.ru/tips/football/2026/08/15/dynamo-spb-volga/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "rostov-rubin-2026-08-15",
+      "league": "РПЛ, 4-й тур",
+      "kickoff": "2026-08-15T18:30:00+03:00",
+      "home": { "name": "Ростов", "tablePosition": 8 },
+      "away": { "name": "Рубин", "tablePosition": 10 },
+      "h2h": {
+        "summary": "В последних 5 официальных встречах 3 победы у «Рубина», 1 у «Ростова», 1 ничья. В декабре 2025 «Ростов» выиграл 2:0, но в двух предыдущих очных матчах сезона 2024/25 «Рубин» побеждал 1:0 дважды. При этом «Ростов» не проигрывает «Рубину» дома в последних 5 очных встречах.",
+        "record": { "homeWins": 1, "draws": 1, "awayWins": 3 }
+      },
+      "form": {
+        "home": { "last5": "8-е место в таблице, 4 очка после 3 туров, в прошлом туре сыграл вничью 0:0 с ЦСКА", "goalsScoredAvg": null, "goalsConcededAvg": 1.0 },
+        "away": { "last5": "10-е место в таблице, 4 очка после 3 туров", "goalsScoredAvg": 1.4, "goalsConcededAvg": 2.6 }
+      },
+      "strengthsWeaknesses": {
+        "home": { "strengths": ["Не проигрывает в 5 последних домашних встречах с «Рубином»", "8-е место в таблице против 10-го у соперника", "Игра на своём поле (Ростов Арена)"], "weaknesses": ["В среднем пропускает 1.00 гола за игру в последних 5 матчах"] },
+        "away": { "strengths": ["В личных встречах последних лет чаще побеждал «Ростов» (3 победы из 5)", "В среднем забивает 1.40 гола за игру"], "weaknesses": ["В среднем пропускает 2.60 гола за игру в последних 5 матчах", "Не побеждал «Ростов» дома в последних 5 очных встречах"] }
+      },
+      "prediction": {
+        "winner": "draw",
+        "confidence": "low",
+        "reasoning": "«Ростов» не проигрывает «Рубину» дома в последних 5 очных встречах, но команды идут очень близко друг к другу в таблице (8-е и 10-е места, по 4 очка). Букмекеры и аналитики оценивают ничью как наиболее вероятный исход (39% против 35% на победу хозяев и 26% на «Рубин»). «Рубин» в среднем пропускает 2.60 гола за игру, что добавляет шансов на результативную игру, при этом уверенного фаворита нет.",
+        "goals": { "btts": true, "overUnder25": "under", "predictedScore": "1:1" },
+        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+      },
+      "sources": [
+        "https://www.championat.com/football/news-6582924-rostov-rubin-onlajn-translyaciya-matcha-4-go-tura-rpl-2026-2027-nachnyotsya-v-18-30.html",
+        "https://metaratings.ru/prognozy/futbol/rostov-rubin-prognoz-na-match-rpl-15-avgusta-2026-goda/",
+        "https://www.livesport.ru/tips/football/2026/08/15/rostov-rubin/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "krasnodar-ahmat-2026-08-15",
+      "league": "РПЛ, 4-й тур",
+      "kickoff": "2026-08-15T20:45:00+03:00",
+      "home": { "name": "Краснодар", "tablePosition": 1 },
+      "away": { "name": "Ахмат", "tablePosition": 14 },
+      "h2h": {
+        "summary": "Краснодар выигрывал 17 раз, Ахмат — 13, вничью — 8. Последняя очная встреча — 5 августа 2026 в Кубке России, боевая ничья 1:1 в основное время, по пенальти прошёл Краснодар (5:4).",
+        "record": { "homeWins": 17, "draws": 8, "awayWins": 13 }
+      },
+      "form": {
+        "home": { "last5": "Единственная команда РПЛ без потерянных очков после 3 туров — 3 победы из 3", "goalsScoredAvg": null, "goalsConcededAvg": null },
+        "away": { "last5": "Без побед в первых турах, в прошлом туре ничья 0:0 с Факелом", "goalsScoredAvg": null, "goalsConcededAvg": null }
+      },
+      "strengthsWeaknesses": {
+        "home": { "strengths": ["Единоличный лидер РПЛ, 9 очков из 9 возможных", "Игра на своём поле (Ozon Arena)", "Преимущество в личных встречах (17 побед против 13)"], "weaknesses": ["Свежая физическая нагрузка после серии пенальти в Кубке России 5 августа"] },
+        "away": { "strengths": ["Крепкая оборона в последнем туре (0:0 с Факелом)"], "weaknesses": ["14-е место в таблице, без победных очков в чемпионате", "Букмекеры дают лишь 6.10 на выездную победу против 1.52 у хозяев"] }
+      },
+      "prediction": {
+        "winner": "home",
+        "confidence": "high",
+        "reasoning": "Краснодар — единственная команда РПЛ без потерь очков в первых трёх турах и превосходит соперника по личным встречам; Ахмат пока не одержал ни одной победы в чемпионате.",
+        "goals": { "btts": true, "overUnder25": "over", "predictedScore": "2:1" },
+        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+      },
+      "sources": [
+        "https://www.championat.com/bets/article-6582176-krasnodar-ahmat-prognoz-i-stavka-na-match-15-avgusta-2026-goda-smotret-besplatno-kakoj-kanal-schyot-goly-pryamoj-efir.html",
+        "https://metaratings.ru/prognozy/futbol/krasnodar-ahmat-prognoz-na-match-rpl-15-avgusta-2026-goda/",
+        "https://www.sports.ru/football/1117328817-krasnodar-vyshel-na-1-e-mesto-v-rpl-posle-trex-turov-zenit-spartak-i-b.html"
       ],
       "actualResult": null
     }
