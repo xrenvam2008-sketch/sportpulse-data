@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-15T19:22:40+03:00",
+  "generatedAt": "2026-08-15T23:23:02+03:00",
   "sport": "hockey",
   "matches": [
     {
@@ -90,9 +90,10 @@
       "sources": [
         "https://metaratings.ru/prognozy/hokkey/ska-avtomobilist-prognoz-na-tovarishcheskij-match-15-avgusta-2026-goda/",
         "https://www.ska.ru/championship/games/46401/",
-        "https://news.sportbox.ru/Vidy_sporta/Hokkej/SKA_Sankt_Peterburg_Avtomobilist_Jekaterinburg"
+        "https://news.sportbox.ru/Vidy_sporta/Hokkej/SKA_Sankt_Peterburg_Avtomobilist_Jekaterinburg",
+        "https://www.championat.com/hockey/news-6583578-ska-avtomobilist-rezultat-matcha-15-avgusta-2026-goda-schet-3-1-tovarischeskij-match.html"
       ],
-      "actualResult": null
+      "actualResult": "3:1"
     }
   ]
 }
