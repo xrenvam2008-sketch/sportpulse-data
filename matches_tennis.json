@@ -1,0 +1,94 @@
+{
+  "generatedAt": "2026-08-15T17:00:00+03:00",
+  "sport": "tennis",
+  "matches": [
+    {
+      "id": "sonmez-anisimova-cincinnati-2026-08-15",
+      "tournament": "Cincinnati Open, WTA 1000",
+      "round": "2 круг",
+      "kickoff": "2026-08-15T18:00:00+03:00",
+      "playerA": { "name": "Зейнеп Сонмез", "ranking": 50 },
+      "playerB": { "name": "Аманда Анисимова", "ranking": 10 },
+      "h2h": { "summary": "Личных встреч не было — первая очная игра.", "record": null },
+      "form": {
+        "playerA": { "last5": "В 1 круге обыграла Дарью Касаткину 2:6, 7:6, 6:3 — камбэк с потерянного второго сета" },
+        "playerB": { "last5": "Получила бай в 1 круге, свежая перед стартом турнира" }
+      },
+      "strengthsWeaknesses": {
+        "playerA": { "strengths": ["Победа над топовым соперником (Касаткина) в 1 круге придаёт уверенности", "Хорошо провела концовку матча"], "weaknesses": ["№50 в рейтинге против топ-10", "Меньше опыта на харде такого уровня"] },
+        "playerB": { "strengths": ["№10 в мире, явный фаворит по рейтингу", "Свежие силы после бая в 1 круге"], "weaknesses": ["Не играла матч уже больше недели — риск нехватки ритма"] }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "high",
+        "reasoning": "Модели букмекеров (Stats Insider, Dimers) дают Анисимовой 76–78% на победу, коэффициенты около 1.28 против 3.75 — явный фаворит по классу и рейтингу.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.statsinsider.com.au/news/zeynep-sonmez-vs-amanda-anisimova-prediction-wta-cincinnati-open-2026",
+        "https://www.dimers.com/tennis/news/zeynep-sonmez-vs-amanda-anisimova-tennis-prediction-wta-cincinnati-open-2026-ac",
+        "https://tennisconnected.com/cincinnati-open-2026-saturday-preview-djokovic-returns-anisimova-faces-sonmez-and-paul-battles-hurkacz/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "djokovic-tirante-cincinnati-2026-08-15",
+      "tournament": "Cincinnati Open, ATP Masters 1000",
+      "round": "2 круг",
+      "kickoff": "2026-08-15T19:10:00+03:00",
+      "playerA": { "name": "Новак Джокович", "ranking": 3 },
+      "playerB": { "name": "Тьяго Агустин Тиранте", "ranking": 58 },
+      "h2h": { "summary": "Личных встреч не было — первая очная игра.", "record": null },
+      "form": {
+        "playerA": { "last5": "На серии из 10 побед подряд, посевная 3-я ракетка турнира" },
+        "playerB": { "last5": "Топ-60 в текущем рейтинге, недавняя игровая практика" }
+      },
+      "strengthsWeaknesses": {
+        "playerA": { "strengths": ["Серия из 10 побед подряд", "Опыт на турнирах такого уровня несравним с соперником", "Посев №3"], "weaknesses": ["Первый матч недели — риск потратить время на раскачку"] },
+        "playerB": { "strengths": ["Свежая игровая практика перед турниром"], "weaknesses": ["№58 против топ-3, явный аутсайдер по букмекерским коэффициентам (4.00 против 1.25)"] }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Джокович — явный фаворит по коэффициентам (1.25 против 4.00) на фоне серии из 10 побед подряд; редакционный прогноз Tennis Tonic — победа Джоковича в 2 сетах.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1041294/h2h-prediction-of-novak-djokovic-vs-thiago-agustin-tirante-in-cincinnati-with-odds-preview-pick-17th-august-2026/",
+        "https://www.sofascore.com/news/novak-djokovic-vs-thiago-agustin-tirante-preview-cincinnati-test-on-hard-courts"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "paul-hurkacz-cincinnati-2026-08-15",
+      "tournament": "Cincinnati Open, ATP Masters 1000",
+      "round": "2 круг",
+      "kickoff": "2026-08-15T21:00:00+03:00",
+      "playerA": { "name": "Томми Пол", "ranking": 18 },
+      "playerB": { "name": "Хуберт Хуркач", "ranking": null },
+      "h2h": {
+        "summary": "7 личных встреч: Хуркач выиграл первые 3, затем Пол выиграл 3 подряд, в последней встрече на Уимблдоне-2026 Хуркач взял верх в четырёх эмоциональных сетах — общий счёт 4:3 в пользу Хуркача.",
+        "record": { "aWins": 3, "bWins": 4 }
+      },
+      "form": {
+        "playerA": { "last5": "После финала Queen's в конце июня не показывает прежний уровень: 3 круг Уимблдона, 1 круг в Вашингтоне, 3 круг в Монреале" },
+        "playerB": { "last5": "Борется с травмами весь 2026 год, постепенно возвращает форму; в 1 круге Цинциннати уверенно обыграл Шо Симабукуро" }
+      },
+      "strengthsWeaknesses": {
+        "playerA": { "strengths": ["Поддержка домашней публики (США)", "Фаворит по коэффициентам букмекеров (1.78, ~55%)"], "weaknesses": ["Спад результатов с конца июня", "Проигрывает личным встречам последнюю игру (Уимблдон)"] },
+        "playerB": { "strengths": ["Психологическое преимущество — победил в последней личной встрече", "Уверенная победа в 1 круге"], "weaknesses": ["Травмы преследуют весь сезон, стабильности пока нет"] }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Редакционный прогноз и букмекерская модель (Betclic, ~55%) на стороне Пола несмотря на то, что в личных встречах последнее слово было за Хуркачем на Уимблдоне — считается одним из самых равных матчей дня.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://tenngrand.com/cincinnati-tennis-previews-picks-predictions-paul-vs-hurkacz-zverev-norrie/",
+        "https://tennisconnected.com/cincinnati-open-2026-saturday-preview-djokovic-returns-anisimova-faces-sonmez-and-paul-battles-hurkacz/"
+      ],
+      "actualResult": null
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "generatedAt": "2026-08-15T17:00:00+03:00",
+  "sport": "hockey",
+  "matches": [
+    {
+      "id": "sochi-sibir-minsk-cup-2026-08-15",
+      "league": "Кубок Минска (товарищеский турнир КХЛ), группа B",
+      "kickoff": "2026-08-15T13:00:00+03:00",
+      "home": { "name": "Сочи", "tablePosition": null },
+      "away": { "name": "Сибирь", "tablePosition": null },
+      "h2h": { "summary": "Свежих личных встреч не найдено — предсезонный товарищеский турнир, составы обновлены.", "record": null },
+      "form": {
+        "home": { "last5": "У «Сочи» — по данным КХЛ, один из лучших составов клуба за много лет и новый тренер, но игровой практики в новом сезоне ещё не было" },
+        "away": { "last5": "Точных данных о недавних результатах не найдено" }
+      },
+      "strengthsWeaknesses": {
+        "home": { "strengths": ["Обновлённый состав, усиление по оценке КХЛ"], "weaknesses": ["Нет игровой практики в новых сочетаниях"] },
+        "away": { "strengths": [], "weaknesses": [] }
+      },
+      "prediction": {
+        "winner": "away",
+        "confidence": "low",
+        "reasoning": "Предсезонный товарищеский турнир (Кубок Минска) — команды обкатывают составы, предсказательная ценность результата низкая.",
+        "predictedScore": "1:3",
+        "keyStats": []
+      },
+      "sources": [
+        "https://www.sport-express.net/hockey/L/matchcenter/132112/",
+        "https://www.khl.ru/news/2026/08/14/564057.html"
+      ],
+      "actualResult": "0:4"
+    },
+    {
+      "id": "dinamo-minsk-metallurg-minsk-cup-2026-08-15",
+      "league": "Кубок Минска (товарищеский турнир КХЛ), группа B",
+      "kickoff": "2026-08-15T17:00:00+03:00",
+      "home": { "name": "Динамо Минск", "tablePosition": null },
+      "away": { "name": "Металлург Магнитогорск", "tablePosition": null },
+      "h2h": { "summary": "Свежих личных встреч не найдено — предсезонный товарищеский турнир, составы обновлены.", "record": null },
+      "form": {
+        "home": { "last5": "Точных данных о недавних результатах не найдено" },
+        "away": { "last5": "Точных данных о недавних результатах не найдено" }
+      },
+      "strengthsWeaknesses": {
+        "home": { "strengths": ["Игра на своей площадке (Олимпик-Арена, Минск)"], "weaknesses": [] },
+        "away": { "strengths": [], "weaknesses": [] }
+      },
+      "prediction": {
+        "winner": "draw",
+        "confidence": "low",
+        "reasoning": "Предсезонный товарищеский турнир — уверенного фаворита по открытым источникам не выделяется, предсказательная ценность результата низкая.",
+        "predictedScore": "2:2",
+        "keyStats": []
+      },
+      "sources": [
+        "https://metaratings.by/blog/dinamo-minsk-metallurg-15-avgusta-2026-goda-kak-smotret-onlajn-match-kubka-minska-translyaciya-sostavy/",
+        "https://www.sports.ru/hockey/1117334421-kubok-minska-sochi-protiv-sibiri-dinamo-minsk-sygraet-s-metallurgom-za.html"
+      ],
+      "actualResult": null
+    }
+  ]
+}
