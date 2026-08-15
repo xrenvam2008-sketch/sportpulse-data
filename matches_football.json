@@ -1,0 +1,117 @@
+{
+  "generatedAt": "2026-08-14T20:00:00+03:00",
+  "sport": "football",
+  "matches": [
+    {
+      "id": "orenburg-lokomotiv-2026-08-14",
+      "league": "РПЛ, 4-й тур",
+      "kickoff": "2026-08-14T17:00:00+03:00",
+      "home": { "name": "Оренбург", "tablePosition": 10 },
+      "away": { "name": "Локомотив", "tablePosition": 13 },
+      "h2h": {
+        "summary": "Локомотив не проигрывает Оренбургу с сентября 2023 года — 6 побед в последних 7 очных встречах, дважды подряд не позволял сопернику забить.",
+        "record": { "homeWins": 0, "draws": 1, "awayWins": 6 }
+      },
+      "form": {
+        "home": { "last5": "слабая оборона", "goalsScoredAvg": 1.0, "goalsConcededAvg": 2.4 },
+        "away": { "last5": "крепче в обороне, чем в атаке", "goalsScoredAvg": null, "goalsConcededAvg": 1.4 }
+      },
+      "strengthsWeaknesses": {
+        "home": {
+          "strengths": ["игра на своём поле"],
+          "weaknesses": ["в среднем пропускает 2.4 гола за игру в последних 5 матчах", "10-е место после 3 туров"]
+        },
+        "away": {
+          "strengths": ["пропускает в среднем 1.4 гола за игру", "исторически доминирует в очных встречах"],
+          "weaknesses": ["только 2 очка в 3 турах, 13-е место — проблемы с реализацией на старте сезона"]
+        }
+      },
+      "prediction": {
+        "winner": "away",
+        "confidence": "medium",
+        "reasoning": "Серия из 6 побед в 7 личных встречах и заметно более крепкая оборона Локомотива перевешивают текущее турнирное положение.",
+        "goals": { "btts": true, "overUnder25": "under", "predictedScore": "1:2" },
+        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+      },
+      "sources": [
+        "https://www.championat.ru/football/news-6581728-orenburg-lokomotiv-startovye-sostavy-komand-na-match-4-go-tura-rpl-sezona-2026-2027-14-avgusta-2026.html",
+        "https://www.euro-football.ru/prognozy/1006264345_aktualnaya_stavka_i_prognoz_na_match_orenburg__lokomotiv_rpl__14_avgusta_2026"
+      ],
+      "actualResult": "1:1"
+    },
+    {
+      "id": "rotor-ural-2026-08-14",
+      "league": "Первая лига (PARI), 6-й тур",
+      "kickoff": "2026-08-14T19:30:00+03:00",
+      "home": { "name": "Ротор", "tablePosition": 5 },
+      "away": { "name": "Урал", "tablePosition": null },
+      "h2h": {
+        "summary": "Команды сыграли вничью пятую очную встречу подряд в Первой лиге. Предыдущая игра 9 марта 2026 года также завершилась 1:1.",
+        "record": null
+      },
+      "form": {
+        "home": { "last5": "3П-2Н" , "goalsScoredAvg": null, "goalsConcededAvg": null },
+        "away": { "last5": "В-В-В-Н-П (обыграл Уфу 3:0, СКА-Хабаровск 3:0, Енисей 3:0, ничья с Ленинградцем 0:0, поражение от Торпедо Москва 0:1)", "goalsScoredAvg": 1.8, "goalsConcededAvg": 0.2 }
+      },
+      "strengthsWeaknesses": {
+        "home": {
+          "strengths": ["9 очков в 5 турах, 5-е место"],
+          "weaknesses": ["в очных встречах с Уралом 5 ничьих подряд — тяжело дожать соперника"]
+        },
+        "away": {
+          "strengths": ["10 очков из 15 возможных в последних 5 турах", "лучшая разница голов лиги в этом отрезке: 9 забито, 1 пропущен"],
+          "weaknesses": ["исторически тоже не может дожать именно Ротор — 5 ничьих подряд в очных встречах"]
+        }
+      },
+      "prediction": {
+        "winner": "draw",
+        "confidence": "medium",
+        "reasoning": "Пять ничьих подряд в личных встречах — сильный статистический паттерн, который перевешивает явное игровое преимущество Урала по разнице голов в отрыве от очных игр.",
+        "goals": { "btts": true, "overUnder25": "under", "predictedScore": "1:1" },
+        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+      },
+      "sources": [
+        "https://legalbet.ru/match-center/rotor-ural-14-08-2026/",
+        "https://www.championat.com/bets/article-6578526-rotor-ural-prognoz-na-match-pervoj-ligi-14-avgusta-2026-goda.html"
+      ],
+      "actualResult": "1:1"
+    },
+    {
+      "id": "neftekhimik-shinnik-2026-08-14",
+      "league": "Первая лига (PARI), 6-й тур",
+      "kickoff": "2026-08-14T18:00:00+03:00",
+      "home": { "name": "Нефтехимик", "tablePosition": 13 },
+      "away": { "name": "Шинник", "tablePosition": null },
+      "h2h": {
+        "summary": "Явной свежей серии личных встреч в источниках не найдено — оба клуба находятся в середине/низу таблицы Первой лиги.",
+        "record": null
+      },
+      "form": {
+        "home": { "last5": "2В-3П, дома не проигрывает 5 матчей подряд, но забивает мало", "goalsScoredAvg": 0.6, "goalsConcededAvg": null },
+        "away": { "last5": "1В-1П-3Н, всего 1 победа в последних 7 гостевых матчах (ничьи 1:1 с Торпедо, 2:2 с Сочи)", "goalsScoredAvg": null, "goalsConcededAvg": null }
+      },
+      "strengthsWeaknesses": {
+        "home": {
+          "strengths": ["не проигрывает дома 5 матчей подряд", "плотная, вязкая игра — контроль центра поля и стандарты"],
+          "weaknesses": ["всего 3 гола в 5 турах — проблема с реализацией"]
+        },
+        "away": {
+          "strengths": ["стабильно забивает и пропускает в очных матчах (1:1, 2:2)"],
+          "weaknesses": ["только 1 победа в 7 последних выездных играх"]
+        }
+      },
+      "prediction": {
+        "winner": "draw",
+        "confidence": "low",
+        "reasoning": "Букмекерский рынок чуть отдаёт предпочтение результативности ниже среднего (ТМ 2.5 по коэффициенту 1.53 против ТБ 2.5 по 2.55), что не совсем совпадает с атакующей статистикой Шинника в последних очных играх — уверенность в прогнозе ниже, чем по остальным матчам тура.",
+        "goals": { "btts": false, "overUnder25": "under", "predictedScore": "1:0" },
+        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+      },
+      "sources": [
+        "https://metaratings.ru/prognozy/futbol/neftekhimik-shinnik-prognoz-i-stavki-na-match-ligi-pari-14-avgusta-2026-goda/",
+        "https://www.championat.com/bets/article-6578522-neftehimik-shinnik-prognoz-na-match-pervoj-ligi-14-avgusta-2026-goda.html"
+      ],
+      "actualResult": null
+    }
+  ]
+}
