@@ -1,308 +1,162 @@
 {
-  "generatedAt": "2026-08-15T23:57:00+03:00",
+  "generatedAt": "2026-08-16T01:49:00+03:00",
   "sport": "football",
   "matches": [
     {
-      "id": "ska-habarovsk-veles-2026-08-15",
-      "league": "Первая лига (PARI), 6-й тур",
-      "kickoff": "2026-08-15T08:00:00+03:00",
-      "home": { "name": "СКА-Хабаровск", "tablePosition": null },
-      "away": { "name": "Велес", "tablePosition": 2 },
-      "h2h": { "summary": "Свежих личных встреч этого сезона не найдено.", "record": null },
-      "form": {
-        "home": { "last5": "0 очков в первых 5 турах — худший старт сезона в лиге, команда в зоне вылета", "goalsScoredAvg": null, "goalsConcededAvg": null },
-        "away": { "last5": "4 победы в первых 5 турах, 12 очков, 2-е место в таблице; в 5-м туре обыграл Ленинградец 2:1 (голы Смирнова и Галкина)", "goalsScoredAvg": null, "goalsConcededAvg": null }
-      },
-      "strengthsWeaknesses": {
-        "home": { "strengths": ["Игра на своём поле"], "weaknesses": ["0 очков в первых 5 турах — худший старт сезона в лиге"] },
-        "away": { "strengths": ["2-е место в таблице, 12 очков после 5 туров", "Победная серия — обыграли Ленинградца в прошлом туре 2:1"], "weaknesses": ["Выездная игра против мотивированного аутсайдера, которому нечего терять"] }
-      },
-      "prediction": {
-        "winner": "away",
-        "confidence": "medium",
-        "reasoning": "Велес идёт вторым в таблице и подходит к матчу в лучшей форме (12 очков, победа в прошлом туре), тогда как СКА-Хабаровск имеет худший старт сезона в лиге — 0 очков после 5 туров. Источники (championat, sport-express) единодушны в оценке фаворита.",
-        "goals": { "btts": false, "overUnder25": "under", "predictedScore": "0:1" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
-      },
-      "sources": [
-        "https://www.championat.com/football/news-6582814-raspisanie-matchej-chempionata-rossii-po-futbolu-2026-2027-na-15-avgusta.html",
-        "https://www.sport-express.net/football/rus_d1/news/pervaya-liga-2026-2027-raspisaniye-matchey-6-go-tura-fnl-2447001/",
-        "https://www.championat.ru/football/news-6575962-veles-leningradec-rezultat-matcha-9-avgusta-schet-2-1-5-j-tur-pervoj-ligi-2026-2027.html"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "enisey-kamaz-2026-08-15",
-      "league": "Первая лига (PARI), 6-й тур",
-      "kickoff": "2026-08-15T12:00:00+03:00",
-      "home": { "name": "Енисей", "tablePosition": 4 },
-      "away": { "name": "КАМАЗ", "tablePosition": 17 },
-      "h2h": { "summary": "Свежих личных встреч этого сезона не найдено.", "record": null },
-      "form": {
-        "home": { "last5": "4-е место в таблице, 8 очков после 5 туров; в прошлом туре сыграл вничью 0:0 с Текстильщиком", "goalsScoredAvg": null, "goalsConcededAvg": null },
-        "away": { "last5": "17-е место, 1 очко после 5 туров — в зоне вылета; в прошлом туре уступил Волге Ульяновск 1:2", "goalsScoredAvg": null, "goalsConcededAvg": null }
-      },
-      "strengthsWeaknesses": {
-        "home": { "strengths": ["4-е место в таблице против 17-го у соперника", "Игра на своём поле", "Атакующий стиль игры по оценке аналитиков (MetaRatings)"], "weaknesses": [] },
-        "away": { "strengths": ["Играет без турнирного давления, будучи уже в зоне вылета"], "weaknesses": ["Всего 1 очко после 5 туров — один из худших результатов в лиге", "Поражение в прошлом туре от Волги Ульяновск"] }
-      },
-      "prediction": {
-        "winner": "home",
-        "confidence": "medium",
-        "reasoning": "MetaRatings и другие источники считают Енисей фаворитом дома: команда идёт 4-й с 8 очками, тогда как КАМАЗ — в зоне вылета с 1 очком после 5 туров. Букмекерские коэффициенты (около 1.92 на победу хозяев) подтверждают статус фаворита.",
-        "goals": { "btts": true, "overUnder25": "over", "predictedScore": "2:1" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
-      },
-      "sources": [
-        "https://metaratings.ru/prognozy/futbol/enisey-kamaz-prognoz-i-stavki-na-match-ligi-pari-15-avgusta-2026-goda/",
-        "https://www.redyarsk.ru/stat/teaminfo.php?tournament=226&id=150",
-        "https://www.soccer.ru/kamaz/table"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "chelyabinsk-torpedo-2026-08-15",
-      "league": "Первая лига (PARI), 6-й тур",
-      "kickoff": "2026-08-15T13:30:00+03:00",
-      "home": { "name": "Челябинск", "tablePosition": 11 },
-      "away": { "name": "Торпедо Москва", "tablePosition": 10 },
-      "h2h": {
-        "summary": "В последних 4 встречах преимущество у «Торпедо» — 2 победы против 1 у «Челябинска» и 1 ничья; всего забито 11 мячей, из них 6 — на счету «Торпедо».",
-        "record": null
-      },
-      "form": {
-        "home": { "last5": "11-е место, 6 очков после 5 туров", "goalsScoredAvg": null, "goalsConcededAvg": null },
-        "away": { "last5": "10-е место, 7 очков после 5 туров; поражение 1:2 от «Сочи» в прошлом туре", "goalsScoredAvg": null, "goalsConcededAvg": null }
-      },
-      "strengthsWeaknesses": {
-        "home": { "strengths": ["Игра на своём поле"], "weaknesses": ["11-е место в таблице, лишь 6 очков после 5 туров", "Нестабильная оборона по оценке аналитиков"] },
-        "away": { "strengths": ["Выше соперника в таблице (10-е место против 11-го)", "Преимущество в личных встречах последних лет"], "weaknesses": ["Поражение 1:2 от «Сочи» в прошлом туре", "Нестабильная оборона по оценке аналитиков"] }
-      },
-      "prediction": {
-        "winner": "away",
-        "confidence": "low",
-        "reasoning": "Букмекеры считают «Торпедо» небольшим фаворитом (коэффициент 2.28 против 3.42 на победу «Челябинска», 3.17 на ничью), и в личных встречах гости также сильнее. Однако «Торпедо» подходит к матчу после поражения от «Сочи», а разница в таблице между командами минимальна, поэтому уверенность в исходе невысокая.",
-        "goals": { "btts": true, "overUnder25": "over", "predictedScore": "1:2" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
-      },
-      "sources": [
-        "https://www.livesport.ru/tips/football/2026/08/15/chelyabinsk-torpedo/",
-        "https://metaratings.ru/prognozy/futbol/chelyabinsk-torpedo-prognoz-i-stavki-na-match-ligi-pari-15-avgusta-2026-goda/",
-        "https://www.sport-express.net/football/rus_d1/news/chelyabinsk-torpedo-pryamaya-translyaciya-matcha-fnl-gde-smotret-onlayn-video-15-avgusta-2026-2446981/"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "rodina-akron-2026-08-15",
+      "id": "zenit-dinamo-moskva-2026-08-16",
       "league": "РПЛ, 4-й тур",
-      "kickoff": "2026-08-15T14:00:00+03:00",
-      "home": { "name": "Родина", "tablePosition": 12 },
-      "away": { "name": "Акрон", "tablePosition": 16 },
+      "kickoff": "2026-08-16T14:30:00+03:00",
+      "home": { "name": "Зенит", "tablePosition": 2 },
+      "away": { "name": "Динамо Москва", "tablePosition": 8 },
       "h2h": {
-        "summary": "Всего сыграно 4 официальных матча: 1 победа «Родины», 2 победы «Акрона», 1 ничья. Игры между командами часто результативны — в 3 из последних 5 очных встреч забито 3 и более мячей.",
-        "record": { "homeWins": 1, "draws": 1, "awayWins": 2 }
+        "summary": "Зенит выигрывает 10 из 11 последних личных встреч на своём поле в РПЛ. В последнем очном матче 22 марта 2026 года «Зенит» победил 3:1. Всего в 10 последних встречах — 6 побед Зенита, 3 победы Динамо, 1 ничья.",
+        "record": { "homeWins": 6, "draws": 1, "awayWins": 3 }
       },
       "form": {
-        "home": { "last5": "12-е место, 3 очка после 3 туров (1 победа, 2 поражения); неожиданно обыграла в гостях «Зенит» (2:1), ранее разгромила «Рубин» 5:0 в Кубке России", "goalsScoredAvg": null, "goalsConcededAvg": 1.6 },
-        "away": { "last5": "Последнее, 16-е место в таблице; сыграла вничью с «Локомотивом» 0:0, до этого пропустила 4 гола от «Ростова» в Кубке и 5 от «Зенита» в РПЛ", "goalsScoredAvg": 0.2, "goalsConcededAvg": null }
+        "home": { "last5": "Атака Зенита — лучшая в лиге по сумме xG (6,44 за первые три тура), но команда неожиданно уступила дома новичку РПЛ «Родине» (1:2) в 3-м туре", "goalsScoredAvg": null, "goalsConcededAvg": null },
+        "away": { "last5": "После возвращения Сандро Шварца «Динамо» не выигрывало 2 первых матча, затем одержало 2 победы подряд: 1:0 с «Факелом» (Кубок) и 3:1 с «Динамо» Махачкала (РПЛ)", "goalsScoredAvg": null, "goalsConcededAvg": null }
       },
       "strengthsWeaknesses": {
-        "home": { "strengths": ["Неожиданная победа над «Зенитом» в гостях (2:1)", "Разгромила «Рубин» 5:0 в Кубке России", "Игра на своём поле (Арена Химки)"], "weaknesses": ["В среднем пропускает 1.60 гола за игру в последних 5 матчах"] },
-        "away": { "strengths": ["Не проиграла в последнем туре (0:0 с «Локомотивом»)"], "weaknesses": ["В среднем забивает лишь 0.20 гола за игру в последних 5 матчах", "Последнее место в таблице РПЛ после 3 туров", "Пропустила 4 гола от «Ростова» в Кубке и 5 от «Зенита» в РПЛ"] }
-      },
-      "prediction": {
-        "winner": "home",
-        "confidence": "low",
-        "reasoning": "«Родина» неожиданно обыграла «Зенит» в гостях и разгромила «Рубин» 5:0 в Кубке, но в среднем пропускает 1.60 гола за игру. «Акрон» идёт последним в таблице и испытывает серьёзные проблемы с атакой (0.20 забитого гола в среднем за игру). Тем не менее букмекеры не видят явного фаворита, поэтому уверенность в исходе невысокая.",
-        "goals": { "btts": true, "overUnder25": "over", "predictedScore": "2:1" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
-      },
-      "sources": [
-        "https://www.championat.com/bets/article-6580826-rodina-akron-prognoz-i-translyaciya-15-avgusta-2026-goda.html",
-        "https://metaratings.ru/prognozy/futbol/rodina-akron-prognoz-na-match-rpl-15-avgusta-2026-goda/",
-        "https://blog.marathonbet.ru/prognoz-rodina-akron-15-08-2026/"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "leningradec-arsenal-tula-2026-08-15",
-      "league": "Первая лига (PARI), 6-й тур",
-      "kickoff": "2026-08-15T16:00:00+03:00",
-      "home": { "name": "Ленинградец", "tablePosition": 15 },
-      "away": { "name": "Арсенал Тула", "tablePosition": 10 },
-      "h2h": { "summary": "Свежих личных встреч этого сезона не найдено.", "record": null },
-      "form": {
-        "home": { "last5": "15-е место, 4 очка после 5 туров; поражение 1:2 от «Велеса» в прошлом туре", "goalsScoredAvg": null, "goalsConcededAvg": null },
-        "away": { "last5": "10-е место, 8 очков после 5 туров; в прошлом туре сыграл вничью 2:2 с «Шинником»", "goalsScoredAvg": null, "goalsConcededAvg": null }
-      },
-      "strengthsWeaknesses": {
-        "home": { "strengths": ["Игра на своём поле"], "weaknesses": ["Поражение в прошлом туре от «Велеса»", "15-е место в таблице"] },
-        "away": { "strengths": ["Выше соперника в таблице (10-е место против 15-го)", "Набрал больше очков за 5 туров (8 против 4)"], "weaknesses": ["Не смог обыграть аутсайдера «Шинник» в прошлом туре (2:2)"] }
-      },
-      "prediction": {
-        "winner": "away",
-        "confidence": "low",
-        "reasoning": "«Арсенал Тула» выше соперника в таблице и набрал вдвое больше очков за 5 туров, что делает его небольшим фаворитом по оценке LiveSport (коэффициент 2.09). Однако точных данных о результативности недостаточно для уверенного прогноза счёта.",
-        "goals": { "btts": true, "overUnder25": "over", "predictedScore": "1:2" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
-      },
-      "sources": [
-        "https://www.livesport.ru/tips/football/2026/08/15/leningradec-arsenal-tula/",
-        "https://metaratings.ru/prognozy/futbol/leningradets-arsenal-tula-prognoz-i-stavki-na-match-ligi-pari-15-avgusta-2026-goda/",
-        "https://www.championat.com/football/news-6576244-pervaya-liga-po-futbolu-2026-2027-rezultaty-na-9-avgusta-2026-kalendar-tablica.html"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "cska-fakel-2026-08-15",
-      "league": "РПЛ, 4-й тур",
-      "kickoff": "2026-08-15T16:15:00+03:00",
-      "home": { "name": "ЦСКА", "tablePosition": 6 },
-      "away": { "name": "Факел", "tablePosition": null },
-      "h2h": {
-        "summary": "В 7 сыгранных матчах ЦСКА выиграл 3 раза, «Факел» — 2, вничью — 2. Последняя встреча (8 декабря 2024, РПЛ) завершилась победой ЦСКА 2:0. Крупнейшая победа ЦСКА — 5:1.",
-        "record": { "homeWins": 3, "draws": 2, "awayWins": 2 }
-      },
-      "form": {
-        "home": { "last5": "Не проиграла ни одного матча в сезоне РПЛ, 5 очков после 3 туров, в прошлом туре сыграла вничью 0:0 с «Ростовом»", "goalsScoredAvg": null, "goalsConcededAvg": null },
-        "away": { "last5": "1 очко после 3 туров — в прошлом туре сыграл вничью 0:0 с «Ахматом», до этого без очков", "goalsScoredAvg": null, "goalsConcededAvg": null }
-      },
-      "strengthsWeaknesses": {
-        "home": { "strengths": ["Не проиграла ни одного матча в сезоне РПЛ", "Явный фаворит по коэффициентам букмекеров (около 1.40 на победу)", "Игра на своём поле (ВЭБ Арена)", "Преимущество в личных встречах (3 победы против 2 у «Факела»)"], "weaknesses": ["Лишь шестое место в таблице при статусе одного из фаворитов сезона"] },
-        "away": { "strengths": ["Первое очко в сезоне добыто в предыдущем туре"], "weaknesses": ["Результаты не внушают оптимизма — 1 очко после 3 туров", "Явный аутсайдер по коэффициентам (около 8.36 на победу)"] }
+        "home": {
+          "strengths": ["Лучшая атака лиги по сумме xG после 3 туров (6,44)", "Подавляющее преимущество в личных встречах с Динамо на своём поле (10 из 11 побед)", "Чаще соперника подаёт угловые дома против Динамо (8 из 10 последних встреч)"],
+          "weaknesses": ["Неожиданное домашнее поражение от дебютанта лиги «Родины» (1:2) в прошлом туре показало уязвимость обороны"]
+        },
+        "away": {
+          "strengths": ["Победная серия из 2 матчей перед туром (Факел, Динамо Махачкала)", "Крупная победа 3:1 над принципиальным соперником — Динамо Махачкала"],
+          "weaknesses": ["Только 8-е место в таблице после 3 туров (4 очка)", "Тяжёлый старт сезона под руководством Шварца — без побед в первых 2 матчах"]
+        }
       },
       "prediction": {
         "winner": "home",
         "confidence": "high",
-        "reasoning": "ЦСКА не проигрывает в этом сезоне и является явным фаворитом по коэффициентам букмекеров (около 1.40 на победу против 8.36 на «Факел») — эта оценка совпадает у legalbet, championat и metaratings. В личных встречах ЦСКА также сильнее (3 победы против 2 у «Факела» в 7 матчах). «Факел» пока набрал лишь 1 очко в 3 турах.",
-        "goals": { "btts": false, "overUnder25": "under", "predictedScore": "2:0" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+        "reasoning": "Букмекеры уверенно выделяют Зенит фаворитом (П1 около 1,65 против 5,10 на победу Динамо), и это подтверждается доминирующей статистикой личных встреч на своём поле (10 из 11 побед) и лучшей атакой лиги по xG. Динамо подходит к матчу в улучшающейся форме (2 победы подряд), что добавляет неопределённости, но исторически на своём поле Зенит справляется с Динамо без больших проблем. Источники (Спорт-Экспресс, Legalbet, Metaratings, bookmaker-ratings) сходятся в оценке фаворита.",
+        "goals": { "btts": true, "overUnder25": "over", "predictedScore": "3:1" },
+        "corners": { "status": "unavailable", "note": "Точной статистики угловых по конкретным средним показателям (например footystats) не найдено; известно лишь, что Зенит дома против Динамо исторически подаёт больше угловых (8 из 10 последних встреч)." }
       },
       "sources": [
-        "https://www.championat.com/bets/article-6580846-cska-fakel-prognoz-i-translyaciya-matcha-15-avgusta-2026.html",
-        "https://legalbet.ru/match-center/cska-fakel-15-08-2026/",
-        "https://metaratings.ru/prognozy/futbol/cska-moskva-fakel-voronezh-prognoz-na-match-rpl-15-avgusta-2026-goda/"
+        "https://www.sport-express.net/football/rfpl/fbl_match-zenit-dinamo-444278/",
+        "https://blog.marathonbet.ru/prognoz-zenit-dynamo-16-08-2026/",
+        "https://www.championat.com/bets/article-6582204-zenit-dinamo-m-prognoz-na-match-16-avgusta-2026-goda.html",
+        "https://bookmaker-ratings.ru/match/football/rpl/zenit-dynamo-moscow-16-08-2026/",
+        "https://legalbet.ru/match-center/zenit-dinamo-moscow-16-08-2026/",
+        "https://metaratings.ru/prognozy/futbol/zenit-dinamo-prognoz-na-match-rpl-16-avgusta-2026-goda/"
       ],
       "actualResult": null
     },
     {
-      "id": "tekstilshchik-nizhny-novgorod-2026-08-15",
-      "league": "Первая лига (PARI), 6-й тур",
-      "kickoff": "2026-08-15T17:00:00+03:00",
-      "home": { "name": "Текстильщик", "tablePosition": null },
-      "away": { "name": "Нижний Новгород", "tablePosition": 1 },
-      "h2h": { "summary": "Свежих личных встреч этого сезона не найдено.", "record": null },
+      "id": "krylya-sovetov-dinamo-mahachkala-2026-08-16",
+      "league": "РПЛ, 4-й тур",
+      "kickoff": "2026-08-16T17:00:00+03:00",
+      "home": { "name": "Крылья Советов", "tablePosition": null },
+      "away": { "name": "Динамо Махачкала", "tablePosition": 5 },
+      "h2h": {
+        "summary": "В 7 официальных очных встречах у Динамо Махачкала 4 победы, у Крыльев — 2, 1 ничья. Однако 4 августа 2026 года Крылья обыграли Динамо Махачкала 2:1 в 1/8 Кубка России — самая свежая очная встреча.",
+        "record": { "homeWins": 2, "draws": 1, "awayWins": 4 }
+      },
       "form": {
-        "home": { "last5": "3 очка после 5 туров — зона вылета; в прошлом туре сыграл вничью 0:0 с «Енисеем»", "goalsScoredAvg": null, "goalsConcededAvg": null },
-        "away": { "last5": "Единоличный лидер турнирной таблицы, 15 очков после 5 туров", "goalsScoredAvg": null, "goalsConcededAvg": null }
+        "home": { "last5": "Крылья Советов не имеют побед в РПЛ в этом сезоне: 0:0 с Динамо Москва, 1:1 с ЦСКА, 0:2 с Балтикой — 2 очка за 3 тура; при этом дома команда не проигрывала с нулевой форой в 8 из последних 9 матчей РПЛ (5 побед, 3 ничьи)", "goalsScoredAvg": null, "goalsConcededAvg": null },
+        "away": { "last5": "Начали сезон уверенно (победы над Факелом 2:1 и Локомотивом 2:1), но в 3-м туре крупно уступили Динамо Москва 1:3, а 4 августа проиграли Крыльям в Кубке 1:2", "goalsScoredAvg": null, "goalsConcededAvg": null }
       },
       "strengthsWeaknesses": {
-        "home": { "strengths": ["Игра на своём поле", "Не пропустил в прошлом туре (0:0 с «Енисеем»)"], "weaknesses": ["В зоне вылета, 3 очка после 5 туров"] },
-        "away": { "strengths": ["Единоличный лидер таблицы Первой лиги, 15 очков"], "weaknesses": ["Выездная игра против мотивированного аутсайдера"] }
-      },
-      "prediction": {
-        "winner": "away",
-        "confidence": "high",
-        "reasoning": "Нижний Новгород — единоличный лидер турнирной таблицы (15 очков), Текстильщик — в зоне вылета с 3 очками. MetaRatings также отдаёт победу лидеру.",
-        "goals": { "btts": false, "overUnder25": "over", "predictedScore": "0:2" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
-      },
-      "sources": [
-        "https://metaratings.ru/prognozy/futbol/tekstilshchik-nizhniy-novgorod-prognoz-i-stavki-na-match-ligi-pari-15-avgusta-2026-goda/",
-        "https://www.championat.com/football/article-6576764-pervaya-liga-2026-2027-obzor-5-go-tura-video-golov-tablica-rezultaty-spartak-kostroma-nizhnij-novgorod-veles-ural-rotor.html"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "sochi-volga-2026-08-15",
-      "league": "Первая лига (PARI), 6-й тур",
-      "kickoff": "2026-08-15T18:00:00+03:00",
-      "home": { "name": "Сочи", "tablePosition": 9 },
-      "away": { "name": "Волга Ульяновск", "tablePosition": 13 },
-      "h2h": { "summary": "Свежих личных встреч этого сезона не найдено.", "record": null },
-      "form": {
-        "home": { "last5": "9-е место, 7 очков после 5 туров; победа над «Торпедо» 2:1 в прошлом туре", "goalsScoredAvg": 2.29, "goalsConcededAvg": null },
-        "away": { "last5": "13-е место, 6 очков после 5 туров; победа над «КАМАЗом» 2:1 в прошлом туре", "goalsScoredAvg": null, "goalsConcededAvg": 3.0 }
-      },
-      "strengthsWeaknesses": {
-        "home": { "strengths": ["Одна из самых результативных атак в лиге — в среднем 2.29 гола за матч (дома — 2.50)", "Победная серия — обыграл «Торпедо» в прошлом туре", "Игра на своём поле"], "weaknesses": [] },
-        "away": { "strengths": ["Победа над «КАМАЗом» в прошлом туре (2:1)"], "weaknesses": ["В среднем пропускает 3.00 гола за игру на выезде", "Выездная игра против команды с одной из лучших атак лиги"] }
+        "home": {
+          "strengths": ["Крепкий домашний фундамент — без поражений с нулевой форой в 8 из последних 9 матчей РПЛ дома", "Свежая победа над соперником в Кубке России (2:1, 4 августа)"],
+          "weaknesses": ["Единственная команда без побед в РПЛ в этом сезоне (2 очка за 3 тура)", "Слабая результативность — забивали меньше 2 голов в 5 из последних 6 матчей"]
+        },
+        "away": {
+          "strengths": ["5-е место в таблице РПЛ (6 очков за 3 тура)", "Результативные матчи — во всех 4 официальных играх сезона были голы обеих команд и минимум 3 мяча в сумме"],
+          "weaknesses": ["Крупное поражение от Динамо Москва в прошлом туре (1:3)", "Проиграли Крыльям в Кубке России 1:2 всего 12 дней назад"]
+        }
       },
       "prediction": {
         "winner": "home",
-        "confidence": "medium",
-        "reasoning": "«Сочи» обладает одной из самых результативных атак лиги (2.29 гола за матч, дома — 2.50), а «Волга» на выезде пропускает в среднем 3.00 гола за игру. MetaRatings и другие источники прогнозируют победу хозяев в результативной игре.",
-        "goals": { "btts": true, "overUnder25": "over", "predictedScore": "2:1" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+        "confidence": "low",
+        "reasoning": "Источники расходятся в оценке этого матча: по итоговым очкам и месту в таблице явно сильнее выглядит Динамо Махачкала (5-е место против последнего у Крыльев, которые ещё не выиграли ни разу в РПЛ), но по коэффициентам букмекеров и по недавней очной встрече в Кубке России (победа Крыльев 2:1) фаворитом считается хозяин поля. Линия по тоталу также выглядит противоречиво: букмекеры дают ставку на тотал меньше 2,5, хотя у Динамо Махачкала во всех матчах сезона фиксировалась результативная игра с 3+ голами. Из-за этих противоречий уверенность в прогнозе снижена.",
+        "goals": { "btts": true, "overUnder25": "under", "predictedScore": "1:1" },
+        "corners": { "status": "unavailable", "note": "Нет надёжного источника статистики угловых по этому матчу." }
       },
       "sources": [
-        "https://metaratings.ru/prognozy/futbol/sochi-volga-ulyanovsk-prognoz-i-stavki-na-match-ligi-pari-15-avgusta-2026-goda/",
-        "https://tiu.ru/predictions/football/prognoz-fc-sochi-volga-ulyanovsk-15-08-2026/",
-        "https://www.championat.com/football/article-6576764-pervaya-liga-2026-2027-obzor-5-go-tura-video-golov-tablica-rezultaty-spartak-kostroma-nizhnij-novgorod-veles-ural-rotor.html"
+        "https://www.livesport.ru/tips/football/2026/08/16/krylya-dynamo-makhachkala/",
+        "https://blog.marathonbet.ru/prognoz-krylia-sovetov-dynamo-makhachkala-16-08-2026/",
+        "https://legalbet.ru/match-center/krylia-sovetov-samara-dinamo-makhachkala-16-08-2026/",
+        "https://metaratings.ru/prognozy/futbol/krylya-sovetov-dinamo-mahachkala-prognoz-na-match-rpl-16-avgusta-2026-goda/",
+        "https://www.championat.ru/football/news-6570448-dinamo-mahachkala-krylya-sovetov-rezultat-matcha-4-avgusta-2026-schet-1-2-1-j-tur-puti-rpl-kubka-rossii-2026-2027.html"
       ],
       "actualResult": null
     },
     {
-      "id": "rostov-rubin-2026-08-15",
+      "id": "baltika-spartak-2026-08-16",
       "league": "РПЛ, 4-й тур",
-      "kickoff": "2026-08-15T18:30:00+03:00",
-      "home": { "name": "Ростов", "tablePosition": 8 },
-      "away": { "name": "Рубин", "tablePosition": 10 },
+      "kickoff": "2026-08-16T19:30:00+03:00",
+      "home": { "name": "Балтика", "tablePosition": 4 },
+      "away": { "name": "Спартак", "tablePosition": 3 },
       "h2h": {
-        "summary": "За всю историю встреч сыграно 47 матчей: 18 побед «Ростова», 12 ничьих, 17 побед «Рубина» (общий баланс забитых мячей: 53–52 в пользу «Ростова»). При этом в последних 5 официальных встречах заметное преимущество у «Рубина» — 3 победы против 1 у «Ростова» и 1 ничья; в декабре 2025 «Ростов» выиграл 2:0, но в двух предыдущих очных матчах сезона 2024/25 «Рубин» дважды побеждал 1:0.",
-        "record": { "homeWins": 18, "draws": 12, "awayWins": 17 }
+        "summary": "Балтика доминирует в личных встречах последних лет: 3 победы в последних 4 матчах с общим счётом 5:3. В последней очной встрече 29 ноября 2025 года «Балтика» победила 1:0. Всего 5 встреч: 3 победы Балтики, 2 победы Спартака.",
+        "record": { "homeWins": 3, "draws": 0, "awayWins": 2 }
       },
       "form": {
-        "home": { "last5": "8-е место, 4 очка после 3 туров; в прошлом туре сыграл вничью 0:0 с ЦСКА; в Кубке России неожиданно уступил «Акрону» 0:4", "goalsScoredAvg": null, "goalsConcededAvg": null },
-        "away": { "last5": "10-е место, 4 очка после 3 туров; в прошлом туре сыграл вничью 1:1 с «Оренбургом»; в Кубке России уступил «Родине» 0:5, ранее проиграл «Краснодару» 1:3", "goalsScoredAvg": null, "goalsConcededAvg": null }
+        "home": { "last5": "Одержала 2 победы подряд перед туром, в том числе 2:0 над Крыльями Советов в 3-м туре; в домашних матчах впечатляющая форма — 60% побед в последних 10 играх", "goalsScoredAvg": null, "goalsConcededAvg": 0.7 },
+        "away": { "last5": "Идёт 3-м в таблице с 6 очками после 3 туров, наравне с Балтикой и Динамо Махачкала по очкам", "goalsScoredAvg": 1.7, "goalsConcededAvg": null }
       },
       "strengthsWeaknesses": {
-        "home": { "strengths": ["Не проиграл ЦСКА в прошлом туре (0:0)", "Выше соперника по личным встречам за всю историю (18 побед против 17)", "Игра на своём поле (Ростов Арена)"], "weaknesses": ["Неожиданное поражение 0:4 от «Акрона» в Кубке России", "В последних 5 очных встречах уступает «Рубину» по статистике (1 победа против 3)"] },
-        "away": { "strengths": ["Преимущество в последних 5 личных встречах (3 победы из 5)", "Не проиграл в прошлом туре (1:1 с «Оренбургом»)"], "weaknesses": ["Тяжёлое поражение 0:5 от «Родины» в Кубке России", "Нестабильные результаты в целом за сезон"] }
+        "home": {
+          "strengths": ["Одна из лучших домашних оборон лиги (в среднем 0,70 пропущенного мяча за игру)", "Доминирование в личных встречах со Спартаком (3 победы в последних 4, разница мячей 5:3)", "2 победы подряд перед туром, в том числе разгромная над Крыльями"],
+          "weaknesses": ["Нет подтверждённых источниками данных о слабых сторонах в атаке — очная статистика результативности не найдена"]
+        },
+        "away": {
+          "strengths": ["3-е место в таблице (6 очков за 3 тура)", "Средняя результативность 1,70 забитого мяча за игру"],
+          "weaknesses": ["Проблемы на выезде против Балтики исторически (2 победы в последних 5 личных встречах)", "Тренер Хуан Карлос Карседо ещё не выработал стабильную игру команды в начале сезона"]
+        }
       },
       "prediction": {
         "winner": "draw",
         "confidence": "low",
-        "reasoning": "Источники расходятся в оценке фаворита: букмекерские коэффициенты (около 2.15 на победу «Ростова», 3.10 на ничью) указывают на хозяев как небольшого фаворита, при этом в последних 5 личных встречах статистика на стороне «Рубина» (3 победы из 5). Обе команды имеют по 4 очка после 3 туров и подходят к матчу после неоднозначных кубковых результатов (крупные поражения обеих команд в Кубке России). Из-за противоречивых сигналов уверенность в конкретном исходе невысокая.",
+        "reasoning": "Источники дают противоречивые сигналы: статистика личных встреч и домашняя форма явно на стороне Балтики (лучшая оборона, 3 победы в последних 4 очных матчах), тогда как средние коэффициенты букмекеров отдают предпочтение Спартаку (около 1,96 против 4,05 на победу хозяев). Команды идут вплотную друг к другу в таблице (3-е и 4-е места с равным количеством очков), а один из источников (Чемпионат) напрямую прогнозирует ничью 1:1. Из-за расхождения между статистикой и рыночными коэффициентами уверенность в прогнозе снижена, ставка сделана на равный исход.",
         "goals": { "btts": true, "overUnder25": "under", "predictedScore": "1:1" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+        "corners": { "status": "unavailable", "note": "Нет надёжного источника статистики угловых по этому матчу." }
       },
       "sources": [
-        "https://ria.ru/h2h/rubin_kazan_vs_fc_rostov-8683_8705.html",
-        "https://metaratings.ru/prognozy/futbol/rostov-rubin-prognoz-na-match-rpl-15-avgusta-2026-goda/",
-        "https://www.livesport.ru/tips/football/2026/08/15/rostov-rubin/"
+        "https://www.sport-express.ru/football/rfpl/news/spartak-baltika-16-avgusta-2026-trener-spartaka-huan-karlos-karsedo-podelilsya-ozhidaniyami-ot-matcha-4-tura-rpl-2447352/",
+        "https://bookmaker-ratings.ru/match/football/rpl/baltika-kaliningrad-spartak-moscow-16-08-2026/",
+        "https://betteam.pro/prognozy/futbol/rpl/baltika-spartakmoskva-16-08-2026-prognoz-i-stavki-na-match/23472988",
+        "https://www.championat.com/bets/article-6583110-baltika-spartak-prognoz-i-translyaciya-matcha-4-go-tura-rpl-16-avgusta-2026-goda.html",
+        "https://www.championat.ru/football/article-6574922-krylya-sovetov-baltika-0-2-obzor-matcha-3-go-tura-rpl-video-golov-chivich-hil-statistika-8-avgusta-2026.html"
       ],
       "actualResult": null
     },
     {
-      "id": "krasnodar-ahmat-2026-08-15",
-      "league": "РПЛ, 4-й тур",
-      "kickoff": "2026-08-15T20:45:00+03:00",
-      "home": { "name": "Краснодар", "tablePosition": 1 },
-      "away": { "name": "Ахмат", "tablePosition": null },
-      "h2h": {
-        "summary": "Краснодар выигрывал 17 раз, Ахмат — 13, вничью — 8. Последняя очная встреча — 5 августа 2026 в Кубке России, боевая ничья 1:1 в основное время, по пенальти прошёл Краснодар (5:4).",
-        "record": { "homeWins": 17, "draws": 8, "awayWins": 13 }
-      },
+      "id": "sochi-volga-ulyanovsk-2026-08-16",
+      "league": "Первая лига (PARI), 6-й тур",
+      "kickoff": "2026-08-16T11:30:00+03:00",
+      "home": { "name": "Сочи", "tablePosition": 8 },
+      "away": { "name": "Волга Ульяновск", "tablePosition": 12 },
+      "h2h": { "summary": "Свежих личных встреч этого сезона не найдено.", "record": null },
       "form": {
-        "home": { "last5": "Единственная команда РПЛ без потерянных очков после 3 туров — 3 победы из 3, 9 очков", "goalsScoredAvg": null, "goalsConcededAvg": null },
-        "away": { "last5": "1 очко после 3 туров; в прошлом туре сыграл вничью 0:0 с «Факелом»", "goalsScoredAvg": null, "goalsConcededAvg": null }
+        "home": { "last5": "8-е место в таблице с 7 очками, разница мячей 10:7 после 5 туров; одна из самых результативных атак лиги — в среднем около 2 голов за игру", "goalsScoredAvg": null, "goalsConcededAvg": null },
+        "away": { "last5": "12-е место с 6 очками после 5 туров; в последнем туре обыграла КАМАЗ", "goalsScoredAvg": null, "goalsConcededAvg": null }
       },
       "strengthsWeaknesses": {
-        "home": { "strengths": ["Единоличный лидер РПЛ, 9 очков из 9 возможных", "Игра на своём поле (Ozon Арена)", "Преимущество в личных встречах (17 побед против 13)", "Стабильно результативная атака по оценке аналитиков"], "weaknesses": ["Свежая физическая нагрузка после серии пенальти в Кубке России 5 августа", "По оценке аналитиков не отличается надёжностью в обороне"] },
-        "away": { "strengths": ["Крепкая оборона в последнем туре (0:0 с «Факелом»)", "Способен пользоваться ошибками соперника в атаке"], "weaknesses": ["Лишь 1 очко после 3 туров", "Букмекеры дают невысокие шансы на победу (около 5.60–6.10 на выездную победу против 1.52–1.56 у хозяев)"] }
+        "home": {
+          "strengths": ["Одна из самых результативных атак лиги (~2 гола за игру)", "Играет дома после переноса матча"],
+          "weaknesses": ["Пропускает достаточно много при разнице мячей 10:7 за 5 туров"]
+        },
+        "away": {
+          "strengths": ["Победа в последнем туре над КАМАЗом придала уверенности"],
+          "weaknesses": ["Слабая оборона отмечается прогнозистами как ключевой фактор матча", "Только 12-е место в таблице"]
+        }
       },
       "prediction": {
         "winner": "home",
-        "confidence": "high",
-        "reasoning": "Краснодар — единственная команда РПЛ без потерь очков в первых трёх турах и превосходит соперника по личным встречам (17 побед против 13). Ахмат пока набрал лишь 1 очко в чемпионате. Коэффициенты букмекеров у разных источников немного расходятся (1.56–1.82 на победу «Краснодара»), но все единодушно называют хозяев явным фаворитом.",
-        "goals": { "btts": true, "overUnder25": "over", "predictedScore": "2:1" },
-        "corners": { "status": "unavailable", "note": "нет надёжного источника статистики угловых по этому матчу" }
+        "confidence": "medium",
+        "reasoning": "Матч дважды переносили из-за угрозы атаки БПЛА в Сочи и в итоге перенесли на 16 августа, 11:30 мск. Сочи располагает одной из самых результативных атак Первой лиги и играет дома, тогда как оборона Волги оценивается прогнозистами как слабое место. Источники (Legalbet, Metaratings, Stavkiprognozy) сходятся в ожидании победы хозяев с преимуществом в счёте.",
+        "goals": { "btts": false, "overUnder25": "over", "predictedScore": "2:0" },
+        "corners": { "status": "unavailable", "note": "Нет надёжного источника статистики угловых по этому матчу." }
       },
       "sources": [
-        "https://metaratings.ru/prognozy/futbol/krasnodar-ahmat-prognoz-na-match-rpl-15-avgusta-2026-goda/",
-        "https://www.sportsdaily.ru/prognozy-na-sport/football/krasnodar-ahmat-15-avgusta-2026-1-82-prognoz-na-match-i-stavki-na-sportsdaily-ru/",
-        "https://www.sports.ru/football/1117328817-krasnodar-vyshel-na-1-e-mesto-v-rpl-posle-trex-turov-zenit-spartak-i-b.html"
+        "https://life.ru/p/1912323",
+        "https://metaratings.ru/news/match-6-go-tura-ligi-pari-mezhdu-sochi-i-volgoi-sostoitsya-16-avgusta-644045/",
+        "https://sport24.ru/football/news-874058-match-sochi-volga-perenesen-na-16avgusta-iz-za-bespilotnoy-opasnosti",
+        "https://tiu.ru/predictions/football/prognoz-fc-sochi-volga-ulyanovsk-15-08-2026/",
+        "https://www.championat.com/football/article-6576764-pervaya-liga-2026-2027-obzor-5-go-tura-video-golov-tablica-rezultaty-spartak-kostroma-nizhnij-novgorod-veles-ural-rotor.html"
       ],
       "actualResult": null
     }
