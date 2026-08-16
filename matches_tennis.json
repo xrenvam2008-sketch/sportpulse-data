@@ -1,12 +1,13 @@
 {
-  "generatedAt": "2026-08-16T01:45:00+03:00",
+  "generatedAt": "2026-08-16T04:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
       "id": "zverev-norrie-2026-08-16",
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
-      "kickoff": "2026-08-16T03:30:00+03:00",
+      "kickoff": "2026-08-16T03:10:00+03:00",
+      "status": "live",
       "playerA": { "name": "Александр Зверев", "ranking": 3 },
       "playerB": { "name": "Кэмерон Норри", "ranking": 35 },
       "h2h": { "summary": "Зверев уверенно ведёт в очных встречах и выиграл последнюю дуэль на Australian Open-2026 (3 круг) со счётом 7:5, 4:6, 6:3, 6:1.", "record": { "aWins": 7, "bWins": 2 } },
@@ -21,13 +22,14 @@
       "prediction": {
         "winner": "playerA",
         "confidence": "high",
-        "reasoning": "Модель StatsInsider даёт Звереву 78% на победу, а очный счёт 7:2 и статус первого сеяного турнира явно на его стороне; источники (Sofascore, StatsInsider, Tennis365) не расходятся в оценке фаворита.",
+        "reasoning": "Матч начался в ночной сессии (не раньше 20:10 по местному времени, около 03:10 МСК) на стадионе P&G; модель StatsInsider даёт Звереву 76-78% на победу, очный счёт 7:2 и статус первого сеяного турнира явно на его стороне — источники (Sofascore, StatsInsider, ATP Tour) сходятся в оценке фаворита. Точный текущий счёт по сетам на момент обновления найти не удалось.",
         "predictedScore": "2:0"
       },
       "sources": [
         "https://www.sofascore.com/tennis/match/cameron-norrie-alexander-zverev/nTxsKtN",
         "https://www.statsinsider.com.au/news/alexander-zverev-vs-cameron-norrie-prediction-atp-cincinnati-open-2026",
-        "https://www.tennis365.com/tennis-news/atp-cincinnati-open-draw-2026-novak-djokovic-alexander-zverev-rafael-jodar"
+        "https://www.dimers.com/tennis/news/alexander-zverev-vs-cameron-norrie-tennis-prediction-atp-cincinnati-open-2026-ac",
+        "https://10sballs.com/2026/08/14/cincinnati-open-draws-and-order-of-play-for-saturday-august-15-2026/"
       ],
       "actualResult": null
     },
@@ -36,12 +38,13 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
+      "status": "scheduled",
       "playerA": { "name": "Стефанос Циципас", "ranking": 49 },
       "playerB": { "name": "Феликс Оже-Альяссим", "ranking": 4 },
       "h2h": { "summary": "Циципас ведёт в очных встречах и выиграл последнюю — финал в Дубае весной 2025 года со счётом 6:3, 6:3.", "record": { "aWins": 7, "bWins": 3 } },
       "form": {
         "playerA": { "last5": "16 побед при 13 поражениях в сезоне-2026 (55%), последние 10 матчей — 5:5; в 1 круге в Цинциннати справился с Валентеном Руайе 7:6(4), 7:5, отыгравшись с двух матчболов." },
-        "playerB": { "last5": "29 побед при 14 поражениях в сезоне (67%), последние 10 матчей — 7:3, титул в Монпелье, лучшая серия — 8 побед подряд; в Цинциннати получил бай в 1 круге как 4-й сеяный." }
+        "playerB": { "last5": "29 побед при 14 поражениях в сезоне (67%), последние 10 матчей — 7:3, титул в Монпелье, лучшая серия — 8 побед подряд; в Цинциннати получил бай в 1 круге как 2-й сеяный (4-я ракетка мира)." }
       },
       "strengthsWeaknesses": {
         "playerA": { "strengths": ["Мощный однорукий бэкхенд", "Разнообразная подача", "Опытный боец на турнирах Masters 1000"], "weaknesses": ["Бэкхенд уязвим под давлением на высокой скорости", "Нестабильный сезон-2026", "Психологическая неустойчивость в концовках сетов"] },
@@ -56,7 +59,8 @@
       "sources": [
         "https://www.stevegtennis.com/head-to-head/men/Stefanos_Tsitsipas/Felix_Auger_Aliassime/",
         "https://www.statsinsider.com.au/news/stefanos-tsitsipas-vs-felix-auger-aliassime-prediction-atp-cincinnati-open-2026",
-        "https://www.atptour.com/en/news/tsitsipas-royer-cincinnati-2026-friday"
+        "https://www.atptour.com/en/news/tsitsipas-royer-cincinnati-2026-friday",
+        "https://www.dimers.com/tennis/news/stefanos-tsitsipas-vs-felix-auger-aliassime-tennis-prediction-atp-cincinnati-open-2026-ac"
       ],
       "actualResult": null
     },
@@ -65,6 +69,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
+      "status": "scheduled",
       "playerA": { "name": "Тейлор Фриц", "ranking": 10 },
       "playerB": { "name": "Алекс Михельсен", "ranking": 40 },
       "h2h": { "summary": "Ранее Михельсен вёл 2:0 (Индиан-Уэллс-2026 и Женева-2024), но Фриц отыгрался в четвертьфинале Вашингтона-2026 (6:3, 7:6) — теперь счёт 2:1 в пользу Михельсена.", "record": { "aWins": 1, "bWins": 2 } },
@@ -93,6 +98,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
+      "status": "scheduled",
       "playerA": { "name": "Арина Соболенко", "ranking": 1 },
       "playerB": { "name": "Талия Гибсон", "ranking": 74 },
       "h2h": { "summary": "Личных встреч не было — это первая очная игра.", "record": null },
@@ -122,6 +128,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
+      "status": "scheduled",
       "playerA": { "name": "Ига Швёнтек", "ranking": 5 },
       "playerB": { "name": "Эмилиана Аранго", "ranking": 95 },
       "h2h": { "summary": "Личных встреч не выявлено.", "record": null },
@@ -151,6 +158,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
+      "status": "scheduled",
       "playerA": { "name": "Мирра Андреева", "ranking": 5 },
       "playerB": { "name": "Александра Олийникова", "ranking": 50 },
       "h2h": { "summary": "Личных встреч не выявлено.", "record": null },
@@ -180,6 +188,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T22:30:00+03:00",
+      "status": "scheduled",
       "playerA": { "name": "Бен Шелтон", "ranking": 6 },
       "playerB": { "name": "Жайме Фария", "ranking": 79 },
       "h2h": { "summary": "Личных встреч не выявлено.", "record": null },
@@ -204,39 +213,11 @@
       "actualResult": null
     },
     {
-      "id": "pegula-waltert-2026-08-16",
-      "tournament": "Cincinnati Open, WTA 1000",
-      "round": "2 круг",
-      "kickoff": "2026-08-16T04:30:00+03:00",
-      "playerA": { "name": "Джессика Пегула", "ranking": 3 },
-      "playerB": { "name": "Симона Вальтерт", "ranking": 87 },
-      "h2h": { "summary": "Это первая очная встреча теннисисток.", "record": null },
-      "form": {
-        "playerA": { "last5": "40 побед при 11 поражениях в сезоне-2026 (24-6 на харде) — один из самых стабильных сезонов тура." },
-        "playerB": { "last5": "20 побед при 22 поражениях в сезоне (6-9 на харде) — результаты ниже среднего в 2026 году." }
-      },
-      "strengthsWeaknesses": {
-        "playerA": { "strengths": ["Элитный приём подачи", "Стабильность и надёжность с задней линии", "Один из лучших сезонов тура в 2026"], "weaknesses": ["Не хватает по-настоящему завершающего удара", "Может уступать в мощи более тяжёлым соперницам"] },
-        "playerB": { "strengths": ["Контратакующий стиль", "Карьерный пик рейтинга в 2026"], "weaknesses": ["Отрицательный баланс побед и поражений в сезоне", "Мало опыта против топ-5 соперниц"] }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "high",
-        "reasoning": "Несколько прогнозных моделей (StatsInsider, Dimers) независимо дают Пегуле около 89% на победу — явный фаворит по рейтингу и форме.",
-        "predictedScore": "2:0"
-      },
-      "sources": [
-        "https://tennistonic.com/tennis-news/1041352/h2h-prediction-of-jessica-pegula-vs-simona-waltert-in-cincinnati-with-odds-preview-pick-15th-august-2026/",
-        "https://www.statsinsider.com.au/news/simona-waltert-vs-jessica-pegula-prediction-wta-cincinnati-open-2026",
-        "https://www.wtatennis.com/tournaments/1017/cincinnati/2026/scores/LS055"
-      ],
-      "actualResult": null
-    },
-    {
       "id": "medvedev-trungelliti-2026-08-16",
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
+      "status": "scheduled",
       "playerA": { "name": "Даниил Медведев", "ranking": 7 },
       "playerB": { "name": "Марко Трунджелити", "ranking": 91 },
       "h2h": { "summary": "Ранее встречались один раз (не на харде), победу одержал Трунджелити — счёт 1:0 в его пользу.", "record": { "aWins": 0, "bWins": 1 } },
