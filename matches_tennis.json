@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T10:15:00+03:00",
+  "generatedAt": "2026-08-16T11:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -214,7 +214,7 @@
       "id": "shelton-faria-2026-08-16",
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
-      "kickoff": "2026-08-16T22:30:00+03:00",
+      "kickoff": "2026-08-17T02:00:00+03:00",
       "status": "scheduled",
       "playerA": {
         "name": "Бен Шелтон",
@@ -827,7 +827,7 @@
       "id": "svitolina-valentova-2026-08-16",
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
-      "kickoff": "2026-08-16T22:30:00+03:00",
+      "kickoff": "2026-08-17T04:00:00+03:00",
       "status": "scheduled",
       "playerA": {
         "name": "Элина Свитолина",
@@ -893,7 +893,7 @@
       "id": "gauff-samsonova-2026-08-16",
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
-      "kickoff": "2026-08-16T18:00:00+03:00",
+      "kickoff": "2026-08-17T02:00:00+03:00",
       "status": "scheduled",
       "playerA": {
         "name": "Кори Гауфф",
@@ -1745,6 +1745,80 @@
         "https://tennistonic.com/tennis-news/1035342/toronto-draw-katerina-siniakovas-prediction-with-rakhimova-next-h2h-and-rankings/",
         "https://www.wtatennis.com/news/4559212/siniakova-and-zhang-pick-up-where-they-left-off-to-win-toronto",
         "https://www.sofascore.com/tennis/match/j-bouzas-maneiro-e-svitolina/TAvsfckc"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "sonego-tiafoe-2026-08-16",
+      "tournament": "Cincinnati Open, ATP Masters 1000",
+      "round": "2 круг",
+      "kickoff": "2026-08-17T03:30:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Лоренцо Сонего",
+        "ranking": 88
+      },
+      "playerB": {
+        "name": "Фрэнсис Тиафо",
+        "ranking": 19
+      },
+      "h2h": {
+        "summary": "Сонего уверенно ведёт в очных встречах и выиграл три последние подряд, в том числе на харде; последняя встреча — Шанхай-2023 (хард), Сонего победил 2:6, 6:2, 6:3.",
+        "record": {
+          "aWins": 3,
+          "bWins": 1
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "В 1 круге в Цинциннати уверенно обыграл Шан Цзюньчэна 6:3, 6:3 — первая победа на Masters 1000 в сезоне-2026 после почти шести недель без матчей; ранее проиграл в 1 круге в Монреале Таллону Грикспору, на открытом харде в этом сезоне лишь 2 победы."
+        },
+        "playerB": {
+          "last5": "Сильный сезон-2026 (по разным источникам 30-32 победы и 12-15 поражений, ~68-71%); титул в Халле в июне (финал против Фритца), но тяжёлый вылет в 4 круге Ролан Гаррос от Арнальди, растеряв преимущество 4:1 в четвёртой партии; в 2024 году был финалистом именно в Цинциннати."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Мощный форхенд (около 57% выигранных розыгрышей 'плюс-один')",
+            "Сильная первая и вторая подача (скорость подачи до ~139 миль/ч)",
+            "Ментальная устойчивость в тай-брейках",
+            "Разнообразие — слайс, укороченные, смена темпа"
+          ],
+          "weaknesses": [
+            "Нестабилен против сильных защитников",
+            "Отрицательный баланс на открытом харде за последние сезоны",
+            "Может проваливаться в пассивную игру при потере инициативы"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Атлетизм и мобильность по корту",
+            "Мощный и стабильный бэкхенд",
+            "Прогресс в игре у сетки",
+            "Хороший процент выигрыша очков на чужой второй подаче"
+          ],
+          "weaknesses": [
+            "Один из слабейших показателей приёма подачи в топ-50",
+            "Нестабильность по ходу матча — возможны просадки",
+            "Психологическая неустойчивость в решающих моментах (пример — камбэк Арнальди на РГ-2026)"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "medium",
+        "reasoning": "Букмекерские котировки и прогнозные модели на стороне Тиафо (по разным источникам 59-67% вероятности), плюс более высокий текущий рейтинг, лучшая форма сезона и опыт финалиста именно этого турнира (2024). Но три подряд победы Сонего в очных встречах, включая победы на харде, и его уверенная победа в 1 круге создают риск апсета, поэтому уверенность не выше средней. Точные актуальные рейтинги на дату матча в источниках расходятся (Тиафо №19-23, Сонего №66-88), поэтому указаны наиболее свежие оценки.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.atptour.com/en/players/atp-head-2-head/lorenzo-sonego-vs-frances-tiafoe/su87/td51",
+        "https://www.statsinsider.com.au/news/lorenzo-sonego-vs-frances-tiafoe-prediction-atp-cincinnati-open-2026",
+        "https://www.dimers.com/tennis/news/lorenzo-sonego-vs-frances-tiafoe-tennis-prediction-atp-cincinnati-open-2026-ac",
+        "https://www.bleachernation.com/picks/2026/08/15/sonego-vs-tiafoe-prediction-at-the-western-southern-open-sunday-august-16/",
+        "https://tennisstats.com/players/frances-tiafoe/rankings",
+        "https://tennisstats.com/players/lorenzo-sonego/rankings",
+        "https://www.ansa.it/sito/notizie/sport/tennis/internazionali_di_tennis/2026/08/15/cincinnati-sonego-vince-allesordio-contro-shang_78c50423-41ba-4bd4-9a9f-6150d49894b3.html"
       ],
       "actualResult": null
     }
