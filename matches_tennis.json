@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T16:18:00+03:00",
+  "generatedAt": "2026-08-16T19:19:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -363,7 +363,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Daniil Medvedev",
         "ranking": 7
@@ -435,7 +435,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Ben Shelton",
         "ranking": 6
@@ -502,7 +502,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Lorenzo Musetti",
         "ranking": 14
@@ -578,7 +578,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Casper Ruud",
         "ranking": 17
@@ -724,7 +724,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Mirra Andreeva",
         "ranking": 6
@@ -793,7 +793,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Taylor Townsend",
         "ranking": 94
@@ -866,7 +866,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Sara Bejlek",
         "ranking": 38
@@ -934,7 +934,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Ekaterina Alexandrova",
         "ranking": 19
@@ -1003,7 +1003,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Arthur Rinderknech",
         "ranking": 28
@@ -1075,7 +1075,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Adam Walton",
         "ranking": 97
@@ -1142,7 +1142,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Janice Tjen",
         "ranking": 36
@@ -1209,7 +1209,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Shuai Zhang",
         "ranking": 65
@@ -1279,7 +1279,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Katerina Siniakova",
         "ranking": 45
@@ -1346,7 +1346,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:05:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Marta Kostyuk",
         "ranking": 11
@@ -1418,7 +1418,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:05:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Tamara Korpatsch",
         "ranking": 47
@@ -1486,7 +1486,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "2 круг",
       "kickoff": "2026-08-16T18:05:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Ugo Humbert",
         "ranking": 30
