@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T20:30:00+03:00",
+  "generatedAt": "2026-08-18T21:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -364,7 +364,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "3 круг",
       "kickoff": "2026-08-18T18:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Лернер Тьен",
         "ranking": null
@@ -425,7 +425,7 @@
         "https://www.atptour.com/en/players/atp-head-2-head/learner-tien-vs-frances-tiafoe/t0ha/td51",
         "https://tennistonic.com/head-to-head-compare/Learner-Tien-Vs-Frances-Tiafoe/"
       ],
-      "actualResult": null
+      "actualResult": "2:0"
     },
     {
       "id": "gauff-li-2026-08-18",
@@ -714,7 +714,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "3 круг",
       "kickoff": "2026-08-18T21:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Ван Сиюй",
         "ranking": 108
@@ -857,7 +857,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "3 круг",
       "kickoff": "2026-08-18T17:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Брэндон Накашима",
         "ranking": 21
@@ -923,14 +923,14 @@
         "https://tenngrand.com/cincinnati-tennis-previews-picks-predictions-medvedev-vs-nakashima-tien-tiafoe/",
         "https://www.dimers.com/tennis/news/brandon-nakashima-vs-daniil-medvedev-tennis-prediction-atp-cincinnati-open-2026-ac"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "fritz-merida-2026-08-18",
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "3 круг",
       "kickoff": "2026-08-18T19:30:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Тейлор Фриц",
         "ranking": 9
@@ -994,7 +994,7 @@
         "https://tennistourtalk.com/136649/merida-breaks-into-top-50-with-latest-victory-at-montreal",
         "https://www.tennis.com/tournaments/cincinnati-open/matches/t-fritz-vs-d-merida-2026-08-18"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "fonseca-oconnell-2026-08-18",
@@ -1065,6 +1065,79 @@
         "https://www.atptour.com/en/players/joao-fonseca/f0fv/rankings-history"
       ],
       "actualResult": null
+    },
+    {
+      "id": "zheng-musetti-2026-08-18",
+      "tournament": "Cincinnati Open, ATP Masters 1000",
+      "round": "3 круг",
+      "kickoff": "2026-08-18T19:30:00+03:00",
+      "status": "finished",
+      "playerA": {
+        "name": "Майкл Чжэн",
+        "ranking": 113
+      },
+      "playerB": {
+        "name": "Лоренцо Музетти",
+        "ranking": 13
+      },
+      "h2h": {
+        "summary": "Личных встреч на туре не было — это была первая встреча Музетти и Чжэна, подтверждено данными Sofascore и Tennis Majors.",
+        "record": {
+          "aWins": 0,
+          "bWins": 0
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Квалифаер, вышел в основную сетку через квалификацию; в Цинциннати обыграл Марожана, Юбера (6:4, 6:3) — 4 победы подряд перед матчем с Музетти, карьерный рейтинг-хай около 110-113, 24-12 за 2026 год (16-6 на харде)"
+        },
+        "playerB": {
+          "last5": "11-5 на харде в 2026 году; в 2 круге Цинциннати уверенно обыграл Даниэля Альтмайера 6:4, 6:2 (80% выигранных очков на первой подаче)"
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Мощная подача (29 эйсов за неделю квалификации и основной сетки)",
+            "Высокий процент спасённых брейк-пойнтов (73.3%)",
+            "Уверенная игра с задней линии на морально лёгких матчах",
+            "Явный моментум — 4 победы подряд перед матчем"
+          ],
+          "weaknesses": [
+            "Почти нет опыта игр против топ-20 (это только второй такой матч в карьере)",
+            "Рейтинг вне топ-100 — существенный разрыв в классе с Музетти",
+            "Непроверенная стабильность под давлением на Мастерсах"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Один из лучших одноручных бэкхендов тура",
+            "Высокий процент выигранных очков на первой подаче (80% во 2 круге)",
+            "Хорошая форма на харде в 2026 (11-5)",
+            "Явный фаворит по рейтингу и опыту (топ-15 против непосеянного квалифаера)"
+          ],
+          "weaknesses": [
+            "Историческая нестабильность физической готовности в затяжных матчах",
+            "Может допускать спады концентрации против низкорейтинговых соперников",
+            "Приём подачи не самая сильная сторона на быстром харде"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "high",
+        "reasoning": "Букмекеры и аналитические модели давали Музетти гандикап около -2.5 гейма как явному фавориту: разница в рейтинге (13 против 113), стабильная форма на харде и опыт игры на Мастерсах перевешивали моментум квалифаера Чжэна.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.sofascore.com/news/michael-zheng-vs-lorenzo-musetti-preview-numbers-to-know-before-cincinnati-showdown",
+        "https://www.sportytrader.com/us/picks/michael-zheng-lorenzo-musetti-366435/",
+        "https://www.tennismajors.com/matches/atp/western/michael-zheng-vs-lorenzo-musetti",
+        "https://www.tennismajors.com/atp/musetti-untroubled-on-cincinnati-debut-sets-up-meeting-with-seed-killer-zheng-858641.html",
+        "https://en.wikipedia.org/wiki/Michael_Zheng",
+        "https://www.sportytrader.com/resultat-direct/michael-zheng-lorenzo-musetti-8750571/"
+      ],
+      "actualResult": "2:0"
     }
   ]
 }
