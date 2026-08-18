@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T21:20:00+03:00",
+  "generatedAt": "2026-08-18T22:10:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -432,7 +432,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "3 круг",
       "kickoff": "2026-08-18T22:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Коко Гауфф",
         "ranking": 4
@@ -502,7 +502,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "3 круг",
       "kickoff": "2026-08-18T18:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Катержина Синякова",
         "ranking": 44
@@ -564,16 +564,17 @@
         "https://www.statsinsider.com.au/news/katerina-siniakova-vs-madison-keys-prediction-wta-cincinnati-open-2026",
         "https://www.wincomparator.com/predictions/katerina-siniakova-madison-keys-8750598/",
         "https://matchstat.com/tennis/h2h-odds-bets/Madison%20Keys/Katerina%20Siniakova/",
-        "https://www.sofascore.com/tennis/match/katerina-siniakova-madison-keys/ziosBXD"
+        "https://en.tennistemple.com/video/madison-keys-defeats-katerina-siniakova-at/HT93l",
+        "https://www.wtatennis.com/tournaments/1017/cincinnati/2026/scores/LS018"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "tjen-andreeva-2026-08-18",
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "3 круг",
       "kickoff": "2026-08-18T19:10:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Джанис Тьен",
         "ranking": 37
@@ -633,10 +634,10 @@
         "https://www.statsinsider.com.au/news/janice-tjen-vs-mirra-andreeva-prediction-wta-cincinnati-open-2026",
         "https://www.livesport.ru/tips/tennis/2026/08/18/janice-tjen-mirra-andreeva/",
         "https://legalbet.ru/tennis/tjen-j-andreeva-m-17-08-2026/",
-        "https://ru.wikipedia.org/wiki/Тьен,_Джанис",
-        "https://scores24.live/en/tennis/m-18-08-2026-tjen-janice-andreeva-mirra"
+        "https://www.sofascore.com/tennis/match/mirra-andreeva-janice-tjen/IJqcsBKmd",
+        "https://www.tennismajors.com/wta-tour-news/andreeva-passes-gauff-for-most-wta-1000-wins-by-a-teenager-ending-a-rough-patch-in-cincinnati-858808.html"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "kostyuk-stephens-2026-08-18",
@@ -714,7 +715,7 @@
       "tournament": "Cincinnati Open, WTA 1000",
       "round": "3 круг",
       "kickoff": "2026-08-18T21:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Ван Сиюй",
         "ranking": 108
@@ -766,16 +767,16 @@
       "prediction": {
         "winner": "playerB",
         "confidence": "medium",
-        "reasoning": "Букмекеры сильно за Свитолину (около 79% по коэффициентам), хотя отдельная модель давала более скромные 59% — защитный стиль Свитолиной и опыт против личное преимущество 2:0 делают её фаворитом.",
-        "predictedScore": "2:0"
+        "reasoning": "До новостей о снятии букмекеры были сильно за Свитолину (около 79% по коэффициентам), хотя отдельная модель давала более скромные 59% — защитный стиль и опыт против личное преимущество 2:0 делали её фаворитом. Матч не состоялся в игровом виде: Свитолина снялась перед встречей из-за травмы (последствия усталости и повреждения, полученного в Торонто/на предыдущем круге), Ван Сиюй прошла техническим поражением (walkover) — реального счёта нет.",
+        "predictedScore": null
       },
       "sources": [
         "https://www.freetips.com/tennis/xiyu-wang-vs-elina-svitolina-betting-tips-20260818-0008/",
         "https://www.bleachernation.com/picks/2026/08/17/wang-vs-svitolina-prediction-at-the-western-southern-open-tuesday-august-18/",
         "https://lastwordonsports.com/tennis/2026/08/17/wta-cincinnati-wang-svitolina/",
         "https://matchstat.com/tennis/h2h-odds-bets/Elina%20Svitolina/Xiyu%20Wang/",
-        "https://www.tennismajors.com/matches/wta/western/xiyu-wang-vs-elina-svitolina-2",
-        "https://sports.yahoo.com/tennis/2026/western-southern-open/womens-singles/xiyu-wang-elina-svitolina-15754688/"
+        "https://www.tennismajors.com/wta-tour-news/svitolina-withdraws-hurt-in-cincinnati-handing-wang-a-walkover-into-a-last-16-date-with-in-form-keys-858786.html",
+        "https://tennistonic.com/tennis-news/1042736/xiyu-wang-stuns-fernandez-in-the-2nd-round-to-battle-vs-svitolina-at-the-cincinnati-open-highlights-cincinnati-results/"
       ],
       "actualResult": null
     },
