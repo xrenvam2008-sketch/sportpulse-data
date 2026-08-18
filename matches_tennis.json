@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T15:45:00+03:00",
+  "generatedAt": "2026-08-18T16:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -176,7 +176,7 @@
       "tournament": "Cincinnati Open, ATP Masters 1000",
       "round": "3 круг",
       "kickoff": "2026-08-18T04:20:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Томми Пол", "ranking": 24 },
       "playerB": { "name": "Адольфо Даниэль Вальехо", "ranking": 70 },
       "h2h": {
@@ -209,9 +209,10 @@
         "https://www.atptour.com/en/players/atp-head-2-head/paul-paul-vs-vallejo-vallejo/pl56/v0dp",
         "https://matchstat.com/tennis/h2h-odds-bets/Adolfo%20Daniel%20Vallejo/Tommy%20Paul/",
         "https://www.dimers.com/tennis/news/tommy-paul-vs-adolfo-vallejo-tennis-prediction-atp-cincinnati-open-2026-ac",
-        "https://www.bleachernation.com/picks/2026/08/16/paul-vs-vallejo-prediction-at-the-western-southern-open-monday-august-17/"
+        "https://www.bleachernation.com/picks/2026/08/16/paul-vs-vallejo-prediction-at-the-western-southern-open-monday-august-17/",
+        "https://tennistonic.com/tennis-news/1043197/tommy-paul-dispatches-daniel-vallejo-in-the-3rd-round-to-set-up-a-clash-vs-zverev-at-the-cincinnati-open-cincinnati-results/"
       ],
-      "actualResult": null
+      "actualResult": "2:1"
     },
     {
       "id": "tien-tiafoe-2026-08-18",
