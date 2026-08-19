@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T17:52:00+03:00",
+  "generatedAt": "2026-08-19T18:22:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -57,7 +57,7 @@
       "id": "auger-aliassime-tiafoe-2026-08-19",
       "tournament": "Cincinnati Open (ATP Masters 1000)",
       "round": "1/8 финала",
-      "kickoff": "2026-08-19T18:00:00+03:00",
+      "kickoff": "2026-08-20T04:30:00+03:00",
       "status": "scheduled",
       "playerA": { "name": "Феликс Оже-Альяссим", "ranking": 4 },
       "playerB": { "name": "Фрэнсис Тиафо", "ranking": 20 },
@@ -129,7 +129,7 @@
       "tournament": "Cincinnati Open (ATP Masters 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-19T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Флавио Коболли", "ranking": 10 },
       "playerB": { "name": "Рафаэль Ходар", "ranking": 11 },
       "h2h": null,
@@ -272,7 +272,7 @@
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-19T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Ига Швёнтек", "ranking": 5 },
       "playerB": { "name": "Диан Парри", "ranking": 66 },
       "h2h": { "summary": "Швёнтек выиграла единственную предыдущую личную встречу.", "record": { "aWins": 1, "bWins": 0 } },
