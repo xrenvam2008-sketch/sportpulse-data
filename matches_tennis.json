@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T21:22:00+03:00",
+  "generatedAt": "2026-08-19T22:13:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -232,7 +232,7 @@
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-19T22:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Коко Гауфф", "ranking": 4 },
       "playerB": { "name": "Мари Бузкова", "ranking": 28 },
       "h2h": { "summary": "Бузкова ведёт в личных встречах 2-1, однако Гауфф выиграла последнюю встречу 6-1, 7-6(3) в третьем круге в Париже в 2025 году.", "record": { "aWins": 1, "bWins": 2 } },
