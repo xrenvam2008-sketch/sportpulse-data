@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T08:19:00+03:00",
+  "generatedAt": "2026-08-19T11:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -664,18 +664,17 @@
       "prediction": {
         "winner": "playerB",
         "confidence": "low",
-        "reasoning": "Предматчевый расклад: Йович выше в live-рейтинге и считалась небольшим фаворитом по букмекерским котировкам, но обе теннисистки подходили к матчу в равной форме (7 побед из 10 последних матчей). Победительница встречается с Кори Гауфф в 1/8 финала. ПРИМЕЧАНИЕ ПО ФАКТУ: по данным нескольких независимых источников (championat.com со ссылкой на выход Боузковой в 1/8 финала против Гауфф, а также агрегаторы sports.kz и irbis.spb.ru) матч завершился победой Боузковой (playerA); статус изменён на finished. Точный счёт по сетам и геймам подтвердить через доступные источники на момент сборки дайджеста не удалось, поэтому actualResult оставлен null, чтобы не угадывать счёт.",
+        "reasoning": "Предматчевый расклад: Йович выше в live-рейтинге и считалась небольшим фаворитом по букмекерским котировкам, но обе теннисистки подходили к матчу в равной форме (7 побед из 10 последних матчей). Победительница встречается с Кори Гауфф в 1/8 финала. Прогноз дан предматчевым и намеренно не пересматривался под итоговый результат.",
         "predictedScore": null
       },
       "sources": [
         "https://tennistonic.com/tennis-news/1042720/marie-bouzkova-prevails-over-stefanini-in-the-2nd-round-to-set-up-a-clash-vs-jovic-at-the-cincinnati-open-highlights-cincinnati-results/",
         "https://www.wtatennis.com/tournaments/1017/cincinnati/2026/scores/LS021",
+        "https://www.wtatennis.com/news/4562258/bouzkova-edges-jovic-in-tight-battle-to-set-up-gauff-clash-in-cincinnati",
         "https://www.sofascore.com/tennis/match/iva-jovic-marie-bouzkova/njRsHmtd",
-        "https://www.tennis.com/tournaments/cincinnati-open/matches/m-bouzkova-vs-i-jovic-2026-08-19",
-        "https://www.championat.com/tennis/news-6587736-kori-gauff-enn-li-rezultat-matcha-18-avgusta-2026-schet-2-0-3-j-krug-wta-1000-cincinnati.html",
-        "https://www.sports.kz/news/news-656009-konkurentka-ryibakinoy-vyishla-v-1-8-finala-turnira-v-tsintsinnati"
+        "https://www.tennis.com/tournaments/cincinnati-open/matches/m-bouzkova-vs-i-jovic-2026-08-19"
       ],
-      "actualResult": null
+      "actualResult": "2:0"
     }
   ]
 }
