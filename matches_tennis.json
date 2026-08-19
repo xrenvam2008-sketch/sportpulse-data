@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T23:25:00+03:00",
+  "generatedAt": "2026-08-20T02:13:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -35,7 +35,7 @@
       "tournament": "Cincinnati Open (ATP Masters 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-19T17:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Александр Зверев", "ranking": 3 },
       "playerB": { "name": "Томми Пол", "ranking": 24 },
       "h2h": { "summary": "Пол ведёт в личных встречах 2-1, но Зверев выиграл последнюю встречу в 4 сетах на Australian Open 2025 (7-6, 7-6, 2-6, 6-1).", "record": { "aWins": 1, "bWins": 2 } },
@@ -56,7 +56,7 @@
         "https://heavy.com/sports/tennis/cincinnati-open-rain-delay-when-will-resume/",
         "https://legalbet.kz/tennis/zverev-a-paul-t-19-08-2026/"
       ],
-      "actualResult": null
+      "actualResult": "1:2"
     },
     {
       "id": "fritz-oconnell-2026-08-19",
@@ -90,7 +90,7 @@
       "tournament": "Cincinnati Open (ATP Masters 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-19T20:55:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Артур Фис", "ranking": 21 },
       "playerB": { "name": "Алекс де Минор", "ranking": 8 },
       "h2h": { "summary": "Де Минор ведёт в личных встречах 2-1 (1-0 на харде), последняя победа — в Роттердаме в начале 2026 года, 7-6(3), 6-2.", "record": { "aWins": 1, "bWins": 2 } },
@@ -111,7 +111,7 @@
         "https://www.sportsbettingdime.com/news/tennis/fils-vs-de-minaur-picks-predictions-odds-atp-cincinnati/",
         "https://www.tennis.com/tournaments/cincinnati-open/matches/a-fils-vs-a-de-minaur-2026-08-19"
       ],
-      "actualResult": null
+      "actualResult": "2:0"
     },
     {
       "id": "tirante-mensik-2026-08-19",
@@ -146,7 +146,7 @@
       "tournament": "Cincinnati Open (ATP Masters 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-19T22:30:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Брэндон Накашима", "ranking": 22 },
       "playerB": { "name": "Нуну Боржеш", "ranking": 47 },
       "h2h": { "summary": "Личных встреч ранее не было — первая очная игра на туре ATP.", "record": { "aWins": 0, "bWins": 0 } },
@@ -232,7 +232,7 @@
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-19T21:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Диана Шнайдер", "ranking": 14 },
       "playerB": { "name": "Елена Рыбакина", "ranking": 2 },
       "h2h": { "summary": "Рыбакина ведёт 1-0 (Штутгарт, апрель 2026, грунт, 6-3, 6-4); это первая очная встреча на харде.", "record": { "aWins": 0, "bWins": 1 } },
@@ -254,7 +254,7 @@
         "https://vesti.kz/wta/pryamaya-translyatsiya-matcha-ryibakinoy-chetvertfinal-386643",
         "https://news.bet365.com/en-us/article/shnaider-vs-rybakina-preview-how-to-watch-odds/2026081914141538592"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "gauff-bouzkova-2026-08-19",
@@ -317,7 +317,7 @@
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-19T21:10:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Линда Носкова", "ranking": 6 },
       "playerB": { "name": "Аманда Анисимова", "ranking": 10 },
       "h2h": { "summary": "Анисимова ведёт 2-1, последняя победа — в финале турнира в Пекине в конце 2025 года.", "record": { "aWins": 1, "bWins": 2 } },
@@ -337,7 +337,7 @@
         "https://www.wtatennis.com/news/4533700/at-21-linda-noskova-caps-brilliant-fortnight-to-become-youngest-wimbledon-champion-in-15-years-defeats-karolina-muchova",
         "https://www.dimers.com/tennis/news/linda-noskova-vs-amanda-anisimova-tennis-prediction-wta-cincinnati-open-2026-ac"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     }
   ]
 }
