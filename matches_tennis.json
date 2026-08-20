@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T06:17:00+03:00",
+  "generatedAt": "2026-08-20T07:15:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -830,7 +830,7 @@
       "tournament": "Cincinnati Open (ATP Masters 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-20T03:10:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Феликс Оже-Альяссим",
         "ranking": 4
@@ -885,6 +885,7 @@
         "predictedScore": "2:1"
       },
       "sources": [
+        "https://www.atptour.com/en/news/auger-aliassime-tiafoe-cincinnati-2026-wednesday",
         "https://ats.io/tennis/frances-tiafoe-vs-felix-auger-aliassime-prediction-preview-8-19-2026/",
         "https://www.tennismajors.com/atp/third-round-closes-in-cincinnati-as-tiafoe-survives-tien-to-set-up-auger-aliassime-clash-in-the-last-16-858837.html",
         "https://www.sportytrader.com/us/picks/frances-tiafoe-felix-auger-aliassime-366872/",
@@ -892,7 +893,7 @@
         "https://tennisuptodate.com/atp/cincinnati-open-atp-day-six-round-up-felix-auger-aliassime-into-tiafoe-showdown-as-brandon-nakashima-shines-again",
         "https://lastwordonsports.com/tennis/2026/08/19/atp-cincinnati-day-7-predictions-auger-aliassime-tiafoe/"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "musetti-faria-2026-08-20",
@@ -1020,7 +1021,7 @@
       "prediction": {
         "winner": "playerA",
         "confidence": "high",
-        "reasoning": "Соболенко — явный фаворит по коэффициентам (около 1.19 против 4.7) благодаря классу, статистике сезона на харде и статусу первой ракетки, хотя впечатляющая серия Бейлек в Цинциннати добавляет матчу интригу.",
+        "reasoning": "Соболенко — явный фаворит по коэффициентам (около 1.19 против 4.7) благодаря классу, статистике сезона на харде и статусу первой ракетки, хотя впечатляющая серия Бейлек в Цинциннати добавляет матчу интригу. По ходу игры Бейлек выиграла 1-й сет на тай-брейке 7-6, после чего матч был приостановлен (погодная пауза); официального подтверждения финального счёта на момент составления дайджеста нет, поэтому статус сохранён как live, а итоговый счёт не указывается.",
         "predictedScore": "2:0"
       },
       "sources": [
@@ -1029,7 +1030,8 @@
         "https://justwomenssports.com/reads/sabalenka-defeats-wang-xinyu-cincinnati-open-2026/",
         "https://www.sportytrader.com/us/picks/aryna-sabalenka-sara-bejlek-366818/",
         "https://www.stevegtennis.com/head-to-head/women/Aryna_Sabalenka/Sara_Bejlek/",
-        "https://matchstat.com/tennis/player/Sara%20Bejlek/"
+        "https://matchstat.com/tennis/player/Sara%20Bejlek/",
+        "https://www.tennismajors.com/wta-tour-news/sabalenka-cruises-into-cincinnati-last-16-will-face-seed-killer-bejlek-next-858836.html"
       ],
       "actualResult": null
     },
@@ -1508,6 +1510,75 @@
         "https://www.tennismajors.com/wta-tour-news/kostyuk-avenges-roland-garros-heartbreak-to-down-andreeva-in-cincinnati-thriller-858867.html",
         "https://www.sportsmole.co.uk/tennis/preview/coco-gauff-vs-marta-kostyukprediction-form-head-to-head_565189.html",
         "https://www.yardbarker.com/tennis/articles/coco_gauff_turns_biggest_weakness_into_weapon_with_11_ace_display_in_cincinnati/s1_17730_44188549"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "musetti-tiafoe-2026-08-21",
+      "tournament": "Cincinnati Open (ATP Masters 1000)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-21T04:00:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Лоренцо Музетти",
+        "ranking": 15
+      },
+      "playerB": {
+        "name": "Фрэнсис Тиафо",
+        "ranking": 23
+      },
+      "h2h": {
+        "summary": "8 личных встреч, счёт равный 4-4. Последняя игра — 3-й круг Roland Garros-2025, Музетти выиграл в четырёх сетах 6-2, 4-6, 7-5, 6-2.",
+        "record": {
+          "aWins": 4,
+          "bWins": 4
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Восстанавливается после серии травм бедра в этом сезоне; в Цинциннати обыграл Майкла Чжэна 6-1, 6-3, затем Жайме Фарию 7-5, 6-2, вышел в четвертьфинал."
+        },
+        "playerB": {
+          "last5": "17-й номер посева; прошёл Лернера Тьена в трёх сетах, затем в напряжённой битве обыграл 4-го номера посева Феликса Оже-Альяссима 6-3, 6-4, впервые в сезоне выйдя в четвертьфинал турнира Masters 1000."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Изящный одноручный бэкхенд",
+            "Богатый тактический арсенал",
+            "Опыт побед на турнирах Masters 1000"
+          ],
+          "weaknesses": [
+            "Физическая свежесть под вопросом после серии травм",
+            "В Цинциннати ни разу ранее не проходил дальше 2-го круга"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Взрывная атлетика и мощь ударов",
+            "Опыт больших арен, в том числе домашних турниров в США",
+            "Только что обыграл топ-4 соперника (Оже-Альяссима)"
+          ],
+          "weaknesses": [
+            "Нестабильность в затяжных матчах",
+            "Играет уже второй подряд трёхсетовый/напряжённый матч — вопрос свежести"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "low",
+        "reasoning": "Личные встречи равны (4-4), а рейтинг немного выше у Музетти (15-й против 23-го), но он ещё не набрал полную физическую форму после травм, тогда как Тиафо на кураже после победы над Оже-Альяссимом. Матч оценивается как практически равный. Точное время начала матча на момент составления дайджеста официально ещё не опубликовано организаторами (использована оценочная расстановка по аналогии с остальными матчами ночной сессии) — при уточнении расписания время может быть скорректировано в следующих обновлениях.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.atptour.com/en/news/auger-aliassime-tiafoe-cincinnati-2026-wednesday",
+        "https://tennistonic.com/tennis-news/1043584/cincinnati-results-taylor-fritz-frances-tiafoe-lorenzo-musetti-brandon-nakashima-win-on-tuesday/",
+        "https://www.sportskeeda.com/tennis/frances-tiafoe-vs-felix-auger-aliassime-preview-head-to-head-odds-prediction-betting-tips-cincinnati-open-2026",
+        "https://matchstat.com/tennis/h2h-odds-bets/Frances%20Tiafoe/Lorenzo%20Musetti/",
+        "https://tennistonic.com/head-to-head-compare/Frances-Tiafoe-Vs-Lorenzo-Musetti/",
+        "https://m.aiscore.com/head-to-head/tennis/frances-tiafoe-vs-lorenzo-musetti"
       ],
       "actualResult": null
     }
