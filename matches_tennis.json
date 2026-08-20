@@ -1,126 +1,454 @@
 {
-  "generatedAt": "2026-08-20T17:18:00+03:00",
+  "generatedAt": "2026-08-20T18:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
-      "id": "paul-cobolli-2026-08-20",
+      "id": "musetti-faria-2026-08-20",
       "tournament": "Cincinnati Open (ATP Masters 1000)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-20T22:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Томми Пол", "ranking": 24 },
-      "playerB": { "name": "Флавио Коболли", "ranking": 10 },
+      "round": "1/8 финала",
+      "kickoff": "2026-08-20T00:00:00+03:00",
+      "status": "finished",
+      "playerA": {
+        "name": "Лоренцо Музетти",
+        "ranking": 15
+      },
+      "playerB": {
+        "name": "Жайме Фария",
+        "ranking": null
+      },
       "h2h": {
-        "summary": "Личных встреч было всего одна — Коболли обыграл Пола в Цинциннати-2024 со счётом 6:2, 4:6, 7:5. На харде и на турнирах Большого Шлема также счёт 1:0 в пользу итальянца.",
-        "record": { "aWins": 0, "bWins": 1 }
+        "summary": "Личных встреч до этого матча не зафиксировано — первая очная встреча теннисистов.",
+        "record": {
+          "aWins": 0,
+          "bWins": 0
+        }
       },
       "form": {
-        "playerA": { "last5": "36-15 по сезону 2026 (17-8 на харде). В 1/8 финала спас матчбол и сенсационно обыграл первую ракетку посева Александра Зверева 4:6, 7:6(6), 6:4 — один из главных апсетов турнира." },
-        "playerB": { "last5": "30-17 по сезону 2026 (12-6 на харде). В 1/8 финала прошёл Рафаэля Ходара 4:6, 7:6(3), 6:3; считается одним из самых стабильных игроков турнира на этой стадии." }
+        "playerA": {
+          "last5": "Музетти (10-й номер посева) уверенно прошёл первые раунды и подтвердил статус фаворита."
+        },
+        "playerB": {
+          "last5": "Фария вышел в основную сетку через квалификацию и установил личный рекорд, впервые в карьере добравшись до 1/8 финала турнира серии Мастерс."
+        }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["Атлетизм и скорость по корту", "Поддержка домашней публики (США, штат Огайо)", "Разнообразная игра у сетки", "Хорошо чувствует себя в матчах на морально-волевых"],
-          "weaknesses": ["Нестабильность первой подачи под давлением", "Уступает в форхенде при обмене силовыми ударами", "Может проседать физически в затяжных матчах"]
+          "strengths": [
+            "Вариативная игра с задней линии",
+            "Сильный одноручный бэкхенд"
+          ],
+          "weaknesses": [
+            "Временами нестабилен при плотном турнирном графике"
+          ]
         },
         "playerB": {
-          "strengths": ["Мощный форхенд и агрессия с задней линии", "Хорошее движение для игрока такого роста", "Уверенная игра на решающих сетах в 2026 году"],
-          "weaknesses": ["Процент попадания первой подачи нестабилен", "Уступает в опыте больших матчей на Masters 1000", "Может терять концентрацию при смене темпа соперником"]
+          "strengths": [
+            "Агрессивная подача (6 эйсов в этом матче)",
+            "Разнообразие ударов"
+          ],
+          "weaknesses": [
+            "Много невынужденных ошибок под давлением на брейк-пойнтах"
+          ]
         }
       },
       "prediction": {
-        "winner": "playerB",
-        "confidence": "medium",
-        "reasoning": "Коболли выше в рейтинге, ведёт в личных встречах и подходит к матчу в очень хорошей форме, обыграв Ходара тремя сетами. Однако Пол только что сенсационно выбил Зверева и будет играть при поддержке американской публики, поэтому исход не выглядит очевидным.",
-        "predictedScore": "2:1"
-      },
-      "sources": [
-        "https://tennistonic.com/tennis-news/1043804/updated-qf-prediction-h2h-of-tommy-pauls-draw-vs-cobolli-fils-fritz-to-win-the-cincinnati/",
-        "https://www.bets.com.au/tennis/atp-tour/flavio-cobolli-vs-tommy-paul-atp-cincinnati-tips-prediction-live-stream-20260820-0004/",
-        "https://www.atptour.com/en/news/zverev-paul-cincinnati-2026-wednesday",
-        "https://lastwordonsports.com/tennis/2026/08/20/atp-cincinnati-best-bets-paul-cobolli/",
-        "https://www.oasport.it/2026/08/flavio-cobolli-contro-tommy-paul-ecco-loccasione-a-cincinnati/"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "tirante-fils-2026-08-20",
-      "tournament": "Cincinnati Open (ATP Masters 1000)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-21T03:30:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Тиаго Агустин Тиранте", "ranking": 50 },
-      "playerB": { "name": "Артур Филс", "ranking": 24 },
-      "h2h": { "summary": "Личных встреч на туре ATP между игроками ещё не было — очная статистика 0:0.", "record": null },
-      "form": {
-        "playerA": { "last5": "31-17 по сезону 2026 (14-7 на харде). Впервые в карьере вышел в четвертьфинал турнира Masters 1000: во 2-м круге сенсационно обыграл Новака Джоковича, а в 1/8 финала прошёл Якуба Меньшика 5:7, 6:4, 6:4. Это уже его пятый матч в Цинциннати без учёта квалификации плюс матчи в Монреале неделей ранее — накопилась усталость." },
-        "playerB": { "last5": "29-10 по сезону 2026 (17-5 на харде). В Цинциннати отдал соперникам всего один сет (по тай-брейку Легечке); в 1/8 финала уверенно обыграл Алекса де Минора 6:3, 6:4." }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": ["Боевой характер, умеет спасать сложные ситуации", "Уже обыграл двух более высокорейтинговых соперников на этом турнире", "Хорошая физическая выносливость в равных розыгрышах"],
-          "weaknesses": ["Накопленная усталость после серии из Монреаля и Цинциннати", "Уступает в мощности подачи топ-соперникам", "Ограниченный опыт матчей такого уровня"]
-        },
-        "playerB": {
-          "strengths": ["Мощнейшая подача и форхенд", "Очень уверенная форма — отдал всего один сет за весь турнир", "Хорошая игра на решающих мячах в этом сезоне"],
-          "weaknesses": ["Порой нестабилен психологически в затяжных матчах", "Уступает в вариативности игры более опытным соперникам", "Пока не хватает регулярности выступлений на стадии четвертьфиналов Masters 1000"]
-        }
-      },
-      "prediction": {
-        "winner": "playerB",
+        "winner": "playerA",
         "confidence": "high",
-        "reasoning": "Личных встреч не было, но по форме, рейтингу и физической свежести явное преимущество у Филса — он потерял всего один сет за турнир, тогда как Тиранте провёл уже несколько изматывающих трёхсетовых битв подряд, включая победу над Джоковичем.",
+        "reasoning": "Музетти заметно выше в рейтинге (10-й номер посева) и опытнее дебютанта основной сетки Мастерса Фарии.",
         "predictedScore": "2:0"
       },
       "sources": [
-        "https://tennistonic.com/tennis-news/1043810/updated-qf-prediction-h2h-of-thiago-agustin-tirantes-draw-vs-fils-cobolli-fritz-to-win-the-cincinnati/",
-        "https://www.sportytrader.com/us/picks/thiago-agustin-tirante-arthur-fils-366999/",
-        "https://www.tennismajors.com/atp/the-week-of-his-life-tirante-topples-mensik-to-reach-a-first-masters-quarter-final-858873.html",
-        "https://tenngrand.com/cincinnati-tennis-preview-pick-prediction-fils-vs-tirante/",
-        "https://sports.yahoo.com/articles/thiago-agustin-tirante-atp-no-211025501.html"
+        "https://www.sport-express.net/tennis/atp/news/lorenco-muzetti-dzheymi-fariya-rezultat-matcha-turnira-v-cincinnati-20-avgusta-2026-goda-2448579/",
+        "https://www.livesport.ru/tips/tennis/2026/08/20/jaime-faria-lorenzo-musetti/",
+        "https://www.championat.com/tennis/player/4423.html",
+        "https://tenngrand.com/cincinnati-tennis-previews-picks-predictions-auger-aliassime-vs-tiafoe-musetti-faria/",
+        "https://tennistonic.com/tennis-news/1043584/cincinnati-results-taylor-fritz-frances-tiafoe-lorenzo-musetti-brandon-nakashima-win-on-tuesday/"
       ],
-      "actualResult": null
+      "actualResult": "2:0"
     },
     {
-      "id": "tiafoe-musetti-2026-08-20",
+      "id": "fils-deminaur-2026-08-20",
       "tournament": "Cincinnati Open (ATP Masters 1000)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-21T02:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Фрэнсис Тиафо", "ranking": 23 },
-      "playerB": { "name": "Лоренцо Музетти", "ranking": 15 },
+      "round": "1/8 финала",
+      "kickoff": "2026-08-20T00:30:00+03:00",
+      "status": "finished",
+      "playerA": {
+        "name": "Артур Филс",
+        "ranking": 24
+      },
+      "playerB": {
+        "name": "Алекс де Минор",
+        "ranking": 8
+      },
       "h2h": {
-        "summary": "Общий счёт личных встреч 4:4, при этом на харде и турнирах Большого Шлема Тиафо ведёт 2:1. Матч ожидается очень равным.",
-        "record": { "aWins": 4, "bWins": 4 }
+        "summary": "До этой встречи де Минор вёл в личных встречах 2:1.",
+        "record": {
+          "aWins": 1,
+          "bWins": 2
+        }
       },
       "form": {
-        "playerA": { "last5": "В 1/8 финала обыграл посеянного вторым Феликса Оже-Альяссима 6:3, 6:4, дойдя до шестого в карьере четвертьфинала Masters 1000 (второго в Цинциннати)." },
-        "playerB": { "last5": "В 1/8 финала прошёл Жайме Фарию 7:5, 6:2 менее чем за полтора часа, продемонстрировав уверенную игру с задней линии." }
+        "playerA": {
+          "last5": "Филс прибавляет по ходу турнира и уверенно провёл матч менее чем за 1 час 23 минуты."
+        },
+        "playerB": {
+          "last5": "Де Минор — топ-10 игрок, входил в матч фаворитом по рейтингу, но в Цинциннати испытывал проблемы с подачей на решающих геймах."
+        }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["Взрывная атлетичность и скорость", "Мощный форхенд по линии", "Умеет переигрывать топ-соперников на решающих отрезках"],
-          "weaknesses": ["Нестабильность на приёме подачи", "Может проваливать концентрацию в отдельных геймах", "Уступает Музетти в разнообразии ударов"]
+          "strengths": [
+            "Мощная первая подача",
+            "Агрессивная игра с форхенда"
+          ],
+          "weaknesses": [
+            "Стабильность на длинной дистанции матча"
+          ]
         },
         "playerB": {
-          "strengths": ["Одноручный бэкхенд с большой вариативностью", "Тонкое чувство мяча и игра с разных вращений", "Хорошая игра у сетки"],
-          "weaknesses": ["Уступает в физической мощи и скорости первого удара", "Не всегда стабилен под давлением на важных геймах", "Слабее исторически на харде, чем на грунте"]
+          "strengths": [
+            "Исключительная скорость по корту",
+            "Надёжность на приёме"
+          ],
+          "weaknesses": [
+            "Уступает в мощи ударов на быстром покрытии"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Матч расценивался как равный, с небольшим преимуществом де Минора по рейтингу и личным встречам.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.sport-express.ru/tennis/atp/news/artyur-fis-aleks-de-minaur-rezultat-matcha-turnira-v-cincinnati-20-avgusta-2026-goda-2448546/",
+        "https://www.championat.com/tennis/news-6589034-artyur-fis-aleks-de-minor-rezultat-matcha-19-avgusta-2026-schyot-2-0-1-8-finala-turnira-atp-1000-v-cincinnati.html",
+        "https://www.livesport.ru/tips/tennis/2026/08/19/arthur-fils-alex-de-minaur/",
+        "https://champion.com.ua/rus/tennis/tennis-cincinnati-zverev-i-de-minor-proigrali-v-1-8-finala-mastersa-1083050/",
+        "https://srrb.ru/translyacii-sportivnyx-sobytij/translyacii-tennis/artyur-fis-aleks-de-minor-1-8-finala-atp-1000-cincinnati-pryamaya-translyaciya-19-08-2026-v-2200.html"
+      ],
+      "actualResult": "2:0"
+    },
+    {
+      "id": "rybakina-shnaider-2026-08-20",
+      "tournament": "Cincinnati Open (WTA 1000)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-20T01:00:00+03:00",
+      "status": "finished",
+      "playerA": {
+        "name": "Елена Рыбакина",
+        "ranking": 2
+      },
+      "playerB": {
+        "name": "Диана Шнайдер",
+        "ranking": 16
+      },
+      "h2h": {
+        "summary": "До матча в Цинциннати была одна очная встреча — в Штутгарте (2-й круг, апрель 2026), победу одержала Рыбакина.",
+        "record": {
+          "aWins": 1,
+          "bWins": 0
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Рыбакина шла по турниру без потери сетов и сохраняла шансы побороться за 1-е место рейтинга."
+        },
+        "playerB": {
+          "last5": "Шнайдер провела сильный отрезок сезона, но уступала более тяжёлой подаче соперницы."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Плоский, мощный удар",
+            "Одна из лучших подач тура"
+          ],
+          "weaknesses": [
+            "Колебания в разводке мяча по корту"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Отличная работа ног",
+            "Стабильность с задней линии"
+          ],
+          "weaknesses": [
+            "Уступает в мощи первого удара топ-игрокам"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Фаворитом считалась Рыбакина ввиду более высокого рейтинга, подачи и победы в единственной очной встрече.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.championat.ru/tennis/_wta/tournament/80842/match/1544842/",
+        "https://ria.ru/ep_event/6042391.html",
+        "https://www.championat.com/tennis/news-6589030-diana-shnajder-elena-rybakina-rezultat-matcha-19-avgusta-2026-schyot-0-2-1-8-finala-turnira-wta-1000-v-cincinnati.html",
+        "https://www.championat.com/tennis/article-6587384-diana-shnajder-i-elena-rybakina-v-cincinnati-2026-chetvyortyj-krug-lichnye-vstrechi-chto-skazali-setka-raspisanie-gde-smotret.html",
+        "https://www.sports.kz/news/pryamaya-translyatsiya-matcha-ryibakina-shnayder-zachetvertfinal-turnira-vtsintsinnati"
+      ],
+      "actualResult": "2:0"
+    },
+    {
+      "id": "sabalenka-bejlek-2026-08-20",
+      "tournament": "Cincinnati Open (WTA 1000)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-20T02:00:00+03:00",
+      "status": "finished",
+      "playerA": {
+        "name": "Арина Соболенко",
+        "ranking": 1
+      },
+      "playerB": {
+        "name": "Сара Бейлек",
+        "ranking": 35
+      },
+      "h2h": {
+        "summary": "Очных встреч между теннисистками ранее не было — дебютное противостояние.",
+        "record": {
+          "aWins": 0,
+          "bWins": 0
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Соболенко подходила к матчу первой ракеткой мира и фаворитом турнира."
+        },
+        "playerB": {
+          "last5": "20-летняя Бейлек находилась в отличной форме по ходу недели и добилась первой в карьере победы над игроком топ-10."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Исключительная мощь удара и подачи"
+          ],
+          "weaknesses": [
+            "Временами нестабильна против плоских ударов на скорости"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Быстрая, плоская игра",
+            "Хладнокровна на тай-брейках"
+          ],
+          "weaknesses": [
+            "Уступает в физической мощи топ-соперницам на длинных розыгрышах"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Соболенко считалась безоговорочным фаворитом как первая ракетка мира против соперницы из второй полусотни рейтинга.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://matchtv.ru/tennis/matchtvnews_NI2355941_Ja_poterala_dar_rechi_Prosto_net_slov_Bejlek__o_pobede_nad_pervoj_raketkoj_mira_Sobolenko_v_Cincinnati",
+        "https://www.sport-express.ru/tennis/wta/news/sara-beylek-arina-sobolenko-rezultat-matcha-turnira-v-cincinnati-20-avgusta-2026-goda-2448587/",
+        "https://www.livesport.ru/tennis/2026/08/20/sobolenko/",
+        "https://sport.onliner.by/2026/08/20/sobolenko-pokidaet-cincinnati-uzhe-na-etoj-nedele-ona-mozhet-lishitsya-liderstva",
+        "https://metaratings.by/blog/koshmarnyi-vecher-sobolenko-beloruska-ustupila-35-i-raketke-mira-v-cincinnati/"
+      ],
+      "actualResult": "0:2"
+    },
+    {
+      "id": "tiafoe-augeraliassime-2026-08-20",
+      "tournament": "Cincinnati Open (ATP Masters 1000)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-20T03:30:00+03:00",
+      "status": "finished",
+      "playerA": {
+        "name": "Фрэнсис Тиафо",
+        "ranking": 23
+      },
+      "playerB": {
+        "name": "Феликс Оже-Альяссим",
+        "ranking": null
+      },
+      "h2h": {
+        "summary": "До матча в Цинциннати общий счёт личных встреч был в пользу Оже-Альяссима — 3:1 (последняя встреча: четвертьфинал Галле, июнь 2026, победа Тиафо).",
+        "record": {
+          "aWins": 1,
+          "bWins": 3
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Тиафо продолжил серию удачных выступлений на харде."
+        },
+        "playerB": {
+          "last5": "Оже-Альяссим считался одним из лидеров турнира, подошёл к матчу в хорошей форме."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Атлетизм",
+            "Мощная подача",
+            "Умение переломить ход матча"
+          ],
+          "weaknesses": [
+            "Стабильность на приёме"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Универсальная игра",
+            "Сильный форхенд"
+          ],
+          "weaknesses": [
+            "Уступает в ключевых розыгрышах"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Матч расценивался как равный, но небольшое преимущество отдавалось Оже-Альяссиму ввиду отрицательного для Тиафо баланса личных встреч (1:3).",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.sport-express.ru/tennis/atp/news/frensis-tiafo-feliks-ozhe-alyassim-rezultat-matcha-turnira-v-cincinnati-20-avgusta-2026-goda-2448582/",
+        "https://www.tennismajors.com/atp/tiafoe-knocks-out-auger-aliassime-as-cincinnati-loses-its-top-two-seeds-on-the-same-day-858910.html",
+        "https://gotennis.ru/players/statistics/atp/40434/29939",
+        "https://www.atptour.com/en/news/auger-aliassime-tiafoe-cincinnati-2026-wednesday",
+        "https://www.championat.com/tennis/player/3552.html"
+      ],
+      "actualResult": "2:0"
+    },
+    {
+      "id": "zverev-paul-2026-08-20",
+      "tournament": "Cincinnati Open (ATP Masters 1000)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-20T04:00:00+03:00",
+      "status": "finished",
+      "playerA": {
+        "name": "Александр Зверев",
+        "ranking": 2
+      },
+      "playerB": {
+        "name": "Томми Пол",
+        "ranking": 24
+      },
+      "h2h": {
+        "summary": "Пол выигрывал 3 из 4 предыдущих личных встреч с Зверевым.",
+        "record": {
+          "aWins": 1,
+          "bWins": 3
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Зверев — первый номер посева турнира, лидер рейтинга топ-3, шёл фаворитом."
+        },
+        "playerB": {
+          "last5": "Пол находился в хорошей форме и традиционно неудобен для Зверева по стилю игры."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Мощнейшая подача",
+            "Удар слева"
+          ],
+          "weaknesses": [
+            "Спады концентрации в решающие моменты"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Цепкий приём",
+            "Хладнокровие в критических розыгрышах"
+          ],
+          "weaknesses": [
+            "Слабее в силовой игре с задней линии"
+          ]
         }
       },
       "prediction": {
         "winner": "playerA",
         "confidence": "medium",
-        "reasoning": "Личные встречи практически равны (4:4), но на харде и на турнирах Большого Шлема небольшое преимущество у Тиафо, который к тому же только что обыграл более именитого Оже-Альяссима и по нескольким прогнозным моделям считается фаворитом матча.",
+        "reasoning": "Зверев считался фаворитом как топ-сеянный игрок, однако Пол по личным встречам (3:1) традиционно неудобен для немца — ожидалась упорная борьба.",
         "predictedScore": "2:1"
       },
       "sources": [
-        "https://www.tennis.com/tournaments/cincinnati-open/matches/l-musetti-vs-f-tiafoe-2026-08-21",
-        "https://en.tennistemple.com/h2h/frances-tiafoe-vs-lorenzo-musetti/4094/7874",
-        "https://www.atptour.com/en/news/auger-aliassime-tiafoe-cincinnati-2026-wednesday",
-        "https://www.oasport.it/2026/08/lorenzo-musetti-vince-e-convince-contro-jaime-faria-lazzurro-approda-ai-quarti-di-finale-a-cincinnati/",
-        "https://www.sportscapemagazine.com/blog/frances-tiafoe-lorenzo-musetti-reach-cincinnati-quarterfinals"
+        "https://www.sport-express.net/tennis/atp/news/tommi-pol-aleksandr-zverev-rezultat-matcha-turnira-v-cincinnati-20-avgusta-2026-goda-2448549/",
+        "https://www.championat.com/tennis/news-6589032-aleksandr-zverev-tommi-pol-rezultat-matcha-19-avgusta-2026-schyot-1-2-1-8-finala-turnira-atp-1000-v-cincinnati.html",
+        "https://www.atptour.com/en/news/zverev-paul-cincinnati-2026-wednesday",
+        "https://sports.yahoo.com/articles/tommy-paul-upsets-top-seed-223854917.html",
+        "https://lenta.ru/news/2026/08/20/zverev-proigral-polu-v-tsintsinnati/"
       ],
-      "actualResult": null
+      "actualResult": "1:2"
+    },
+    {
+      "id": "keys-wangxiyu-2026-08-20",
+      "tournament": "Cincinnati Open (WTA 1000)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-20T05:00:00+03:00",
+      "status": "finished",
+      "playerA": {
+        "name": "Мэдисон Кис",
+        "ranking": 24
+      },
+      "playerB": {
+        "name": "Ван Сиюй",
+        "ranking": 32
+      },
+      "h2h": {
+        "summary": "В последней личной встрече (1-й круг WTA-500 Берлин, июнь 2026) победила Кис со счётом 7:6(3), 6:1 — тем же счётом первого сета, что и в Цинциннати.",
+        "record": {
+          "aWins": 1,
+          "bWins": 0
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Кис стабильно проходит турнир, уверенно выигрывая на своей подаче."
+        },
+        "playerB": {
+          "last5": "Ван Сиюй показывала хороший теннис по ходу недели, но вновь уступила в очной встрече Кис."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Мощная подача",
+            "Мощный форхенд"
+          ],
+          "weaknesses": [
+            "Трудности со стабильностью на приёме под давлением"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Хорошая скорость по корту",
+            "Вариативность игры"
+          ],
+          "weaknesses": [
+            "Уступает в мощи на решающих геймах"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Ожидалась победа Кис с учётом недавнего личного счёта 1:0 в её пользу.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.sport-express.ru/tennis/wta/news/medison-kiz-van-siyuy-rezultat-matcha-turnira-v-cincinnati-20-avgusta-2026-goda-2448567/",
+        "https://www.championat.com/tennis/news-6508740-medison-kiz-van-sinyuj-rezultat-matcha-16-iyunya-2026-goda-schyot-2-0-1-j-krug-wta-500-v-berline.html",
+        "https://ru.tennistemple.com/player/madison-keys",
+        "https://www.championat.com/tennis/player/3776.html",
+        "https://www.championat.com/tennis/player/3817.html"
+      ],
+      "actualResult": "2:0"
     },
     {
       "id": "fritz-nakashima-2026-08-20",
@@ -128,24 +456,53 @@
       "round": "1/4 финала",
       "kickoff": "2026-08-20T19:00:00+03:00",
       "status": "scheduled",
-      "playerA": { "name": "Тейлор Фриц", "ranking": 9 },
-      "playerB": { "name": "Брэндон Накашима", "ranking": 22 },
+      "playerA": {
+        "name": "Тейлор Фриц",
+        "ranking": 9
+      },
+      "playerB": {
+        "name": "Брэндон Накашима",
+        "ranking": 22
+      },
       "h2h": {
         "summary": "Фриц ведёт в личных встречах 3:1, последняя игра — в Далласе в феврале 2026 года (6:3, 6:4 в пользу Фрица). Единственная победа Накашимы была одержана как раз в Цинциннати в 2024 году.",
-        "record": { "aWins": 3, "bWins": 1 }
+        "record": {
+          "aWins": 3,
+          "bWins": 1
+        }
       },
       "form": {
-        "playerA": { "last5": "30-14 по сезону 2026. В 1/8 финала обыграл квалифайера Кристофера О'Коннелла 6:4, 6:3, действует стабильно на протяжении всего турнира." },
-        "playerB": { "last5": "29-16 по сезону 2026 (19-8 на харде), карьерный максимум в рейтинге. В 1/16 финала спас три матчбола и обыграл Даниила Медведева 6:7, 7:6, 6:1, а в 1/8 финала прошёл Нуну Боржеша 6:3, 6:7, 6:3." }
+        "playerA": {
+          "last5": "30-14 по сезону 2026. В 1/8 финала обыграл квалифайера Кристофера О'Коннелла 6:4, 6:3, действует стабильно на протяжении всего турнира."
+        },
+        "playerB": {
+          "last5": "29-16 по сезону 2026 (19-8 на харде), карьерный максимум в рейтинге. В 1/16 финала спас три матчбола и обыграл Даниила Медведева 6:7, 7:6, 6:1, а в 1/8 финала прошёл Нуну Боржеша 6:3, 6:7, 6:3."
+        }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["Один из сильнейших ударов справа на туре", "Стабильная и мощная подача", "Опыт выступлений на решающих стадиях турниров Masters 1000"],
-          "weaknesses": ["Не всегда надёжен на приёме подачи против плоских серверов", "Может терять первый сет из-за медленного старта", "Уступает в скорости передвижения более лёгким соперникам"]
+          "strengths": [
+            "Один из сильнейших ударов справа на туре",
+            "Стабильная и мощная подача",
+            "Опыт выступлений на решающих стадиях турниров Masters 1000"
+          ],
+          "weaknesses": [
+            "Не всегда надёжен на приёме подачи против плоских серверов",
+            "Может терять первый сет из-за медленного старта",
+            "Уступает в скорости передвижения более лёгким соперникам"
+          ]
         },
         "playerB": {
-          "strengths": ["Очень ровная игра с задней линии, минимум невынужденных ошибок", "Хорошо держит удар в затяжных розыгрышах", "Умеет спасать матчболы — характер бойца"],
-          "weaknesses": ["Подача уступает по мощности топ-10 игрокам", "Не хватает разнообразия для смены рисунка игры", "В личных встречах уступает Фрицу"]
+          "strengths": [
+            "Очень ровная игра с задней линии, минимум невынужденных ошибок",
+            "Хорошо держит удар в затяжных розыгрышах",
+            "Умеет спасать матчболы — характер бойца"
+          ],
+          "weaknesses": [
+            "Подача уступает по мощности топ-10 игрокам",
+            "Не хватает разнообразия для смены рисунка игры",
+            "В личных встречах уступает Фрицу"
+          ]
         }
       },
       "prediction": {
@@ -164,70 +521,58 @@
       "actualResult": null
     },
     {
-      "id": "swiatek-rybakina-2026-08-20",
-      "tournament": "Cincinnati Open (WTA 1000)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-21T02:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Ига Свёнтек", "ranking": 7 },
-      "playerB": { "name": "Елена Рыбакина", "ranking": 2 },
-      "h2h": {
-        "summary": "Свёнтек ведёт в личных встречах 7:6 (5:3 на харде в открытых турнирах), в том числе выиграла обе встречи в финалах (Доха-2024 и Торонто-2026). Неделю назад в финале Торонто победила Рыбакину 6:3, 6:2.",
-        "record": { "aWins": 7, "bWins": 6 }
-      },
-      "form": {
-        "playerA": { "last5": "Действующая чемпионка Цинциннати, на серии из 9 побед подряд. В 1/8 финала обыграла Диану Пари 6:3, 6:3 после победы над Марией Саккари 4:6, 6:1, 6:1 ранее; восемь из последних девяти матчей в Цинциннати выиграла в двух сетах." },
-        "playerB": { "last5": "Все три матча в Цинциннати выиграла в двух сетах (в частности, обыграла Магду Френч и Диану Шнайдер 6:4, 6:4 в 1/8 финала), но перед этим провела очень тяжёлую неделю в Торонто — почти 11 часов на корте за пять матчей." }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": ["Тяжёлый топспиновый форхенд", "Исключительное передвижение по корту", "Психологическая устойчивость в решающих матчах", "Явное текущее преимущество в личных встречах"],
-          "weaknesses": ["Может нестабильно подавать под давлением", "Уступает Рыбакиной в скорости и мощи подачи навылет", "Иногда проседает физически в третьих сетах после насыщенной недели"]
-        },
-        "playerB": {
-          "strengths": ["Одна из мощнейших и точных подач в туре", "Плоский, атакующий удар с обеих рук", "Способна быстро завершать розыгрыши"],
-          "weaknesses": ["Может накапливать невынужденные ошибки и двойные при усталости", "Уступает в общем счёте личных встреч", "Физическая нагрузка после марафонской недели в Торонто может сказаться"]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "medium",
-        "reasoning": "Свёнтек ведёт в личных встречах и обыграла Рыбакину в двух последних очных финалах, включая совсем недавний в Торонто. При этом Рыбакина не проиграла ни сета в Цинциннати и способна навязать борьбу за счёт подачи, поэтому уверенность не абсолютная.",
-        "predictedScore": "2:0"
-      },
-      "sources": [
-        "https://matchstat.com/tennis/h2h-odds-bets/Iga%20Swiatek/Elena%20Rybakina/",
-        "https://lastwordonsports.com/tennis/2026/08/19/wta-cincinnati-quarterfinal-predictions-including-iga-swiatek-vs-elena-rybakina/",
-        "https://www.bets.com.au/tennis/wta-tour/elena-rybakina-vs-iga-swiatek-wta-cincinnati-tips-prediction-live-stream-20260820-0005/",
-        "https://www.wtatennis.com/news/4562697/swiatek-defeats-parry-in-cincinnati-to-make-30th-wta-1000-quarterfinal",
-        "https://www.puntodebreak.com/en/2026/08/20/swiatek-and-rybakina-meet-again-in-cincinnati-showdown-in-the-quarterfinals"
-      ],
-      "actualResult": null
-    },
-    {
       "id": "pegula-anisimova-2026-08-20",
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/4 финала",
       "kickoff": "2026-08-20T20:00:00+03:00",
       "status": "scheduled",
-      "playerA": { "name": "Джессика Пегула", "ranking": 3 },
-      "playerB": { "name": "Аманда Анисимова", "ranking": 9 },
+      "playerA": {
+        "name": "Джессика Пегула",
+        "ranking": 3
+      },
+      "playerB": {
+        "name": "Аманда Анисимова",
+        "ranking": 9
+      },
       "h2h": {
         "summary": "Пегула ведёт в личных встречах 5:0 (4:0 на харде). Последняя встреча — полуфинал в Дубае в феврале 2026 года, Пегула выиграла 1:6, 6:4, 6:3.",
-        "record": { "aWins": 5, "bWins": 0 }
+        "record": {
+          "aWins": 5,
+          "bWins": 0
+        }
       },
       "form": {
-        "playerA": { "last5": "В 1/8 финала пришлось бороться больше двух часов против Сораны Кирстя — 6:4, 4:6, 7:5." },
-        "playerB": { "last5": "Разгромила чемпионку Уимблдона Линду Носкову 6:1, 6:4, отдав всего пять геймов; в целом показывает мощный теннис на этой неделе." }
+        "playerA": {
+          "last5": "В 1/8 финала пришлось бороться больше двух часов против Сораны Кирстя — 6:4, 4:6, 7:5."
+        },
+        "playerB": {
+          "last5": "Разгромила чемпионку Уимблдона Линду Носкову 6:1, 6:4, отдав всего пять геймов; в целом показывает мощный теннис на этой неделе."
+        }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["Один из лучших приёмов подачи в туре", "Стабильность и минимальное число невынужденных ошибок", "Психологический перевес благодаря разгромному счёту личных встреч"],
-          "weaknesses": ["Уступает в мощи подачи и форхенда более силовым соперницам", "Может испытывать проблемы при затяжных силовых обменах", "Не всегда справляется с очень агрессивным началом соперницы"]
+          "strengths": [
+            "Один из лучших приёмов подачи в туре",
+            "Стабильность и минимальное число невынужденных ошибок",
+            "Психологический перевес благодаря разгромному счёту личных встреч"
+          ],
+          "weaknesses": [
+            "Уступает в мощи подачи и форхенда более силовым соперницам",
+            "Может испытывать проблемы при затяжных силовых обменах",
+            "Не всегда справляется с очень агрессивным началом соперницы"
+          ]
         },
         "playerB": {
-          "strengths": ["Огромная мощь ударов с обеих рук", "Способна выигрывать очки за счёт первого-второго удара", "Сейчас в очень хорошей форме после победы над чемпионкой Уимблдона"],
-          "weaknesses": ["Пока не может прервать серию поражений от Пегулы (0:5)", "Подвержена перепадам стабильности при силовой игре", "Меньше опыта в больших матчах друг против друга"]
+          "strengths": [
+            "Огромная мощь ударов с обеих рук",
+            "Способна выигрывать очки за счёт первого-второго удара",
+            "Сейчас в очень хорошей форме после победы над чемпионкой Уимблдона"
+          ],
+          "weaknesses": [
+            "Пока не может прервать серию поражений от Пегулы (0:5)",
+            "Подвержена перепадам стабильности при силовой игре",
+            "Меньше опыта в больших матчах друг против друга"
+          ]
         }
       },
       "prediction": {
@@ -246,67 +591,55 @@
       "actualResult": null
     },
     {
-      "id": "gauff-kostyuk-2026-08-20",
-      "tournament": "Cincinnati Open (WTA 1000)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-21T04:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Коко Гауфф", "ranking": 4 },
-      "playerB": { "name": "Марта Костюк", "ranking": 11 },
-      "h2h": {
-        "summary": "В общем счёте Гауфф ведёт 3:2, однако последнюю встречу в Дохе в феврале 2025 года уверенно выиграла Костюк — 6:2, 7:5.",
-        "record": { "aWins": 3, "bWins": 2 }
-      },
-      "form": {
-        "playerA": { "last5": "В 1/8 финала уверенно обыграла Мари Бузкову 6:3, 6:2; ранее в третьем круге прошла Энн Ли 6:1, 7:6(3). В целом уверенно проводит харды после удачного Торонто." },
-        "playerB": { "last5": "Отыгралась с проигранного первого сета и обыграла пятую сеянную Мирру Андрееву 4:6, 6:0, 6:2 — уже восьмая победа над топ-10 соперницей в этом сезоне; выиграла 26 из последних 29 матчей." }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": ["Исключительная скорость и защита по корту", "Отличная работа ног, позволяющая отыгрывать сложные мячи", "Поддержка домашней публики"],
-          "weaknesses": ["Нестабильная подача, особенно вторая", "Форхенд может давать сбои под давлением", "В последней личной встрече уступила именно Костюк"]
-        },
-        "playerB": {
-          "strengths": ["Сейчас в лучшей форме сезона (26 побед в 29 матчах)", "Агрессивная игра с задней линии", "Умеет обыгрывать топовых соперниц — уже восемь побед над топ-10 в сезоне"],
-          "weaknesses": ["Уступает Гауфф в общем счёте личных встреч", "Менее стабильна на приёме мощной подачи", "Может испытывать эмоциональные качели в ключевые моменты"]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "low",
-        "reasoning": "Гауфф выше в рейтинге и в целом ведёт в личных встречах, но Костюк подходит к матчу в лучшей форме сезона и выиграла последнюю очную встречу в двух сетах, поэтому уверенность в исходе невысокая.",
-        "predictedScore": "2:1"
-      },
-      "sources": [
-        "https://www.olympics.com/en/news/cincinnati-open-2026-coco-gauff-eases-past-marie-bouzkova-last-eight-clash-with-marta-kostyuk",
-        "https://www.wtatennis.com/news/4562803/kostyuk-continues-year-of-firsts-rallying-past-andreeva-to-reach-cincy-quarters",
-        "https://www.tennismajors.com/wta-tour-news/kostyuk-avenges-roland-garros-heartbreak-to-down-andreeva-in-cincinnati-thriller-858867.html",
-        "https://www.wtatennis.com/news/4563025/look-at-the-time-breaking-down-gauffs-win-over-bouzkova-by-the-minute",
-        "https://unn.ua/en/amp/marta-kostyuk-defeated-russias-top-ranked-player-and-advanced-to-the-quarterfinals-of-the-1000-level-tournament-in-cincinnati"
-      ],
-      "actualResult": null
-    },
-    {
       "id": "bejlek-keys-2026-08-20",
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/4 финала",
       "kickoff": "2026-08-20T21:30:00+03:00",
       "status": "scheduled",
-      "playerA": { "name": "Сара Бейлек", "ranking": 35 },
-      "playerB": { "name": "Мэдисон Кис", "ranking": 24 },
-      "h2h": { "summary": "Ранее на туре не встречались — очная статистика 0:0.", "record": null },
+      "playerA": {
+        "name": "Сара Бейлек",
+        "ranking": 35
+      },
+      "playerB": {
+        "name": "Мэдисон Кис",
+        "ranking": 24
+      },
+      "h2h": {
+        "summary": "Ранее на туре не встречались — очная статистика 0:0.",
+        "record": null
+      },
       "form": {
-        "playerA": { "last5": "22-14 по сезону 2026. В 1/8 финала совершила главную сенсацию турнира, обыграв первую ракетку мира Арину Соболенко 7:6(7), 6:4, и впервые в карьере вышла в четвертьфинал турнира WTA 1000." },
-        "playerB": { "last5": "На пути в четвертьфинал отдала соперницам всего один сет; чемпионка Цинциннати 2019 года, ищет первую серию уверенных побед на харде в этом летнем отрезке сезона." }
+        "playerA": {
+          "last5": "22-14 по сезону 2026. В 1/8 финала совершила главную сенсацию турнира, обыграв первую ракетку мира Арину Соболенко 7:6(7), 6:4, и впервые в карьере вышла в четвертьфинал турнира WTA 1000."
+        },
+        "playerB": {
+          "last5": "На пути в четвертьфинал отдала соперницам всего один сет; чемпионка Цинциннати 2019 года, ищет первую серию уверенных побед на харде в этом летнем отрезке сезона."
+        }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["Агрессивная и рискованная игра с задней линии", "Отличная форма и уверенность после победы над Соболенко", "Ничего не теряет в статусе андердога — играет без давления"],
-          "weaknesses": ["Минимальный опыт матчей такого уровня (первый четвертьфинал WTA 1000)", "Возможна физическая и эмоциональная усталость после выноса Соболенко", "Менее стабильна на второй подаче под давлением"]
+          "strengths": [
+            "Агрессивная и рискованная игра с задней линии",
+            "Отличная форма и уверенность после победы над Соболенко",
+            "Ничего не теряет в статусе андердога — играет без давления"
+          ],
+          "weaknesses": [
+            "Минимальный опыт матчей такого уровня (первый четвертьфинал WTA 1000)",
+            "Возможна физическая и эмоциональная усталость после выноса Соболенко",
+            "Менее стабильна на второй подаче под давлением"
+          ]
         },
         "playerB": {
-          "strengths": ["Один из сильнейших ударов справа и подач в туре", "Опыт выступлений и титул в Цинциннати (2019)", "Уверенно прошла турнир, отдав только один сет"],
-          "weaknesses": ["Долго искала серию побед на харде этим летом", "Может быть нестабильна в затяжных розыгрышах", "Нет данных личных встреч с соперницей — фактор неопределённости"]
+          "strengths": [
+            "Один из сильнейших ударов справа и подач в туре",
+            "Опыт выступлений и титул в Цинциннати (2019)",
+            "Уверенно прошла турнир, отдав только один сет"
+          ],
+          "weaknesses": [
+            "Долго искала серию побед на харде этим летом",
+            "Может быть нестабильна в затяжных розыгрышах",
+            "Нет данных личных встреч с соперницей — фактор неопределённости"
+          ]
         }
       },
       "prediction": {
@@ -321,6 +654,355 @@
         "https://www.easternmirrornagaland.com/sara-bejlek-stuns-sabalenka-in-cincinnati-to-reach-first-wta-1000-qf",
         "https://www.sportytrader.com/pronostics/sara-bejlek-madison-keys-366988/",
         "https://www.rotowire.com/tennis/player/sara-bejlek-4759"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "paul-cobolli-2026-08-20",
+      "tournament": "Cincinnati Open (ATP Masters 1000)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-20T22:00:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Томми Пол",
+        "ranking": 24
+      },
+      "playerB": {
+        "name": "Флавио Коболли",
+        "ranking": 10
+      },
+      "h2h": {
+        "summary": "Личных встреч было всего одна — Коболли обыграл Пола в Цинциннати-2024 со счётом 6:2, 4:6, 7:5. На харде и на турнирах Большого Шлема также счёт 1:0 в пользу итальянца.",
+        "record": {
+          "aWins": 0,
+          "bWins": 1
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "36-15 по сезону 2026 (17-8 на харде). В 1/8 финала спас матчбол и сенсационно обыграл первую ракетку посева Александра Зверева 4:6, 7:6(6), 6:4 — один из главных апсетов турнира."
+        },
+        "playerB": {
+          "last5": "30-17 по сезону 2026 (12-6 на харде). В 1/8 финала прошёл Рафаэля Ходара 4:6, 7:6(3), 6:3; считается одним из самых стабильных игроков турнира на этой стадии."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Атлетизм и скорость по корту",
+            "Поддержка домашней публики (США, штат Огайо)",
+            "Разнообразная игра у сетки",
+            "Хорошо чувствует себя в матчах на морально-волевых"
+          ],
+          "weaknesses": [
+            "Нестабильность первой подачи под давлением",
+            "Уступает в форхенде при обмене силовыми ударами",
+            "Может проседать физически в затяжных матчах"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Мощный форхенд и агрессия с задней линии",
+            "Хорошее движение для игрока такого роста",
+            "Уверенная игра на решающих сетах в 2026 году"
+          ],
+          "weaknesses": [
+            "Процент попадания первой подачи нестабилен",
+            "Уступает в опыте больших матчей на Masters 1000",
+            "Может терять концентрацию при смене темпа соперником"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "medium",
+        "reasoning": "Коболли выше в рейтинге, ведёт в личных встречах и подходит к матчу в очень хорошей форме, обыграв Ходара тремя сетами. Однако Пол только что сенсационно выбил Зверева и будет играть при поддержке американской публики, поэтому исход не выглядит очевидным.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1043804/updated-qf-prediction-h2h-of-tommy-pauls-draw-vs-cobolli-fils-fritz-to-win-the-cincinnati/",
+        "https://www.bets.com.au/tennis/atp-tour/flavio-cobolli-vs-tommy-paul-atp-cincinnati-tips-prediction-live-stream-20260820-0004/",
+        "https://www.atptour.com/en/news/zverev-paul-cincinnati-2026-wednesday",
+        "https://lastwordonsports.com/tennis/2026/08/20/atp-cincinnati-best-bets-paul-cobolli/",
+        "https://www.oasport.it/2026/08/flavio-cobolli-contro-tommy-paul-ecco-loccasione-a-cincinnati/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "tiafoe-musetti-2026-08-20",
+      "tournament": "Cincinnati Open (ATP Masters 1000)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-21T02:00:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Фрэнсис Тиафо",
+        "ranking": 23
+      },
+      "playerB": {
+        "name": "Лоренцо Музетти",
+        "ranking": 15
+      },
+      "h2h": {
+        "summary": "Общий счёт личных встреч 4:4, при этом на харде и турнирах Большого Шлема Тиафо ведёт 2:1. Матч ожидается очень равным.",
+        "record": {
+          "aWins": 4,
+          "bWins": 4
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "В 1/8 финала обыграл посеянного вторым Феликса Оже-Альяссима 6:3, 6:4, дойдя до шестого в карьере четвертьфинала Masters 1000 (второго в Цинциннати)."
+        },
+        "playerB": {
+          "last5": "В 1/8 финала прошёл Жайме Фарию 7:5, 6:2 менее чем за полтора часа, продемонстрировав уверенную игру с задней линии."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Взрывная атлетичность и скорость",
+            "Мощный форхенд по линии",
+            "Умеет переигрывать топ-соперников на решающих отрезках"
+          ],
+          "weaknesses": [
+            "Нестабильность на приёме подачи",
+            "Может проваливать концентрацию в отдельных геймах",
+            "Уступает Музетти в разнообразии ударов"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Одноручный бэкхенд с большой вариативностью",
+            "Тонкое чувство мяча и игра с разных вращений",
+            "Хорошая игра у сетки"
+          ],
+          "weaknesses": [
+            "Уступает в физической мощи и скорости первого удара",
+            "Не всегда стабилен под давлением на важных геймах",
+            "Слабее исторически на харде, чем на грунте"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Личные встречи практически равны (4:4), но на харде и на турнирах Большого Шлема небольшое преимущество у Тиафо, который к тому же только что обыграл более именитого Оже-Альяссима и по нескольким прогнозным моделям считается фаворитом матча.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.tennis.com/tournaments/cincinnati-open/matches/l-musetti-vs-f-tiafoe-2026-08-21",
+        "https://en.tennistemple.com/h2h/frances-tiafoe-vs-lorenzo-musetti/4094/7874",
+        "https://www.atptour.com/en/news/auger-aliassime-tiafoe-cincinnati-2026-wednesday",
+        "https://www.oasport.it/2026/08/lorenzo-musetti-vince-e-convince-contro-jaime-faria-lazzurro-approda-ai-quarti-di-finale-a-cincinnati/",
+        "https://www.sportscapemagazine.com/blog/frances-tiafoe-lorenzo-musetti-reach-cincinnati-quarterfinals"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "swiatek-rybakina-2026-08-20",
+      "tournament": "Cincinnati Open (WTA 1000)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-21T02:00:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Ига Свёнтек",
+        "ranking": 7
+      },
+      "playerB": {
+        "name": "Елена Рыбакина",
+        "ranking": 2
+      },
+      "h2h": {
+        "summary": "Свёнтек ведёт в личных встречах 7:6 (5:3 на харде в открытых турнирах), в том числе выиграла обе встречи в финалах (Доха-2024 и Торонто-2026). Неделю назад в финале Торонто победила Рыбакину 6:3, 6:2.",
+        "record": {
+          "aWins": 7,
+          "bWins": 6
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Действующая чемпионка Цинциннати, на серии из 9 побед подряд. В 1/8 финала обыграла Диану Пари 6:3, 6:3 после победы над Марией Саккари 4:6, 6:1, 6:1 ранее; восемь из последних девяти матчей в Цинциннати выиграла в двух сетах."
+        },
+        "playerB": {
+          "last5": "Все три матча в Цинциннати выиграла в двух сетах (в частности, обыграла Магду Френч и Диану Шнайдер 6:4, 6:4 в 1/8 финала), но перед этим провела очень тяжёлую неделю в Торонто — почти 11 часов на корте за пять матчей."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Тяжёлый топспиновый форхенд",
+            "Исключительное передвижение по корту",
+            "Психологическая устойчивость в решающих матчах",
+            "Явное текущее преимущество в личных встречах"
+          ],
+          "weaknesses": [
+            "Может нестабильно подавать под давлением",
+            "Уступает Рыбакиной в скорости и мощи подачи навылет",
+            "Иногда проседает физически в третьих сетах после насыщенной недели"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Одна из мощнейших и точных подач в туре",
+            "Плоский, атакующий удар с обеих рук",
+            "Способна быстро завершать розыгрыши"
+          ],
+          "weaknesses": [
+            "Может накапливать невынужденные ошибки и двойные при усталости",
+            "Уступает в общем счёте личных встреч",
+            "Физическая нагрузка после марафонской недели в Торонто может сказаться"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Свёнтек ведёт в личных встречах и обыграла Рыбакину в двух последних очных финалах, включая совсем недавний в Торонто. При этом Рыбакина не проиграла ни сета в Цинциннати и способна навязать борьбу за счёт подачи, поэтому уверенность не абсолютная.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://matchstat.com/tennis/h2h-odds-bets/Iga%20Swiatek/Elena%20Rybakina/",
+        "https://lastwordonsports.com/tennis/2026/08/19/wta-cincinnati-quarterfinal-predictions-including-iga-swiatek-vs-elena-rybakina/",
+        "https://www.bets.com.au/tennis/wta-tour/elena-rybakina-vs-iga-swiatek-wta-cincinnati-tips-prediction-live-stream-20260820-0005/",
+        "https://www.wtatennis.com/news/4562697/swiatek-defeats-parry-in-cincinnati-to-make-30th-wta-1000-quarterfinal",
+        "https://www.puntodebreak.com/en/2026/08/20/swiatek-and-rybakina-meet-again-in-cincinnati-showdown-in-the-quarterfinals"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "tirante-fils-2026-08-20",
+      "tournament": "Cincinnati Open (ATP Masters 1000)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-21T03:30:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Тиаго Агустин Тиранте",
+        "ranking": 50
+      },
+      "playerB": {
+        "name": "Артур Филс",
+        "ranking": 24
+      },
+      "h2h": {
+        "summary": "Личных встреч на туре ATP между игроками ещё не было — очная статистика 0:0.",
+        "record": null
+      },
+      "form": {
+        "playerA": {
+          "last5": "31-17 по сезону 2026 (14-7 на харде). Впервые в карьере вышел в четвертьфинал турнира Masters 1000: во 2-м круге сенсационно обыграл Новака Джоковича, а в 1/8 финала прошёл Якуба Меньшика 5:7, 6:4, 6:4. Это уже его пятый матч в Цинциннати без учёта квалификации плюс матчи в Монреале неделей ранее — накопилась усталость."
+        },
+        "playerB": {
+          "last5": "29-10 по сезону 2026 (17-5 на харде). В Цинциннати отдал соперникам всего один сет (по тай-брейку Легечке); в 1/8 финала уверенно обыграл Алекса де Минора 6:3, 6:4."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Боевой характер, умеет спасать сложные ситуации",
+            "Уже обыграл двух более высокорейтинговых соперников на этом турнире",
+            "Хорошая физическая выносливость в равных розыгрышах"
+          ],
+          "weaknesses": [
+            "Накопленная усталость после серии из Монреаля и Цинциннати",
+            "Уступает в мощности подачи топ-соперникам",
+            "Ограниченный опыт матчей такого уровня"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Мощнейшая подача и форхенд",
+            "Очень уверенная форма — отдал всего один сет за весь турнир",
+            "Хорошая игра на решающих мячах в этом сезоне"
+          ],
+          "weaknesses": [
+            "Порой нестабилен психологически в затяжных матчах",
+            "Уступает в вариативности игры более опытным соперникам",
+            "Пока не хватает регулярности выступлений на стадии четвертьфиналов Masters 1000"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "high",
+        "reasoning": "Личных встреч не было, но по форме, рейтингу и физической свежести явное преимущество у Филса — он потерял всего один сет за турнир, тогда как Тиранте провёл уже несколько изматывающих трёхсетовых битв подряд, включая победу над Джоковичем.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1043810/updated-qf-prediction-h2h-of-thiago-agustin-tirantes-draw-vs-fils-cobolli-fritz-to-win-the-cincinnati/",
+        "https://www.sportytrader.com/us/picks/thiago-agustin-tirante-arthur-fils-366999/",
+        "https://www.tennismajors.com/atp/the-week-of-his-life-tirante-topples-mensik-to-reach-a-first-masters-quarter-final-858873.html",
+        "https://tenngrand.com/cincinnati-tennis-preview-pick-prediction-fils-vs-tirante/",
+        "https://sports.yahoo.com/articles/thiago-agustin-tirante-atp-no-211025501.html"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "gauff-kostyuk-2026-08-20",
+      "tournament": "Cincinnati Open (WTA 1000)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-21T04:00:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Коко Гауфф",
+        "ranking": 4
+      },
+      "playerB": {
+        "name": "Марта Костюк",
+        "ranking": 11
+      },
+      "h2h": {
+        "summary": "В общем счёте Гауфф ведёт 3:2, однако последнюю встречу в Дохе в феврале 2025 года уверенно выиграла Костюк — 6:2, 7:5.",
+        "record": {
+          "aWins": 3,
+          "bWins": 2
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "В 1/8 финала уверенно обыграла Мари Бузкову 6:3, 6:2; ранее в третьем круге прошла Энн Ли 6:1, 7:6(3). В целом уверенно проводит харды после удачного Торонто."
+        },
+        "playerB": {
+          "last5": "Отыгралась с проигранного первого сета и обыграла пятую сеянную Мирру Андрееву 4:6, 6:0, 6:2 — уже восьмая победа над топ-10 соперницей в этом сезоне; выиграла 26 из последних 29 матчей."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Исключительная скорость и защита по корту",
+            "Отличная работа ног, позволяющая отыгрывать сложные мячи",
+            "Поддержка домашней публики"
+          ],
+          "weaknesses": [
+            "Нестабильная подача, особенно вторая",
+            "Форхенд может давать сбои под давлением",
+            "В последней личной встрече уступила именно Костюк"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Сейчас в лучшей форме сезона (26 побед в 29 матчах)",
+            "Агрессивная игра с задней линии",
+            "Умеет обыгрывать топовых соперниц — уже восемь побед над топ-10 в сезоне"
+          ],
+          "weaknesses": [
+            "Уступает Гауфф в общем счёте личных встреч",
+            "Менее стабильна на приёме мощной подачи",
+            "Может испытывать эмоциональные качели в ключевые моменты"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "low",
+        "reasoning": "Гауфф выше в рейтинге и в целом ведёт в личных встречах, но Костюк подходит к матчу в лучшей форме сезона и выиграла последнюю очную встречу в двух сетах, поэтому уверенность в исходе невысокая.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.olympics.com/en/news/cincinnati-open-2026-coco-gauff-eases-past-marie-bouzkova-last-eight-clash-with-marta-kostyuk",
+        "https://www.wtatennis.com/news/4562803/kostyuk-continues-year-of-firsts-rallying-past-andreeva-to-reach-cincy-quarters",
+        "https://www.tennismajors.com/wta-tour-news/kostyuk-avenges-roland-garros-heartbreak-to-down-andreeva-in-cincinnati-thriller-858867.html",
+        "https://www.wtatennis.com/news/4563025/look-at-the-time-breaking-down-gauffs-win-over-bouzkova-by-the-minute",
+        "https://unn.ua/en/amp/marta-kostyuk-defeated-russias-top-ranked-player-and-advanced-to-the-quarterfinals-of-the-1000-level-tournament-in-cincinnati"
       ],
       "actualResult": null
     }
