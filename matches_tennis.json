@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T18:20:00+03:00",
+  "generatedAt": "2026-08-20T19:19:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -591,10 +591,10 @@
       "actualResult": null
     },
     {
-      "id": "bejlek-keys-2026-08-20",
+      "id": "bejlek-keys-2026-08-21",
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/4 финала",
-      "kickoff": "2026-08-20T21:30:00+03:00",
+      "kickoff": "2026-08-21T21:30:00+03:00",
       "status": "scheduled",
       "playerA": {
         "name": "Сара Бейлек",
@@ -729,10 +729,10 @@
       "actualResult": null
     },
     {
-      "id": "tiafoe-musetti-2026-08-20",
+      "id": "tiafoe-musetti-2026-08-21",
       "tournament": "Cincinnati Open (ATP Masters 1000)",
       "round": "1/4 финала",
-      "kickoff": "2026-08-21T02:00:00+03:00",
+      "kickoff": "2026-08-22T02:00:00+03:00",
       "status": "scheduled",
       "playerA": {
         "name": "Фрэнсис Тиафо",
@@ -937,10 +937,10 @@
       "actualResult": null
     },
     {
-      "id": "gauff-kostyuk-2026-08-20",
+      "id": "gauff-kostyuk-2026-08-21",
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/4 финала",
-      "kickoff": "2026-08-21T04:00:00+03:00",
+      "kickoff": "2026-08-21T20:00:00+03:00",
       "status": "scheduled",
       "playerA": {
         "name": "Коко Гауфф",
