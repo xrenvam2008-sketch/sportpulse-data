@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T07:15:00+03:00",
+  "generatedAt": "2026-08-20T08:19:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -970,7 +970,7 @@
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-20T03:30:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Арина Соболенко",
         "ranking": 1
@@ -1021,7 +1021,7 @@
       "prediction": {
         "winner": "playerA",
         "confidence": "high",
-        "reasoning": "Соболенко — явный фаворит по коэффициентам (около 1.19 против 4.7) благодаря классу, статистике сезона на харде и статусу первой ракетки, хотя впечатляющая серия Бейлек в Цинциннати добавляет матчу интригу. По ходу игры Бейлек выиграла 1-й сет на тай-брейке 7-6, после чего матч был приостановлен (погодная пауза); официального подтверждения финального счёта на момент составления дайджеста нет, поэтому статус сохранён как live, а итоговый счёт не указывается.",
+        "reasoning": "Соболенко считалась явным фаворитом по коэффициентам (около 1.19 против 4.7) благодаря классу, статистике сезона на харде и статусу первой ракетки, хотя впечатляющая серия побед Бейлек над сеяными соперницами в Цинциннати добавляла матчу интригу.",
         "predictedScore": "2:0"
       },
       "sources": [
@@ -1031,16 +1031,16 @@
         "https://www.sportytrader.com/us/picks/aryna-sabalenka-sara-bejlek-366818/",
         "https://www.stevegtennis.com/head-to-head/women/Aryna_Sabalenka/Sara_Bejlek/",
         "https://matchstat.com/tennis/player/Sara%20Bejlek/",
-        "https://www.tennismajors.com/wta-tour-news/sabalenka-cruises-into-cincinnati-last-16-will-face-seed-killer-bejlek-next-858836.html"
+        "https://www.wtatennis.com/news/4563121/bejlek-stuns-sabalenka-in-straight-sets-to-reach-cincinnati-quarterfinals"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
-      "id": "keys-wang-xiyu-2026-08-21",
+      "id": "keys-wang-xiyu-2026-08-19",
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/8 финала",
-      "kickoff": "2026-08-21T02:00:00+03:00",
-      "status": "scheduled",
+      "kickoff": "2026-08-19T23:30:00+03:00",
+      "status": "finished",
       "playerA": {
         "name": "Мэдисон Кис",
         "ranking": 24
@@ -1091,7 +1091,7 @@
       "prediction": {
         "winner": "playerA",
         "confidence": "medium",
-        "reasoning": "Прогнозные модели дают Кис около 78% на победу благодаря классу, рейтингу и опыту побед на этом турнире (титул-2019), хотя после победы над Фернандес и лишнего дня отдыха Ван Сию считается способной навязать борьбу.",
+        "reasoning": "Прогнозные модели давали Кис около 78% на победу благодаря классу, рейтингу и опыту побед на этом турнире (титул-2019), хотя после победы над Фернандес и лишнего дня отдыха Ван Сию считалась способной навязать борьбу. Точное время начала матча источники не публиковали, использована оценочная расстановка по аналогии с другими матчами сессии.",
         "predictedScore": "2:0"
       },
       "sources": [
@@ -1099,7 +1099,77 @@
         "https://www.sportytrader.com/us/picks/madison-keys-xiyu-wang-366815/",
         "https://www.dimers.com/tennis/news/madison-keys-vs-xiyu-wang-tennis-prediction-wta-cincinnati-open-2026-ac",
         "https://www.rotowire.com/tennis/article/tennis-betting-2026-cincinnati-open-betting-picks-odds-predictions-and-tennis-best-bets-819-128789",
-        "https://sports.yahoo.com/tennis/2026/western-southern-open/womens-singles/madison-keys-xiyu-wang-15754728/"
+        "https://www.wtatennis.com/videos/4563075/keys-returns-to-final-eight-in-cincinnati"
+      ],
+      "actualResult": "2:0"
+    },
+    {
+      "id": "keys-bejlek-2026-08-21",
+      "tournament": "Cincinnati Open (WTA 1000)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-21T19:30:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Мэдисон Кис",
+        "ranking": 24
+      },
+      "playerB": {
+        "name": "Сара Бейлек",
+        "ranking": 35
+      },
+      "h2h": {
+        "summary": "Личных встреч ранее не было — это первая очная встреча теннисисток.",
+        "record": {
+          "aWins": 0,
+          "bWins": 0
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Вышла в 4-й четвертьфинал Цинциннати в карьере (чемпионка 2019 года): обыграла Дарью Снигур, Катерину Синякову и Ван Сию 7-6(3), 6-4."
+        },
+        "playerB": {
+          "last5": "На пике карьеры — первый WTA 1000 четвертьфинал: победы над Каролиной Плишковой 6-0, 6-2, Барборой Крейчиковой 7-6(5), 6-4, 16-й сеяной Екатериной Александровой 4-6, 6-1, 6-2 и сенсационный обыгрыш 1-й ракетки мира Арины Соболенко 7-6(3), 6-4."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Один из самых мощных форхендов и в целом ударов с обеих рук в туре",
+            "Мощная подача",
+            "Опыт больших турниров, титул в Цинциннати-2019"
+          ],
+          "weaknesses": [
+            "Нестабильна по ходу сезона-2026, склонна к сериям невынужденных ошибок",
+            "Вторую подачу можно атаковать агрессивным приёмом"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Плоский, агрессивный удар с задней линии",
+            "Победы над тремя сеяными подряд, включая 1-ю ракетку мира",
+            "Карьерный пик уверенности и моментум турнира"
+          ],
+          "weaknesses": [
+            "Нет опыта четвертьфиналов такого уровня (WTA 1000)",
+            "Уже сыграла четыре тяжёлых матча подряд — вопрос физической свежести",
+            "Существенно ниже по рейтингу и статусу в туре"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Пара определилась только по итогам матчей 1/8 финала, поэтому отдельного прематчевого превью с коэффициентами на эту конкретную встречу пока не опубликовано — прогноз основан на общих данных формы и статуса игроков. Кис выше классом, мощнее и опытнее (титул Цинциннати-2019), но Бейлек находится в исключительной форме, выбив подряд трёх сеяных соперниц вплоть до первой ракетки мира, что делает матч более равным, чем предполагает разница в рейтинге.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.wtatennis.com/news/4563121/bejlek-stuns-sabalenka-in-straight-sets-to-reach-cincinnati-quarterfinals",
+        "https://www.tennismajors.com/wta-tour-news/sabalenka-cruises-into-cincinnati-last-16-will-face-seed-killer-bejlek-next-858836.html",
+        "https://www.wtatennis.com/videos/4563075/keys-returns-to-final-eight-in-cincinnati",
+        "https://www.sofascore.com/tennis/player/bejlek-sara/360184",
+        "https://www.sofascore.com/tennis/player/keys-madison/35424",
+        "https://tennistonic.com/tennis-news/1043577/sara-bejlek-overcomes-alexandrova-in-the-3rd-round-to-set-up-a-clash-vs-sabalenka-at-the-cincinnati-open-highlights-cincinnati-results/"
       ],
       "actualResult": null
     },
