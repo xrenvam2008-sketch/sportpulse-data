@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T03:22:00+03:00",
+  "generatedAt": "2026-08-20T04:25:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -623,7 +623,7 @@
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-19T22:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Коко Гауфф",
         "ranking": 4
@@ -685,7 +685,7 @@
         "https://www.tennismajors.com/wta-tour-news/gauff-cruises-past-li-into-cincinnati-last-16-858814.html",
         "https://tribuna.1xbet.kz/news/cincinnati-2026-schedule-august-19-zverev-gauff-fritz/"
       ],
-      "actualResult": null
+      "actualResult": "2:0"
     },
     {
       "id": "cirstea-pegula-2026-08-19",
@@ -754,7 +754,7 @@
         "https://www.wtatennis.com/news/4561658/pegula-remains-unbeaten-against-navarro-with-straight-sets-cincinnati-victory",
         "https://metaratings.ru/prognozy/tennis/cirstea-pegula-prognoz-na-match-wta-cincinnati-19-avgusta-2026-goda/"
       ],
-      "actualResult": "0:2"
+      "actualResult": "1:2"
     },
     {
       "id": "noskova-anisimova-2026-08-19",
@@ -967,7 +967,7 @@
       "tournament": "Cincinnati Open (WTA 1000)",
       "round": "1/8 финала",
       "kickoff": "2026-08-20T03:30:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Арина Соболенко",
         "ranking": 1
