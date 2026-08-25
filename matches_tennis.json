@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T21:18:00+03:00",
+  "generatedAt": "2026-08-25T22:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -203,7 +203,7 @@
       "tournament": "US Open, квалификация",
       "round": "1 круг квалификации",
       "kickoff": "2026-08-25T19:55:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Лоренцо Джустино", "ranking": null },
       "playerB": { "name": "Григор Димитров", "ranking": 146 },
       "h2h": null,
@@ -224,7 +224,7 @@
       "prediction": {
         "winner": "playerB",
         "confidence": "low",
-        "reasoning": "Димитров выше в рейтинге и обладает несравнимо большим опытом турниров высокого уровня, но переживает кризисный период после серии травм и поражений. Джустино в этом сезоне играет достаточно ровно, поэтому исход матча трудно предсказать с высокой уверенностью. Матч уже идёт (начался около 19:55 МСК); подтверждённого текущего счёта из доступных источников получить не удалось, поэтому итоговый результат не проставлен.",
+        "reasoning": "Димитров выше в рейтинге и обладает несравнимо большим опытом турниров высокого уровня, но переживает кризисный период после серии травм и поражений. Джустино в этом сезоне играет достаточно ровно, поэтому исход матча трудно предсказать с высокой уверенностью по предматчевым данным.",
         "predictedScore": "2:1"
       },
       "sources": [
@@ -233,9 +233,9 @@
         "https://bg-24.com/grigor-dimitrov-ostaetsya-na-146-pozicii-v-reytinge-atr/",
         "https://bourgas.ru/grigor-dimitrov-oficialno-vybyl-iz-top-100-mirovogo-reytinga/",
         "https://www.championat.com/tennis/player/2635.html",
-        "https://www.oddschecker.com/us/picks-parlays/tennis/20260825-lorenzo-giustino-vs-grigor-dimitrov-prediction-betting-pick-latest-us-open-qualifiers-odds--tuesday-august-25th"
+        "https://en.tennistemple.com/actu/nishikori-outlasts-dimitrov-cruises-us-open/mKY7"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "astakhova-bassols-ribera-2026-08-25",
@@ -397,7 +397,7 @@
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "1/16 финала",
       "kickoff": "2026-08-25T22:10:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Люка Ван Аш", "ranking": 40 },
       "playerB": { "name": "Александар Ковачевич", "ranking": 89 },
       "h2h": { "summary": "Личных встреч на туре ранее не было — первая очная игра.", "record": { "aWins": 0, "bWins": 0 } },
@@ -504,6 +504,204 @@
         "https://indiasportshub.com/dhakshineswar-suresh-strengths-potential-and-the-rise-of-indias-next-tennis-contender/",
         "https://en.tennistemple.com/match/suresh-giron-winston-salem-2026/9478313/",
         "https://www.tennisexplorer.com/winston-salem/2026/atp-men/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "medvedev-damm-2026-08-26",
+      "tournament": "ATP-250 Уинстон-Сейлем",
+      "round": "1/16 финала",
+      "kickoff": "2026-08-26T01:30:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Даниил Медведев", "ranking": 7 },
+      "playerB": { "name": "Мартин Дамм", "ranking": 100 },
+      "h2h": { "summary": "Личных встреч ранее не было — первая очная игра.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "5-5 в последних 10 матчах, играет по уайлд-кард; последнее поражение — от Брэндона Накашимы в Цинциннати. В 2026 году были титулы в Брисбене и Дубае и финал Индиан-Уэллса; в Уинстон-Сейлеме побеждал шесть раз подряд и выигрывал турнир в 2018 году." },
+        "playerB": { "last5": "Стремительный взлёт в рейтинге за последний год; в 1-м круге здесь обыграл Абдаллу Шелбайха; в 2026 году также финал парного турнира в Сарасоте." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Мощная и разнообразная подача", "Нестандартный, результативный форхенд", "Огромный опыт больших турниров и уже победитель Уинстон-Сейлема (2018)"],
+          "weaknesses": ["В 4 из последних 5 матчей отдавал сет соперникам за пределами топ-90", "Уязвим против плоских, силовых подающих, забирающих время на приёме"]
+        },
+        "playerB": {
+          "strengths": ["Мощнейшая подача (около 79% выигранных очков на первой подаче)", "Физические данные (рост 203 см), левша", "Хорошо держит подачу под давлением и реализует брейк-пойнты соперника (66,2%)"]
+          ,
+          "weaknesses": ["Тактическая неопытность по сравнению с топ-игроками", "Гораздо меньше опыта на харде (73-110 в основных сетках)", "Всего один день отдыха перед матчем против семи у Медведева"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Медведев считался фаворитом по прогнозным моделям (около 73% вероятности) и коэффициентам букмекеров (примерно 62% против 38%), но аналитики отмечали его уязвимость против низкорейтинговых силовых подающих в последних матчах, поэтому уверенность в исходе средняя.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://www.tennis.com/tournaments/winston-salem-open/matches/d-medvedev-vs-m-damm-jr-2026-08-25",
+        "https://en.tennistemple.com/match/medvedev-damm-winston-salem-2026/9478288/",
+        "https://www.bets.com.au/tennis/atp-tour/daniil-medvedev-vs-martin-damm-atp-winston-salem-tips-prediction-live-stream-20260825-0008/",
+        "https://www.atptour.com/en/news/medvedev-winston-salem-2026-wild-card",
+        "https://tennistonic.com/tennis-news/1044078/medvedev-returns-to-winston-salem-with-wild-card-entry/",
+        "https://10sballs.com/2026/08/20/daniil-medvedev-awarded-winston-salem-wild-card/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "kecmanovic-marozsan-2026-08-26",
+      "tournament": "ATP-250 Уинстон-Сейлем",
+      "round": "1/16 финала",
+      "kickoff": "2026-08-26T03:30:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Миомир Кецманович", "ranking": 64 },
+      "playerB": { "name": "Фабиан Марожан", "ranking": 63 },
+      "h2h": { "summary": "Марожан ведёт в личных встречах 3:1 из четырёх матчей, включая победу 6:4, 6:3 в Мальорке в июне 2026 года.", "record": { "aWins": 1, "bWins": 3 } },
+      "form": {
+        "playerA": { "last5": "Нестабильный сезон-2026 (источники расходятся в точном балансе побед/поражений); в 1-м круге здесь обыграл Шо Симабукуро 6:4, 6:3." },
+        "playerB": { "last5": "Также нестабильная форма в 2026 году, посеян 15-м в Уинстон-Сейлеме; недавно уступил Маттео Арнальди в Монреале." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Разносторонняя игра со всех точек корта", "Хорошее передвижение на харде", "Более высокий потенциал по оценке аналитиков"],
+          "weaknesses": ["Нестабильная форма в сезоне-2026", "Проигрывал стилю игры Марожана в 3 из 4 личных встреч"]
+        },
+        "playerB": {
+          "strengths": ["Атакующая игра первым темпом", "Разнообразие ударов (резаные, укороченные), которое создаёт проблемы Кецмановичу", "Психологическое преимущество по личным встречам (3:1)"],
+          "weaknesses": ["Заметный спад формы в этом сезоне относительно пикового рейтинга (топ-30)", "Место в рейтинге за пределами топ-60"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "low",
+        "reasoning": "Букмекерские линии немного выделяли Кецмановича (около 61% вероятности), однако ряд аналитиков (Last Word on Sports) отдавали предпочтение Марожану из-за преимущества в личных встречах и разнообразия его игры — прогноз по обеим составляющим расходится, поэтому уверенность низкая.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://www.bleachernation.com/picks/2026/08/24/kecmanovic-vs-marozsan-prediction-at-the-winston-salem-open-tuesday-august-25/",
+        "https://tennistonic.com/tennis-news/1045230/how-to-watch-marozsan-vs-kecmanovic-on-live-streaming-in-winston-salem-on-tuesday/",
+        "https://lastwordonsports.com/tennis/2026/08/24/atp-winston-salem-day-3-predictions-darderi-vs-bellucci/",
+        "https://www.winstonsalemopen.com/en/scores/head-to-head/singles/ki95/m0ci",
+        "https://tenngrand.com/winston-salem-atp-250-preview-and-predictions-2026/",
+        "https://www.tennistv.com/players/M0CI/fabian-marozsan/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "bucsa-bondar-2026-08-26",
+      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
+      "round": "1 круг",
+      "kickoff": "2026-08-26T00:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Кристина Букша", "ranking": 40 },
+      "playerB": { "name": "Анна Бондар", "ranking": 90 },
+      "h2h": { "summary": "Букша ведёт 1:0 — победила в Брисбене 5 января 2026 года 4:6, 7:6(4), 6:2.", "record": { "aWins": 1, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "После победного титула в Мериде (обыграла Фрэк в финале) резко просела в форме — выиграла лишь 2 из 11 следующих матчей; есть вопросы к физическому состоянию." },
+        "playerB": { "last5": "Победная серия из 10 матчей подряд (сезон 28-22), включая два выигранных раунда квалификации в Монтеррее и финал турнира в Гамбурге." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Более высокий рейтинг и посев (8-я в Монтеррее)", "Игровые навыки у сетки, отточенные в парном разряде", "Уже есть победа над Бондар в личной встрече"],
+          "weaknesses": ["Слабая форма 2026 года (2 победы в последних 11 матчах)", "Вопросы к физической готовности"]
+        },
+        "playerB": {
+          "strengths": ["Серия из 10 побед подряд", "Уверенная игра с задней линии, показанная на грунтовом сезоне", "Импульс после выхода из квалификации Монтеррея"]
+          ,
+          "weaknesses": ["Более низкий рейтинг, чем у Букши", "Статус квалифайер означает больше сыгранных матчей и меньше отдыха", "Проиграла единственную личную встречу с Букшей"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Несмотря на более высокий рейтинг Букши, букмекерские коэффициенты фактически делают Бондар фаворитом (около 1.73 против 2.12), а аналитики отмечают её серию из 10 побед против серьёзного спада формы Букши после Мериды — расхождение между рейтингом и текущими котировками снижает уверенность прогноза.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://lastwordonsports.com/tennis/2026/08/24/wta-monterrey-day-3-predictions-bucsa-bondar/",
+        "https://tennistonic.com/tennis-news/1045456/monterrey-draw-cristina-bucsas-prediction-with-bondar-next-h2h-and-rankings/",
+        "https://tennistonic.com/tennis-news/1045462/monterrey-draw-anna-bondars-prediction-with-bucsa-next-h2h-and-rankings/",
+        "https://www.freetips.com/tennis/cristina-bucsa-vs-anna-bondar-betting-tips-20260825-0009/",
+        "https://www.wtatennis.com/players/321158/cristina-bucsa",
+        "https://www.wtatennis.com/players/322942/anna-bondar"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "zhang-timofeeva-2026-08-26",
+      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
+      "round": "1 круг",
+      "kickoff": "2026-08-26T00:30:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Чжан Шуай", "ranking": 53 },
+      "playerB": { "name": "Мария Тимофеева", "ranking": 92 },
+      "h2h": { "summary": "Первая личная встреча соперниц на туре.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "21-24 в сезоне 2026 года (11-11 на харде); проиграла в двух сетах Энн Ли во 2-м круге Цинциннати после выхода в 4-й круг Торонто." },
+        "playerB": { "last5": "30-16 в сезоне 2026 года (8-9 на харде); прошла квалификацию Монтеррея, обыграв в трёх сетах Ланлану Тарарудее и Камиллу Рахимову." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Большой турнирный опыт (в туре с 2003 года)", "Хорошая реализация брейк-пойнтов (около 48%)", "Агрессивные удары, сбивающие ритм соперниц"],
+          "weaknesses": ["Сезон 2026 года на уровне около 50% побед", "Недавнее поражение в двух сетах от более легкорейтинговой соперницы"]
+        },
+        "playerB": {
+          "strengths": ["Комфортна на харде (около 66% побед в карьере на этом покрытии)", "Стабильна в решающие моменты (около 48% спасённых брейк-пойнтов)", "Хорошая вторая подача"]
+          ,
+          "weaknesses": ["Прошла через квалификацию — больше сыгранных матчей и усталость", "Меньше опыта побед подряд в основных сетках турниров тура", "Ниже рейтинг, чем у Чжан"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "low",
+        "reasoning": "Источники расходятся: часть моделей даёт Чжан около 54% вероятности как более опытной и высокорейтинговой теннисистке, другая — around 55% Тимофеевой, отмечая её уверенную игру на харде и хорошую форму сезона; из-за расхождения прогнозов уверенность низкая.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1045450/monterrey-draw-shuai-zhangs-prediction-with-timofeeva-next-h2h-and-rankings/",
+        "https://tennistonic.com/tennis-news/1045453/monterrey-draw-maria-timofeevas-prediction-with-zhang-next-h2h-and-rankings/",
+        "https://www.sportytrader.com/en/results-live/shuai-zhang-maria-timofeeva-8771038/",
+        "https://en.tennistemple.com/match/zhang-timofeeva-monterrey-2026/9478390/predictions",
+        "https://www.thestatszone.com/shuai-zhang-vs-maria-timofeeva-preview-prediction-2026-monterrey-open-abierto-gnp-seguros-first-round-220102",
+        "https://www.wtatennis.com/tournaments/1039/monterrey/2026/scores/LS022"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "vidmanova-birrell-2026-08-26",
+      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
+      "round": "1 круг",
+      "kickoff": "2026-08-26T00:30:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Дарья Видманова", "ranking": 92 },
+      "playerB": { "name": "Кимберли Биррелл", "ranking": 69 },
+      "h2h": { "summary": "Личных встреч ранее не было — первая очная игра.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "На подъёме: вышла в финал турнира WTA-125 в Мемфисе (обыграв по пути Бассольс Риберу, Слоан Стивенс, Кэти Волынец и Ренату Сарасуа), затем выиграла два раунда квалификации в Монтеррее; баланс сезона 34-19." },
+        "playerB": { "last5": "Проиграла три матча подряд на харде Северной Америки, включая поражения от Голубич в Торонто и Рахимовой в Цинциннати; в 8 из последних 11 турниров не выигрывала ни одного матча основной сетки." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Высокая текущая уверенность после финала в Мемфисе", "Уже сыграла два матча в Монтеррее на этой неделе — акклиматизация к условиям", "Показала стойкость в недавних трёхсетовых матчах"],
+          "weaknesses": ["Рейтинг всё ещё на уровне квалифайера, ограниченный опыт больших матчей", "Карьерный пик рейтинга скромный (104-я строчка)"]
+        },
+        "playerB": {
+          "strengths": ["Более высокий рейтинг и больше опыта тура", "Есть громкие победы в сезоне 2026 года над топ-игроками"],
+          "weaknesses": ["Серия из 3 поражений подряд на текущем харде-свинге", "Не выиграла ни одного матча на этой серии турниров", "Может быть не в оптимальном ритме после спада"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Аналитики (Tennis Tonic, freetips.com) выделяют Видманову как фаворитку благодаря её текущему импульсу (финал в Мемфисе, две победы в квалификации Монтеррея) на фоне серии из трёх поражений подряд у Биррелл, хотя точный прогнозный счёт источники не приводили.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://www.wtatennis.com/tournaments/1039/monterrey/2026/scores/LS025",
+        "https://tennistonic.com/tennis-news/1045465/monterrey-draw-darja-vidmanovas-prediction-with-birrell-next-h2h-and-rankings/",
+        "https://tennistonic.com/tennis-news/1045468/monterrey-draw-kimberly-birrells-prediction-with-vidmanova-next-h2h-and-rankings/",
+        "https://www.freetips.com/tennis/darja-vidmanova-vs-kimberly-birrell-betting-tips-20260825-0011/",
+        "https://tennistonic.com/tennis-news/1045263/how-to-watch-birrell-vs-vidmanova-on-live-streaming-in-monterrey-on-tuesday/",
+        "https://www.sportytrader.com/us/picks/darja-vidmanova-kimberly-birrell-367984/"
       ],
       "actualResult": null
     }
