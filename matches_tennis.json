@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T00:35:00+03:00",
+  "generatedAt": "2026-08-26T01:30:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -263,7 +263,7 @@
       "prediction": {
         "winner": "playerB",
         "confidence": "medium",
-        "reasoning": "Бассольс Рибера заметно выше в рейтинге и подходит к турниру на волне стабильного сезона 2026 года и финала в Мадриде, тогда как Астахова исторически слабо проходит квалификации турниров Большого шлема, что делает испанку явным фаворитом по данным открытых источников, хотя точных коэффициентов букмекеров найти не удалось. Матч начался в 21:00 МСК; по состоянию на 00:35 МСК (более 3 часов спустя) подтверждённый актуальный счёт найти не удалось — доступные источники (WTA, Sofascore, Tennis Explorer) недоступны для проверки live-данных, поэтому статус оставлен как 'live' без угадывания результата.",
+        "reasoning": "Бассольс Рибера заметно выше в рейтинге и подходит к турниру на волне стабильного сезона 2026 года и финала в Мадриде, тогда как Астахова исторически слабо проходит квалификации турниров Большого шлема, что делает испанку явным фаворитом по данным открытых источников, хотя точных коэффициентов букмекеров найти не удалось. Матч начался в 21:00 МСК; по неподтверждённым данным Астахова выиграла 1-й сет 6:4, а Бассольс Рибера отыграла 2-й сет в тай-брейке 7:6(0), из-за чего матч должен был перейти в решающий сет — но подтверждённого исхода 3-го сета или итогового счёта найти не удалось, поэтому статус оставлен как 'live' без угадывания результата.",
         "predictedScore": "2:0"
       },
       "sources": [
@@ -281,7 +281,7 @@
       "tournament": "US Open, квалификация",
       "round": "1 круг квалификации",
       "kickoff": "2026-08-25T20:20:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Кристина Лютова", "ranking": 126 },
       "playerB": { "name": "Татьяна Прозорова", "ranking": 181 },
       "h2h": null,
@@ -310,16 +310,17 @@
         "https://sportmail.ru/news/tennis/71864763/",
         "https://www.championat.ru/tennis/news-6568198-kristina-lyutova-podnimetsya-na-103-pozicii-v-rejtinge-wta.html",
         "https://ru.wikipedia.org/wiki/%D0%9F%D1%80%D0%BE%D0%B7%D0%BE%D1%80%D0%BE%D0%B2%D0%B0,_%D0%A2%D0%B0%D1%82%D1%8C%D1%8F%D0%BD%D0%B0_%D0%98%D0%B3%D0%BE%D1%80%D0%B5%D0%B2%D0%BD%D0%B0",
-        "https://www.championat.com/tennis/article-6594582-kvalifikaciya-us-open-2026-setki-rezultaty-raspisanie-gde-smotret-s-kem-igrayut-lyutova-erika-andreeva-pridankina.html"
+        "https://www.championat.com/tennis/article-6594582-kvalifikaciya-us-open-2026-setki-rezultaty-raspisanie-gde-smotret-s-kem-igrayut-lyutova-erika-andreeva-pridankina.html",
+        "https://www.sofascore.com/tennis/match/kristina-liutova-tatiana-prozorova/Lybdskjwh"
       ],
-      "actualResult": null
+      "actualResult": "2:1"
     },
     {
       "id": "bellucci-darderi-2026-08-25",
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "1/16 финала",
       "kickoff": "2026-08-25T21:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Маттиа Беллуччи", "ranking": 96 },
       "playerB": { "name": "Лучано Дардери", "ranking": 22 },
       "h2h": { "summary": "Дардери ведёт в общих личных встречах 2:1, выиграв обе на грунте, тогда как Беллуччи выигрывал на харде (нынешнее покрытие). Последняя встреча — в Марракеше 1 апреля 2026 года, победа Дардери 6:4, 6:2.", "record": { "aWins": 1, "bWins": 2 } },
@@ -349,16 +350,17 @@
         "https://tennistonic.com/tennis-news/1044914/h2h-prediction-of-luciano-darderi-vs-mattia-bellucci-in-winston-salem-with-odds-preview-pick-25th-august-2026/",
         "https://www.statsinsider.com.au/news/mattia-bellucci-vs-luciano-darderi-prediction-atp-winston-salem-open-2026",
         "https://www.wincomparator.com/predictions/mattia-bellucci-luciano-darderi-8770967/",
-        "https://www.dimers.com/tennis/news/mattia-bellucci-vs-luciano-darderi-tennis-prediction-atp-winston-salem-open-2026-ac"
+        "https://www.dimers.com/tennis/news/mattia-bellucci-vs-luciano-darderi-tennis-prediction-atp-winston-salem-open-2026-ac",
+        "https://www.atptour.com/en/video/highlights-darderi-overcomes-slow-start-downs-countryman-bellucci-winstonsalem-2026-r2"
       ],
-      "actualResult": null
+      "actualResult": "1:2"
     },
     {
       "id": "walton-buse-2026-08-25",
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "1/16 финала",
       "kickoff": "2026-08-25T21:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Адам Уолтон", "ranking": 98 },
       "playerB": { "name": "Игнасио Бусе", "ranking": 36 },
       "h2h": { "summary": "Уолтон выиграл единственную личную встречу в двух сетах (6:4, 6:3) во 2-м круге Цинциннати 16 августа 2026 года — всего за девять дней до этого матча.", "record": { "aWins": 1, "bWins": 0 } },
@@ -388,9 +390,10 @@
         "https://www.atptour.com/en/players/atp-head-2-head/walton-walton-vs-buse-buse/w09e/b0id",
         "https://tennistonic.com/tennis-news/1045242/how-to-watch-buse-vs-walton-on-live-streaming-in-winston-salem-on-tuesday/",
         "https://tennistonic.com/tennis-news/1044184/atp-winston-salem-draw-prize-money-medvedev-darderi-buse-fery-are-the-top-seeds/",
-        "https://www.flashscore.com/match/tennis/buse-ignacio-A1LQjAPb/walton-adam-jNRjAU1U/"
+        "https://www.flashscore.com/match/tennis/buse-ignacio-A1LQjAPb/walton-adam-jNRjAU1U/",
+        "https://www.infobae.com/peru/deportes/2026/08/25/ignacio-buse-se-cobra-revancha-ante-adam-walton-y-avanza-a-octavos-de-final-del-atp-250-de-winston-salem/"
       ],
-      "actualResult": null
+      "actualResult": "1:2"
     },
     {
       "id": "vanassche-kovacevic-2026-08-25",
@@ -631,7 +634,7 @@
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1 круг",
       "kickoff": "2026-08-26T00:30:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Чжан Шуай", "ranking": 53 },
       "playerB": { "name": "Мария Тимофеева", "ranking": 92 },
       "h2h": { "summary": "Первая личная встреча соперниц на туре.", "record": { "aWins": 0, "bWins": 0 } },
@@ -671,7 +674,7 @@
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1 круг",
       "kickoff": "2026-08-26T00:30:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Дарья Видманова", "ranking": 92 },
       "playerB": { "name": "Кимберли Биррелл", "ranking": 69 },
       "h2h": { "summary": "Личных встреч ранее не было — первая очная игра.", "record": { "aWins": 0, "bWins": 0 } },
@@ -702,6 +705,279 @@
         "https://www.freetips.com/tennis/darja-vidmanova-vs-kimberly-birrell-betting-tips-20260825-0011/",
         "https://tennistonic.com/tennis-news/1045263/how-to-watch-birrell-vs-vidmanova-on-live-streaming-in-monterrey-on-tuesday/",
         "https://www.sportytrader.com/us/picks/darja-vidmanova-kimberly-birrell-367984/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "bonzi-halys-2026-08-25",
+      "tournament": "ATP-250 Уинстон-Сейлем",
+      "round": "1/16 финала",
+      "kickoff": "2026-08-25T21:00:00+03:00",
+      "status": "finished",
+      "playerA": { "name": "Бенжамен Бонзи", "ranking": 106 },
+      "playerB": { "name": "Квентен Алис", "ranking": 52 },
+      "h2h": { "summary": "До этого матча Алис вёл в личных встречах 5:2 (3:1 на харде), включая победу 6:4, 6:4 на турнире в Галле в июне 2025 года.", "record": { "aWins": 2, "bWins": 5 } },
+      "form": {
+        "playerA": { "last5": "Нестабилен — 5-5 в последних 10 матчах (6-4 на харде); перед этим с трудом отыгрался с 1:4 в решающем сете против Камиля Майхшака в 1-м круге здесь." },
+        "playerB": { "last5": "Форма карьеры — выиграл титул в Китцбюэле и выдал серию из 8 побед подряд, прерванную Алексом де Минором в решающем тай-брейке в Цинциннати; в сезоне 2026 около 12-8 (11-6 на харде)." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Мощная подача для своих габаритов", "Надёжный приём", "Проверенный боец — несколько недавних камбэков"],
+          "weaknesses": ["Нестабильные результаты сезона (около 50% побед)", "Уступал в личных встречах 2:5"]
+        },
+        "playerB": {
+          "strengths": ["Карьерная лучшая форма (титул + серия побед)", "Мощная подача, победы над топ-игроками (Попырин, Табило)", "Преимущество в личных встречах 5:2"],
+          "weaknesses": ["Уступает игрокам самого высокого уровня (Медведев, Филс)", "Мог сказаться накопленный за неделю игровой объём после Цинциннати"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "medium",
+        "reasoning": "Букмекерские линии (примерно -175 против +135) и модели (58-59% вероятности) выделяли Алиса как фаворита за счёт карьерной лучшей формы, серии побед и преимущества в личных встречах, хотя один источник (Last Word on Sports) отдавал предпочтение Бонзи за его бойцовские качества.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://www.eurosport.fr/tennis/atp-winston-salem/2026/atp-winston-salem-benjamin-bonzi-renverse-quentin-halys-dans-le-duel-tricolore-pour-soffrir-une-place-en-huitiemes_sto23331214/story.shtml",
+        "https://www.tennis.com/tournaments/winston-salem-open/matches/b-bonzi-vs-q-halys-2026-08-25",
+        "https://lastwordonsports.com/tennis/2026/08/25/atp-winston-salem-predictions-halys-bonzi/",
+        "https://www.thestatszone.com/benjamin-bonzi-vs-quentin-halys-preview-prediction-2026-winston-salem-open-second-round-220174",
+        "https://www.dimers.com/tennis/predictions/2026_1_atp_4329_94485_90798",
+        "https://www.atptour.com/en/players/atp-head-2-head/quentin-halys-vs-benjamin-bonzi/bm95/hb64"
+      ],
+      "actualResult": "2:1"
+    },
+    {
+      "id": "baez-grenier-2026-08-25",
+      "tournament": "ATP-250 Уинстон-Сейлем",
+      "round": "1/16 финала",
+      "kickoff": "2026-08-25T22:00:00+03:00",
+      "status": "finished",
+      "playerA": { "name": "Себастьян Баэс", "ranking": 50 },
+      "playerB": { "name": "Уго Гренье", "ranking": 255 },
+      "h2h": { "summary": "Первая личная встреча соперников на туре, впервые на харде.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "На подъёме — дошёл до финала Challenger в Канкуне (уступил Хуберту Гуркачу), 7 побед в последних 10 матчах; сезон 2026 около 32-21 (15-7 на харде)." },
+        "playerB": { "last5": "Прошёл квалификацию (обыграв Нейла Оберляйтнера и Меса Роттгеринга), затем спас матч-пойнты и обыграл Романа Сафиуллина в 1-м круге в статусе лаки-лузера, сделав 14 эйсов." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Стабильная игра с задней линии и приём", "Опыт больших матчей — чемпион турнира 2023 года", "Хорошая форма (финал в Канкуне)"],
+          "weaknesses": ["Не мощный подающий, мало лёгких очков", "Специалист по грунту — хард не лучшее покрытие", "Возможна усталость после финала в Канкуне двумя днями ранее"]
+        },
+        "playerB": {
+          "strengths": ["Мощная, результативная подача", "Способен быстро завершать розыгрыши", "Психологическая устойчивость — уже спасал матч-пойнты на этой неделе"],
+          "weaknesses": ["Низкий рейтинг и ограниченный опыт на уровне ATP", "Более слабый приём", "Играет уже третий-четвёртый матч подряд на этой неделе — риск усталости"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Баэс считался явным фаворитом по коэффициентам (около 84% вероятности) как более высокорейтинговый и находящийся в лучшей форме игрок и экс-чемпион турнира, тогда как у Гренье ставку делали в основном на его мощную подачу как единственный шанс отобрать сет.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1045283/h2h-prediction-of-sebastian-baez-vs-hugo-grenier-in-winston-salem-with-odds-preview-pick-25th-august-2026/",
+        "https://www.bleachernation.com/picks/2026/08/25/grenier-vs-baez-prediction-at-the-winston-salem-open-tuesday-august-25/",
+        "https://www.tennis.com/tournaments/winston-salem-open/matches/h-grenier-vs-s-baez-2026-08-25",
+        "https://www.sofascore.com/da/tennis/match/sebastian-baez-hugo-grenier/hXRsgLNb",
+        "https://en.tennistemple.com/match/grenier-baez-winston-salem-2026/9478316/",
+        "https://en.wikipedia.org/wiki/2026_Winston-Salem_Open_%E2%80%93_Singles"
+      ],
+      "actualResult": "1:2"
+    },
+    {
+      "id": "duckworth-navone-2026-08-25",
+      "tournament": "ATP-250 Уинстон-Сейлем",
+      "round": "1/16 финала",
+      "kickoff": "2026-08-25T22:30:00+03:00",
+      "status": "live",
+      "playerA": { "name": "Джеймс Дакворт", "ranking": 86 },
+      "playerB": { "name": "Мариано Навоне", "ranking": 44 },
+      "h2h": { "summary": "Первая личная встреча соперников на туре.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "Нестабильный сезон-2026 (около 44% побед), но разгромил Куинна Вандекастиля 6:2, 6:1 в 1-м круге здесь." },
+        "playerB": { "last5": "9-6 на харде в сезоне 2026, посеян 6-м; в Цинциннати обыграл Рафаэля Коллиньона, но уступил в следующем круге Александеру Блокксу." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Мощная подача при своём росте", "Агрессивная игра, диктует темп", "Уверенность после разгромной победы в 1-м круге"],
+          "weaknesses": ["Нестабильный сезон в целом", "Скромный карьерный баланс на харде"]
+        },
+        "playerB": {
+          "strengths": ["Отличная стабильность и передвижение у задней линии", "Сильный приём, растягивает розыгрыши", "Более высокий рейтинг и стабильная форма сезона"],
+          "weaknesses": ["Очень мало эйсов — почти нет лёгких очков на подаче", "Более реактивный, контратакующий стиль уязвим против плоских, быстрых ударов"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Букмекерские коэффициенты (около 1.72 против 2.11) немного выделяли Навоне как более стабильного и высокорейтингового игрока, однако отдельные аналитики (Last Word on Sports) отдавали предпочтение Дакворту на волне его уверенной победы в 1-м круге, поэтому прогноз расходится и уверенность низкая. По состоянию на 01:30 МСК подтверждённого счёта или статуса матча найти не удалось — один источник указывал на возможный уже финальный счёт 6:2, 6:1 в пользу Дакворта, но это совпадает с его собственным счётом 1-го круга и, вероятно, является ошибкой агрегатора, поэтому статус оставлен как 'live' без указания результата.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1045038/h2h-prediction-of-mariano-navone-vs-james-duckworth-in-winston-salem-with-odds-preview-pick-25th-august-2026/",
+        "https://lastwordonsports.com/tennis/2026/08/25/atp-winston-salem-day-3-predictions-sonego-mannarino/",
+        "https://www.tennis.com/tournaments/winston-salem-open/matches/j-duckworth-vs-m-navone-2026-08-25",
+        "https://www.sofascore.com/tennis/match/mariano-navone-james-duckworth/lUpsOCic",
+        "https://www.tennismajors.com/matches/atp/winston-salem-open/james-duckworth-vs-mariano-navone",
+        "https://www.espn.com/tennis/player/_/id/9992/mariano-navone"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "rottgering-machac-2026-08-26",
+      "tournament": "ATP-250 Уинстон-Сейлем",
+      "round": "1/16 финала",
+      "kickoff": "2026-08-26T02:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Мес Роттгеринг", "ranking": null },
+      "playerB": { "name": "Томаш Махач", "ranking": 54 },
+      "h2h": { "summary": "Первая личная встреча соперников на туре.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "Студент из Уэйк Форест, вышедший через квалификацию: обыграл Ханнера Хека и Уго Гренье в квалификации, затем одержал первую в карьере победу на уровне ATP над Яном Хоински (7:5, 2:6, 6:4)." },
+        "playerB": { "last5": "Возвращается после травмы — не играл с «Ролан Гаррос»; в первом матче после паузы в Цинциннати уступил Пабло Карреньо Бусте 3:6, 2:6." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Уверенность после трёх подряд побед на этой неделе", "Психологическая устойчивость — уже дважды камбэчил на этом турнире", "Нечего терять в статусе дебютанта"],
+          "weaknesses": ["Полное отсутствие опыта основной сетки ATP", "Официальный рейтинг за пределами топ-400"]
+        },
+        "playerB": {
+          "strengths": ["Гораздо больше опыта тура и титул в Аделаиде-2026", "Более высокий рейтинг и посев (14-й)"],
+          "weaknesses": ["Долгая пауза из-за травмы (около 2,5 месяцев)", "Провальное возвращение в Цинциннати (0:2 по сетам)", "Вопросы к физической готовности на дистанции матча"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Букмекерские коэффициенты (примерно 1.44 против 2.76) немного выделяют Махача как более именитого и высокорейтингового игрока, однако несколько аналитиков (Last Word on Sports, TennGrand) отдают предпочтение Роттгерингу, указывая на неразрешённые вопросы к физической форме Махача после травмы и его слабое возвращение в Цинциннати — прогноз расходится, поэтому уверенность низкая.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://www.tennis.com/tournaments/winston-salem-open/matches/m-rottgering-vs-t-machac-2026-08-25",
+        "https://tennistonic.com/tennis-news/1045277/h2h-prediction-of-tomas-machac-vs-mees-rottgering-in-winston-salem-with-odds-preview-pick-25th-august-2026/",
+        "https://lastwordonsports.com/tennis/2026/08/25/atp-winston-salem-day-3-predictions-machac-rottgering/",
+        "https://tenngrand.com/winston-salem-atp-250-preview-and-predictions-2026/",
+        "https://www.winstonsalemopen.com/en/media/news/mees-2026",
+        "https://www.atptour.com/en/scores/current/winston-salem/6242/results"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "mannarino-sonego-2026-08-26",
+      "tournament": "ATP-250 Уинстон-Сейлем",
+      "round": "1/16 финала",
+      "kickoff": "2026-08-26T04:30:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Адриан Маннарино", "ranking": 67 },
+      "playerB": { "name": "Лоренцо Сонего", "ranking": 91 },
+      "h2h": { "summary": "Маннарино ведёт в личных встречах 3:2 (9:6 по сетам); хард 3:0 в пользу Маннарино, грунт и трава — по разу за Сонего. Последняя встреча — победа Маннарино 1:6, 6:2, 6:3 в Пекине в сентябре 2024 года.", "record": { "aWins": 3, "bWins": 2 } },
+      "form": {
+        "playerA": { "last5": "Тяжёлый сезон-2026 (около 12-22), проиграл 7 из последних 11; в 1-м круге Цинциннати уступил Шаповалову 1:6, 4:6. Двукратный финалист и чемпион Уинстон-Сейлема (2022)." },
+        "playerB": { "last5": "Сезон 2026 около 11-15; проиграл Грикспору в Торонто и Тиафо в Цинциннати, но только что вытащил трёхсетовик у Пьера-Юга Эрбера (7:6(4), 4:6, 6:3) в 1-м круге здесь. Чемпион турнира 2021 года." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Хитрая левая рука, плоские неудобные удары", "Хорошая история именно на этом турнире (чемпион 2022 года)", "Преимущество в личных встречах, особенно на харде"],
+          "weaknesses": ["Слабый сезон-2026 в целом", "Немного эйсов, недостаток мощи подачи", "Возрастной фактор (38 лет) сказывается на движении"]
+        },
+        "playerB": {
+          "strengths": ["Мощные форхенд и подача, создают лёгкие очки", "Собственная история на турнире (чемпион 2021 года)", "Свежая победа в трёхсетовике придаёт уверенности"],
+          "weaknesses": ["Нестабильность и невынужденные ошибки", "Уступает в личных встречах (2:3)", "Менее надёжный приём"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "medium",
+        "reasoning": "Букмекерские коэффициенты (около 1.60 против 2.32) и аналитика (Last Word on Sports, Tennis Tonic) немного выделяют Сонего благодаря его ударному потенциалу, способному приносить много лёгких очков, хотя история личных встреч (3:2) и опыт именно этого турнира на стороне Маннарино делают матч не совсем однозначным.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1045035/h2h-prediction-of-adrian-mannarino-vs-lorenzo-sonego-in-winston-salem-with-odds-preview-pick-25th-august-2026/",
+        "https://lastwordonsports.com/tennis/2026/08/25/atp-winston-salem-day-3-predictions-sonego-mannarino/",
+        "https://matchstat.com/tennis/h2h-odds-bets/Adrian%20Mannarino/Lorenzo%20Sonego/",
+        "https://www.atptour.com/en/players/atp-head-2-head/adrian-mannarino-vs-lorenzo-sonego/me82/su87",
+        "https://www.sofascore.com/tennis/match/lorenzo-sonego-adrian-mannarino/UrgsXWQ",
+        "https://www.tennis.com/tournaments/winston-salem-open/matches/l-sonego-vs-p-herbert-2026-08-24"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "potapova-bartunkova-2026-08-26",
+      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-26T05:40:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Анастасия Потапова", "ranking": 25 },
+      "playerB": { "name": "Никола Бартунькова", "ranking": 39 },
+      "h2h": { "summary": "Потапова ведёт 2:0, обе победы на грунте: 6:1, 6:4 в Стамбуле в апреле 2022 года и 4:6, 6:4, 6:2 в Риме в мае 2026 года.", "record": { "aWins": 2, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "Спад формы после сильного грунтового сезона — вылеты в 1-м круге в 3 из последних 5 турниров, 4 поражения подряд от соперниц из топ-50; последний матч — поражение 0:2 от Элины Свитолиной в Торонто." },
+        "playerB": { "last5": "Сильный сезон-2026 (около 26-16): 3-й круг Australian Open, Уимблдона и Торонто, 4-й круг Рима, четвертьфинал Берлина; перед Монтерреем уступила Соране Кырстя в Цинциннати (0:2), но открыла турнир победой над Антонией Ружич 6:4, 6:3." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Мощный форхенд с высоким крутящим моментом", "Способность рано забирать мяч на подъёме", "Преимущество 2:0 в личных встречах"],
+          "weaknesses": ["Нестабильный процент первой подачи (около 54%)", "Слабая текущая уверенность и форма", "Проблемы против соперниц, находящихся в лучшей форме"]
+        },
+        "playerB": {
+          "strengths": ["Разноплановая, непредсказуемая игра у всей площадки (укороченные, выходы к сетке)", "Хорошая сезонная траектория и рост рейтинга", "Есть громкие победы сезона (над Касаткиной, Бенчич)"],
+          "weaknesses": ["Молодость и ограниченный опыт на этом уровне (19 лет)", "Спад формы перед турниром (поражение в Цинциннати)", "Нет опыта личных встреч именно на харде против Потаповой"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Букмекерские линии (около -182 на Бартунькову) и часть аналитиков выделяют её на волне более стабильного сезона-2026, тогда как одна из моделей коэффициентов (Wincomparator) отдаёт небольшое преимущество Потаповой (51%), а личные встречи 2:0 также на стороне Потаповой — прогноз расходится, поэтому уверенность низкая.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://www.sofascore.com/tennis/match/nikola-bartunkova-anastasia-potapova/GqJbsMEOc",
+        "https://en.tennistemple.com/match/bartunkova-potapova-monterrey-2026/9478396/",
+        "https://tennistonic.com/tennis-news/1045486/monterrey-draw-anastasia-potapovas-prediction-with-bartunkova-next-h2h-and-rankings/",
+        "https://www.wincomparator.com/predictions/nikola-bartunkova-anastasia-potapova-8771046/",
+        "https://www.bleachernation.com/picks/2026/08/24/bartunkova-vs-potapova-prediction-at-the-abierto-gnp-seguros-tuesday-august-25/",
+        "https://lastwordonsports.com/tennis/2026/08/25/wta-monterrey-day-3-predictions-potapova-bartunkova/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "muller-sakamoto-2026-08-26",
+      "tournament": "US Open, квалификация",
+      "round": "2 круг квалификации",
+      "kickoff": "2026-08-26T18:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Александр Мюллер", "ranking": 136 },
+      "playerB": { "name": "Рей Сакамото", "ranking": 155 },
+      "h2h": { "summary": "Две личные встречи, счёт 1:1: Мюллер выиграл на «Мастерсе» в Майами в 2025 году 6:4, 6:4, Сакамото взял реванш на Challenger в Бордо в мае 2026 года 6:4, 3:6, 6:3.", "record": { "aWins": 1, "bWins": 1 } },
+      "form": {
+        "playerA": { "last5": "Слабая форма в сезоне-2026 (около 41% побед), рейтинг просел с примерно 95-й до 130-140-й строчки; в 1-м круге квалификации US Open уверенно обыграл Ласло Дьере 7:5, 6:0." },
+        "playerB": { "last5": "19-летний игрок на подъёме, дебютную победу на уровне ATP одержал в Майами-2026 (в частности над Ковачевичем); в 1-м круге квалификации US Open в трёх сетах обыграл Джея Кларка 4:6, 6:3, 6:4." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Мощный плоский двуручный бэкхенд — главное оружие", "Отличная стабильность у задней линии", "Хорошее передвижение, выработано на грунте"],
+          "weaknesses": ["Подача больше про размещение, чем про мощь — мало лёгких очков", "Нет по-настоящему атакующего оружия", "Слабая форма сезона-2026"]
+        },
+        "playerB": {
+          "strengths": ["Мощная подача и мощный форхенд", "Разнообразие — резаные, укороченные, выходы к сетке", "Восходящая траектория и уверенность после прорыва в Майами"],
+          "weaknesses": ["Небольшой опыт на уровне ATP (был 1-5 до Майами)", "Может быть нестабилен — потребовалось 3 сета против Кларка", "Тактически ещё формируется как игрок"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "medium",
+        "reasoning": "Букмекерские линии (Sportytrader) дают Сакамото около 63% вероятности победы, опираясь на его последнюю личную встречу (победа в Бордо) и восходящую форму против просевшего в 2026 году Мюллера; уверенность не высокая, поскольку Мюллер выше в рейтинге и опытнее, а квалификационные матчи часто непредсказуемы.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://en.tennistemple.com/actu/muller-dominates-djere-7-5-6-0-in-us-open/MOIn",
+        "https://www.sportytrader.com/pronostics/rei-sakamoto-alexandre-muller-368095/",
+        "https://www.tennisexplorer.com/match-detail/?id=2849945",
+        "https://www.sofascore.com/tennis/match/rei-sakamoto-alexandre-muller/REKsWppd",
+        "https://www.atptour.com/en/news/sakamoto-kovacevic-miami-2026-friday",
+        "https://www.flashscoreusa.com/h2h/tennis/muller-alexandre-nLLdS9q0/sakamoto-rei-AeBHWNls/"
       ],
       "actualResult": null
     }
