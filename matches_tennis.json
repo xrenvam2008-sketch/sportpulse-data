@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T22:20:00+03:00",
+  "generatedAt": "2026-08-25T23:15:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -397,7 +397,7 @@
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "1/16 финала",
       "kickoff": "2026-08-25T22:10:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Люка Ван Аш", "ranking": 40 },
       "playerB": { "name": "Александар Ковачевич", "ranking": 89 },
       "h2h": { "summary": "Личных встреч на туре ранее не было — первая очная игра.", "record": { "aWins": 0, "bWins": 0 } },
@@ -428,14 +428,14 @@
         "https://tennistonic.com/tennis-news/1045280/h2h-prediction-of-luca-van-assche-vs-aleksandar-kovacevic-in-winston-salem-with-odds-preview-pick-25th-august-2026/",
         "https://www.thestatszone.com/luca-van-assche-vs-aleksandar-kovacevic-preview-prediction-2026-winston-salem-open-second-round-220170"
       ],
-      "actualResult": null
+      "actualResult": "2:0"
     },
     {
       "id": "fery-hewitt-2026-08-25",
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "1/16 финала",
       "kickoff": "2026-08-25T23:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Артур Фери", "ranking": 37 },
       "playerB": { "name": "Круз Хьюитт", "ranking": 368 },
       "h2h": { "summary": "Первая личная встреча соперников на туре.", "record": { "aWins": 0, "bWins": 0 } },
