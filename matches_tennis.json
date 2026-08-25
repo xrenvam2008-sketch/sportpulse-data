@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-25T20:21:00+03:00",
+  "generatedAt": "2026-08-25T21:18:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -199,124 +199,10 @@
       "actualResult": "2:1"
     },
     {
-      "id": "pridankina-marino-2026-08-25",
-      "tournament": "US Open, квалификация",
-      "round": "2 круг квалификации",
-      "kickoff": "2026-08-25T18:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Елена Приданкина", "ranking": 186 },
-      "playerB": { "name": "Ребекка Марино", "ranking": null },
-      "h2h": null,
-      "form": {
-        "playerA": { "last5": "Уверенно выиграла 1-й круг квалификации у Алёны Фалей со счётом 6:1, 6:3" },
-        "playerB": { "last5": "Опытная 35-летняя канадская теннисистка, ранее выигрывала турниры уровня WTA-125 и ITF; точных данных о недавних результатах в открытых источниках не найдено" }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": ["Стабильная подача", "Уверенный настрой после разгромной победы в 1-м круге"],
-          "weaknesses": ["Небольшой опыт выступлений на турнирах уровня Большого шлема"]
-        },
-        "playerB": {
-          "strengths": ["Большой опыт выступлений в туре", "Мощные удары с задней линии"],
-          "weaknesses": ["Возраст (35 лет)", "Нерегулярное участие в турнирах в последние годы"]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "low",
-        "reasoning": "Приданкина подходит к матчу на хорошей волне после уверенной победы в стартовом круге, тогда как об актуальной форме Марино открытых данных немного. Прогноз даётся с осторожностью из-за недостатка информации о сопернице.",
-        "predictedScore": "2:1"
-      },
-      "sources": [
-        "https://vprognoze.ru/sportnews/tennis/13448359-elena-pridankina-proshla-vo-vtoroj-krug-kvalifikacii-us-open-2026.html",
-        "https://www.championat.com/tennis/news-6594962-elena-pridankina-alyona-falej-rezultat-matcha-24-avgusta-schyot-2-0-1-j-krug-kvalifikacii-us-open.html",
-        "https://www.championat.com/tennis/article-6594582-kvalifikaciya-us-open-2026-setki-rezultaty-raspisanie-gde-smotret-s-kem-igrayut-lyutova-erika-andreeva-pridankina.html",
-        "https://www.championat.com/tennis/player/7157.html",
-        "https://www.sports.ru/tennis/person/rebecca-marino/"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "iatcenko-bronzetti-2026-08-25",
-      "tournament": "US Open, квалификация",
-      "round": "2 круг квалификации",
-      "kickoff": "2026-08-25T18:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Полина Яценко", "ranking": 165 },
-      "playerB": { "name": "Лючия Бронцетти", "ranking": 152 },
-      "h2h": null,
-      "form": {
-        "playerA": { "last5": "Уверенно выиграла 1-й круг квалификации у Юли Штрупловой со счётом 6:2, 6:1" },
-        "playerB": { "last5": "В сезоне 2026 года 27 побед и 18 поражений (около 60% побед); ранее поднималась до 46-й строчки мирового рейтинга" }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": ["Уверенная реализация своего игрового преимущества", "Хорошая физическая готовность"],
-          "weaknesses": ["Небольшой опыт матчей на турнирах Большого шлема", "Более низкий рейтинг, чем у соперницы"]
-        },
-        "playerB": {
-          "strengths": ["Опыт игры в основных сетках турниров WTA-тура", "Стабильная подача с грунтовых и хардовых покрытий"],
-          "weaknesses": ["Нестабильные результаты в текущем сезоне", "Психологическое давление статуса фаворитки"]
-        }
-      },
-      "prediction": {
-        "winner": "playerB",
-        "confidence": "medium",
-        "reasoning": "Бронцетти выше в рейтинге и имеет значительно больший опыт выступлений на турнирах WTA-тура, что делает её фавориткой встречи, хотя Яценко подходит к матчу уверенно после разгромной победы в 1-м круге.",
-        "predictedScore": "2:0"
-      },
-      "sources": [
-        "https://vprognoze.ru/sportnews/tennis/13448551-rossijskaya-tennisistka-yacenko-probilas-vo-vtoroj-krug-kvalifikacii-us-open-2026.html",
-        "https://www.championat.com/tennis/news-6595120-polina-yacenko-yuli-shtruplova-rezultat-matcha-24-avgusta-schyot-2-0-1-j-krug-kvalifikacii-us-open.html",
-        "https://en.wikipedia.org/wiki/Lucia_Bronzetti",
-        "https://en.wikipedia.org/wiki/Polina_Iatcenko",
-        "https://www.championat.com/tennis/article-6594582-kvalifikaciya-us-open-2026-setki-rezultaty-raspisanie-gde-smotret-s-kem-igrayut-lyutova-erika-andreeva-pridankina.html"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "ibragimova-bolkvadze-2026-08-25",
-      "tournament": "US Open, квалификация",
-      "round": "2 круг квалификации",
-      "kickoff": "2026-08-25T18:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Алевтина Ибрагимова", "ranking": 218 },
-      "playerB": { "name": "Мариам Болквадзе", "ranking": null },
-      "h2h": null,
-      "form": {
-        "playerA": { "last5": "Уверенно выиграла 1-й круг квалификации у Ребекки Шрамковой со счётом 6:2, 6:4" },
-        "playerB": { "last5": "В 1-м круге квалификации обыграла Эрику Андрееву со счётом 6:4, 7:6 (7:5)" }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": ["Уверенная игра на старте квалификации", "Хорошая физическая форма"],
-          "weaknesses": ["Ограниченный опыт на профессиональном уровне", "Невысокий рейтинг WTA"]
-        },
-        "playerB": {
-          "strengths": ["Неудобная манера игры для соперниц", "Победа над более именитой соперницей в 1-м круге"],
-          "weaknesses": ["Недостаточно открытых данных об актуальном рейтинге и статистике сезона"]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "low",
-        "reasoning": "Ибрагимова уверенно прошла 1-й круг в двух сетах, но её соперница Болквадзе только что обыграла более рейтинговую теннисистку, поэтому прогноз даётся с низкой уверенностью при дефиците данных о форме соперницы.",
-        "predictedScore": "2:1"
-      },
-      "sources": [
-        "https://vprognoze.ru/sportnews/tennis/13448362-alevtina-ibragimova-vyshla-vo-vtoroj-krug-kvalifikacii-us-open-2026.html",
-        "https://www.championat.com/tennis/news-6594976-rebekka-shramkova-alevtina-ibragimova-rezultat-matcha-24-avgusta-schyot-0-2-1-j-krug-kvalifikacii-us-open.html",
-        "https://www.championat.com/tennis/player/6997.html",
-        "https://www.championat.com/tennis/player/4231.html",
-        "https://www.championat.com/tennis/news-6594988-erika-andreeva-mariam-bolkvadze-rezultat-matcha-24-avgusta-schyot-0-2-1-j-krug-kvalifikacii-us-open.html"
-      ],
-      "actualResult": null
-    },
-    {
       "id": "giustino-dimitrov-2026-08-25",
       "tournament": "US Open, квалификация",
       "round": "1 круг квалификации",
-      "kickoff": "2026-08-25T19:30:00+03:00",
+      "kickoff": "2026-08-25T19:55:00+03:00",
       "status": "live",
       "playerA": { "name": "Лоренцо Джустино", "ranking": null },
       "playerB": { "name": "Григор Димитров", "ranking": 146 },
@@ -338,7 +224,7 @@
       "prediction": {
         "winner": "playerB",
         "confidence": "low",
-        "reasoning": "Димитров выше в рейтинге и обладает несравнимо большим опытом турниров высокого уровня, но переживает кризисный период после серии травм и поражений. Джустино в этом сезоне играет достаточно ровно, поэтому исход матча трудно предсказать с высокой уверенностью.",
+        "reasoning": "Димитров выше в рейтинге и обладает несравнимо большим опытом турниров высокого уровня, но переживает кризисный период после серии травм и поражений. Джустино в этом сезоне играет достаточно ровно, поэтому исход матча трудно предсказать с высокой уверенностью. Матч уже идёт (начался около 19:55 МСК); подтверждённого текущего счёта из доступных источников получить не удалось, поэтому итоговый результат не проставлен.",
         "predictedScore": "2:1"
       },
       "sources": [
@@ -356,7 +242,7 @@
       "tournament": "US Open, квалификация",
       "round": "1 круг квалификации",
       "kickoff": "2026-08-25T21:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Дарья Астахова", "ranking": 226 },
       "playerB": { "name": "Марина Бассольс Рибера", "ranking": 130 },
       "h2h": { "summary": "Прямых личных встреч между теннисистками не найдено — вероятно, первая встреча.", "record": { "aWins": 0, "bWins": 0 } },
@@ -377,7 +263,7 @@
       "prediction": {
         "winner": "playerB",
         "confidence": "medium",
-        "reasoning": "Бассольс Рибера заметно выше в рейтинге и подходит к турниру на волне стабильного сезона 2026 года и финала в Мадриде, тогда как Астахова исторически слабо проходит квалификации турниров Большого шлема, что делает испанку явным фаворитом по данным открытых источников, хотя точных коэффициентов букмекеров найти не удалось.",
+        "reasoning": "Бассольс Рибера заметно выше в рейтинге и подходит к турниру на волне стабильного сезона 2026 года и финала в Мадриде, тогда как Астахова исторически слабо проходит квалификации турниров Большого шлема, что делает испанку явным фаворитом по данным открытых источников, хотя точных коэффициентов букмекеров найти не удалось. Матч уже начался (кикофф 21:00 МСК), подтверждённого счёта пока нет.",
         "predictedScore": "2:0"
       },
       "sources": [
@@ -394,8 +280,8 @@
       "id": "liutova-prozorova-2026-08-25",
       "tournament": "US Open, квалификация",
       "round": "1 круг квалификации",
-      "kickoff": "2026-08-25T21:00:00+03:00",
-      "status": "scheduled",
+      "kickoff": "2026-08-25T20:20:00+03:00",
+      "status": "live",
       "playerA": { "name": "Кристина Лютова", "ranking": 126 },
       "playerB": { "name": "Татьяна Прозорова", "ranking": 181 },
       "h2h": null,
@@ -416,7 +302,7 @@
       "prediction": {
         "winner": "playerA",
         "confidence": "medium",
-        "reasoning": "Лютова находится на волне уверенности после дебютного титула WTA-тура и посева в квалификации, что делает её фавориткой во внутрироссийском дерби, хотя Прозорова опытнее и способна создать проблемы в матче.",
+        "reasoning": "Лютова находится на волне уверенности после дебютного титула WTA-тура и посева в квалификации, что делает её фавориткой во внутрироссийском дерби, хотя Прозорова опытнее и способна создать проблемы в матче. Матч начался около 20:20 МСК; подтверждённого текущего счёта на момент подготовки дайджеста найти не удалось.",
         "predictedScore": "2:1"
       },
       "sources": [
@@ -433,7 +319,7 @@
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "1/16 финала",
       "kickoff": "2026-08-25T21:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Маттиа Беллуччи", "ranking": 96 },
       "playerB": { "name": "Лучано Дардери", "ranking": 22 },
       "h2h": { "summary": "Дардери ведёт в общих личных встречах 2:1, выиграв обе на грунте, тогда как Беллуччи выигрывал на харде (нынешнее покрытие). Последняя встреча — в Марракеше 1 апреля 2026 года, победа Дардери 6:4, 6:2.", "record": { "aWins": 1, "bWins": 2 } },
@@ -454,7 +340,7 @@
       "prediction": {
         "winner": "playerB",
         "confidence": "medium",
-        "reasoning": "Несмотря на то что хард статистически лучшее покрытие Беллуччи, прогнозные модели (53-61% за Дардери) и линия букмекеров немного выделяют Дардери за счёт лучшей формы сезона-2026 и преимущества в личных встречах.",
+        "reasoning": "Несмотря на то что хард статистически лучшее покрытие Беллуччи, прогнозные модели (53-61% за Дардери) и линия букмекеров немного выделяют Дардери за счёт лучшей формы сезона-2026 и преимущества в личных встречах. Матч стартовал в 21:00 МСК; актуальный счёт на момент формирования дайджеста подтвердить не удалось.",
         "predictedScore": "2:1"
       },
       "sources": [
@@ -472,7 +358,7 @@
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "1/16 финала",
       "kickoff": "2026-08-25T21:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Адам Уолтон", "ranking": 98 },
       "playerB": { "name": "Игнасио Бусе", "ranking": 36 },
       "h2h": { "summary": "Уолтон выиграл единственную личную встречу в двух сетах (6:4, 6:3) во 2-м круге Цинциннати 16 августа 2026 года — всего за девять дней до этого матча.", "record": { "aWins": 1, "bWins": 0 } },
@@ -493,7 +379,7 @@
       "prediction": {
         "winner": "playerA",
         "confidence": "medium",
-        "reasoning": "Несмотря на более высокий рейтинг Бусе, букмекерские линии и модель (около 60% вероятности) выделяют Уолтона — во многом благодаря его недавней победе над Бусе в двух сетах в Цинциннати чуть больше недели назад.",
+        "reasoning": "Несмотря на более высокий рейтинг Бусе, букмекерские линии и модель (около 60% вероятности) выделяют Уолтона — во многом благодаря его недавней победе над Бусе в двух сетах в Цинциннати чуть больше недели назад. Матч стартовал в 21:00 МСК; часть источников выдавала явно противоречивые (вероятно, устаревшие) счета, поэтому подтверждённый текущий результат не проставлен.",
         "predictedScore": "2:1"
       },
       "sources": [
@@ -503,6 +389,44 @@
         "https://tennistonic.com/tennis-news/1045242/how-to-watch-buse-vs-walton-on-live-streaming-in-winston-salem-on-tuesday/",
         "https://tennistonic.com/tennis-news/1044184/atp-winston-salem-draw-prize-money-medvedev-darderi-buse-fery-are-the-top-seeds/",
         "https://www.flashscore.com/match/tennis/buse-ignacio-A1LQjAPb/walton-adam-jNRjAU1U/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "vanassche-kovacevic-2026-08-25",
+      "tournament": "ATP-250 Уинстон-Сейлем",
+      "round": "1/16 финала",
+      "kickoff": "2026-08-25T22:10:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Люка Ван Аш", "ranking": 40 },
+      "playerB": { "name": "Александар Ковачевич", "ranking": 89 },
+      "h2h": { "summary": "Личных встреч на туре ранее не было — первая очная игра.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "42-19 в сезоне 2026 года (12-7 на харде); выиграл титул в Квебек-Сити, отдав всего один сет за весь турнир; подходит на серии из четырёх побед подряд." },
+        "playerB": { "last5": "В 1-м круге здесь уверенно обыграл Феликса Балшо 6:4, 7:6(4), не отдав ни одного гейма на своей подаче." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Свежий титул в Квебек-Сити и высокая уверенность", "Сильный общий баланс сезона (42-19)", "Разносторонняя игра с задней линии"],
+          "weaknesses": ["На харде показатели скромнее, чем в целом за сезон (12-7)", "Нет опыта личных встреч с этим соперником"]
+        },
+        "playerB": {
+          "strengths": ["Не терял свою подачу в стартовом матче турнира", "Мощная подача и удар справа", "Играет без раскачки после быстрого выхода в этот круг"],
+          "weaknesses": ["Ниже в рейтинге, чем соперник (89 против 40)", "Меньший актуальный игровой тонус — сыграл 1-й круг совсем недавно без дня отдыха"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Букмекерские линии и аналитика (около 63% вероятности) выделяют Ван Аша как фаворита благодаря титулу в Квебек-Сити и серии из четырёх побед подряд, хотя уверенная игра Ковачевича на подаче в стартовом круге может создать сложности.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.sofascore.com/tennis/match/luca-van-assche-aleksandar-kovacevic/icAbsccJc",
+        "https://www.bleachernation.com/picks/2026/08/25/van-assche-vs-kovacevic-prediction-at-the-winston-salem-open-tuesday-august-25/",
+        "https://en.tennistemple.com/match/van-assche-kovacevic-winston-salem-2026/9478306/",
+        "https://tennistonic.com/tennis-news/1045280/h2h-prediction-of-luca-van-assche-vs-aleksandar-kovacevic-in-winston-salem-with-odds-preview-pick-25th-august-2026/",
+        "https://www.thestatszone.com/luca-van-assche-vs-aleksandar-kovacevic-preview-prediction-2026-winston-salem-open-second-round-220170"
       ],
       "actualResult": null
     },
