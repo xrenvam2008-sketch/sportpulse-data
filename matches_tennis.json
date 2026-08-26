@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T19:18:00+03:00",
+  "generatedAt": "2026-08-26T20:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -2958,6 +2958,75 @@
         "https://tennistonic.com/head-to-head-compare/Aleksandar-Kovacevic-Vs-Stefanos-Tsitsipas/",
         "https://matchstat.com/tennis/h2h-odds-bets/Aleksandar%20Kovacevic/Stefanos%20Tsitsipas/",
         "https://www.atptour.com/en/players/aleksandar-kovacevic/k0az/player-stats"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "skatov-dimitrov-2026-08-26",
+      "tournament": "US Open, квалификация",
+      "round": "2 круг квалификации",
+      "kickoff": "2026-08-26T19:10:00+03:00",
+      "status": "live",
+      "playerA": {
+        "name": "Тимофей Скатов",
+        "ranking": 205
+      },
+      "playerB": {
+        "name": "Григор Димитров",
+        "ranking": 137
+      },
+      "h2h": {
+        "summary": "Единственная личная встреча состоялась в 1-м круге Ролан Гаррос 30 мая 2023 года — Димитров разгромил Скатова 6:0, 6:3, 6:2.",
+        "record": {
+          "aWins": 0,
+          "bWins": 1
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "В 1-м круге квалификации US Open обыграл Жиля-Арно Байи 6:4, 6:2; в сезоне 2026 года более 30 побед в основных сетках и баланс 9-4 на харде."
+        },
+        "playerB": {
+          "last5": "Уверенно обыграл Лоренцо Джустино 6:0, 6:3 в 1-м круге квалификации US Open, отдав всего три гейма; продолжает попытки вернуться в основную сетку турниров Большого шлема после кризисного периода травм."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Стабильная игра с задней линии и высокий общий баланс побед в сезоне-2026",
+            "Хороший результат на харде в этом сезоне (9-4)",
+            "Уверенная победа без потери сета в 1-м круге квалификации"
+          ],
+          "weaknesses": [
+            "Крупное поражение в единственной личной встрече с Димитровым (всего 5 геймов за три сета)",
+            "Ограниченный опыт больших матчей против бывших топ-10 игроков"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Элегантный однорукий бэкхенд и богатый опыт игры на топ-уровне",
+            "Разгромная победа в единственной личной встрече со Скатовым",
+            "Почти безупречная игра в 1-м круге квалификации (отдал всего 3 гейма)"
+          ],
+          "weaknesses": [
+            "Общий кризисный период карьеры после серии травм и падения из топ-100",
+            "Психологическая уязвимость после серии поражений в последних сезонах"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "high",
+        "reasoning": "Букмекерские линии дают явное преимущество Димитрову (примерно -640 против +448 у Скатова), опираясь на разгромную победу в единственной личной встрече и почти безупречную игру в 1-м круге квалификации; аналитики (Last Word on Sports) отмечали, что ставочной ценности у этого матча немного именно из-за отсутствия альтернативы фавориту.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.oddschecker.com/us/picks-parlays/tennis/20260826-timofey-skatov-vs-grigor-dimitrov-prediction-betting-pick-latest-us-open-qualifiers-odds--wednesday-august-26th",
+        "https://lastwordonsports.com/tennis/2026/08/26/atp-us-open-best-bets-skatov-dimitrov/",
+        "https://www.sofascore.com/tennis/match/skatov-dimitrov/GwjsAKQb",
+        "https://www.atptour.com/en/players/atp-head-2-head/timofey-skatov-vs-grigor-dimitrov/s0gr/d875",
+        "https://www.bettingexpert.com/tennis/grigor-dimitrov-vs-timofey-skatov",
+        "https://www.usopen.org/en_US/news/articles/2026-08-23/nishikori_dimitrov_zheng_andreescu_learn_paths_in_2026_us_open_qualifying_draws.html"
       ],
       "actualResult": null
     }
