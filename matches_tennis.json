@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T01:05:00+03:00",
+  "generatedAt": "2026-08-27T01:16:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -1587,7 +1587,7 @@
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
       "kickoff": "2026-08-26T05:40:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Анастасия Потапова",
         "ranking": 25
