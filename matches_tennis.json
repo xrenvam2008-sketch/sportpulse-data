@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T13:22:00+03:00",
+  "generatedAt": "2026-08-26T16:25:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -2558,7 +2558,7 @@
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
       "kickoff": "2026-08-26T06:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Екатерина Александрова",
         "ranking": 18
