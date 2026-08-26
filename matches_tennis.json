@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T12:22:00+03:00",
+  "generatedAt": "2026-08-26T13:22:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -2558,7 +2558,7 @@
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
       "kickoff": "2026-08-26T06:00:00+03:00",
-      "status": "live",
+      "status": "scheduled",
       "playerA": {
         "name": "Екатерина Александрова",
         "ranking": 18
@@ -2609,7 +2609,7 @@
       "prediction": {
         "winner": "playerA",
         "confidence": "medium",
-        "reasoning": "Александрова выше сеяна, действующая финалистка турнира и в лучшей текущей форме, но исторический перевес Таусон в личных встречах (2:0, пусть и старых) добавляет неопределённости.",
+        "reasoning": "Александрова выше сеяна, действующая финалистка турнира и в лучшей текущей форме, но исторический перевес Таусон в личных встречах (2:0, пусть и старых) добавляет неопределённости. (Обновление: по состоянию на 13:22 МСК 26.08 матч ещё не начался, статус скорректирован с «live» на «scheduled»; точное время начала не подтверждено надёжным источником.)",
         "predictedScore": null
       },
       "sources": [
@@ -2625,8 +2625,8 @@
       "id": "timofeeva-li-2026-08-26",
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
-      "kickoff": "2026-08-26T06:00:00+03:00",
-      "status": "live",
+      "kickoff": "2026-08-27T00:00:00+03:00",
+      "status": "scheduled",
       "playerA": {
         "name": "Мария Тимофеева",
         "ranking": null
@@ -2677,7 +2677,7 @@
       "prediction": {
         "winner": "playerB",
         "confidence": "high",
-        "reasoning": "Доминирующий счёт личных встреч (4:0), более высокий посев и явно лучшая текущая форма (разгромная победа в 1-м круге) делают Ли явным фаворитом.",
+        "reasoning": "Доминирующий счёт личных встреч (4:0), более высокий посев и явно лучшая текущая форма (разгромная победа в 1-м круге) делают Ли явным фаворитом. (Обновление: по данным sportytrader.com матч запланирован на 21:00 UTC 26.08 (00:00 МСК 27.08), а не уже идёт; статус и время скорректированы.)",
         "predictedScore": null
       },
       "sources": [
@@ -2686,142 +2686,6 @@
         "https://en.tennistemple.com/match/osorio-li-monterrey-2026/9478391/",
         "https://tennistonic.com/tennis-news/1045453/",
         "https://tennistonic.com/tennis-news/1045450/"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "bucsa-vidmanova-2026-08-26",
-      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
-      "round": "1/8 финала",
-      "kickoff": "2026-08-26T06:00:00+03:00",
-      "status": "live",
-      "playerA": {
-        "name": "Кристина Букша",
-        "ranking": null
-      },
-      "playerB": {
-        "name": "Дарья Видманова",
-        "ranking": null
-      },
-      "h2h": {
-        "summary": "Прямых данных о предыдущих встречах не найдено — вероятно, первая личная встреча.",
-        "record": {
-          "aWins": 0,
-          "bWins": 0
-        }
-      },
-      "form": {
-        "playerA": {
-          "last5": "Обыграла Анну Бондар 6:4, 6:3 в первом круге, уверенно вышла в 1/8 без потери сета."
-        },
-        "playerB": {
-          "last5": "Прошла квалификацию (обыграв в финале квалификации Панну Удвари) и выиграла первый круг основной сетки против Кимберли Биррелл — на подъёме."
-        }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": [
-            "Опытная и стабильная теннисистка тура",
-            "Сильная сеточная игра",
-            "Уверенная победа над Бондар без потери сета"
-          ],
-          "weaknesses": [
-            "Не всегда доминирует мощью подачи",
-            "Ограниченные данные о текущей форме на харде"
-          ]
-        },
-        "playerB": {
-          "strengths": [
-            "Серия уверенных побед от квалификации до 1/8",
-            "Карьерный подъём в рейтинге",
-            "Играет без давления в статусе андердога"
-          ],
-          "weaknesses": [
-            "Меньше опыта на уровне WTA-500",
-            "Отсутствие данных о личных встречах с Букшей создаёт неопределённость"
-          ]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "low",
-        "reasoning": "Букша опытнее и увереннее прошла первый круг без потери сета, но Видманова находится в хорошей серии побед — уверенность в прогнозе невысокая.",
-        "predictedScore": null
-      },
-      "sources": [
-        "https://www.infobae.com/america/agencias/2026/08/25/cristina-bucsa-avanza-a-octavos-en-monterrey/",
-        "https://en.tennistemple.com/match/udvardy-vidmanova-monterrey-2026/9478376/",
-        "https://en.wikipedia.org/wiki/Darja_Vidmanova",
-        "https://lastwordonsports.com/tennis/2026/08/24/wta-monterrey-day-3-predictions-bucsa-bondar/",
-        "https://www.sofascore.com/tennis/match/anna-bondar-cristina-bucsa/GHOszlkb"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "udvardy-mertens-2026-08-26",
-      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
-      "round": "1/8 финала",
-      "kickoff": "2026-08-26T06:00:00+03:00",
-      "status": "live",
-      "playerA": {
-        "name": "Панна Удвари",
-        "ranking": null
-      },
-      "playerB": {
-        "name": "Элиз Мертенс",
-        "ranking": null
-      },
-      "h2h": {
-        "summary": "Мертенс ведёт в личных встречах 2:0 — это будет их третья встреча, ранее никогда не играли на харде.",
-        "record": {
-          "aWins": 0,
-          "bWins": 2
-        }
-      },
-      "form": {
-        "playerA": {
-          "last5": "Вошла в основную сетку как лаки-лузер после квалификационного матча с Дарьей Видмановой, пробилась через первый круг."
-        },
-        "playerB": {
-          "last5": "Посеяна 2-й на турнире, один из фавориток соревнования."
-        }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": [
-            "Агрессивный форхенд",
-            "Играет раскрепощённо в статусе аутсайдера/лаки-лузера",
-            "Свежий уверенный настрой после выхода в 1/8"
-          ],
-          "weaknesses": [
-            "Отрицательный счёт личных встреч (0:2) с Мертенс",
-            "Нет опыта побед над ней на харде"
-          ]
-        },
-        "playerB": {
-          "strengths": [
-            "Универсальная умная игра, отличная работа ног",
-            "Вариативность (слайсы, укороченные)",
-            "Большой турнирный опыт в статусе топ-сеяной"
-          ],
-          "weaknesses": [
-            "Не всегда доминирует по мощи против биг-хиттеров",
-            "Случаются провалы в отдельных сетах"
-          ]
-        }
-      },
-      "prediction": {
-        "winner": "playerB",
-        "confidence": "high",
-        "reasoning": "Явное преимущество Мертенс по посеву, статусу и личным встречам (2:0) делает её очевидным фаворитом матча.",
-        "predictedScore": null
-      },
-      "sources": [
-        "https://en.tennistemple.com/match/udvardy-vidmanova-monterrey-2026/9478376/",
-        "https://en.wikipedia.org/wiki/2026_Monterrey_Open",
-        "https://www.wtatennis.com/tournaments/1039/monterrey/2026",
-        "https://tennistonic.com/tennis-news/1045471/",
-        "https://tennistonic.com/tennis-news/1045474/"
       ],
       "actualResult": null
     },
@@ -2892,6 +2756,136 @@
         "https://www.wtatennis.com/players/332168/alexandra-shubladze"
       ],
       "actualResult": "2:1"
+    },
+    {
+      "id": "udvardy-vidmanova-2026-08-26",
+      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
+      "round": "2 круг",
+      "kickoff": "2026-08-25T22:40:00+03:00",
+      "status": "finished",
+      "playerA": {
+        "name": "Панна Удварди",
+        "ranking": null
+      },
+      "playerB": {
+        "name": "Дарья Видманова",
+        "ranking": null
+      },
+      "h2h": {
+        "summary": "Данных о личных встречах до этого матча не найдено.",
+        "record": {
+          "aWins": 0,
+          "bWins": 0
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "В 1-м круге победила в трёх сетах за 136 минут; вышла во 2-й круг квалификации/основной сетки Монтеррея."
+        },
+        "playerB": {
+          "last5": "В 1-м круге обыграла Биррелл в двух сетах за 87 минут — более уверенное и быстрое прохождение раунда, чем у Уд Варди."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Боевой характер, умеет переворачивать матчи в трёх сетах"
+          ],
+          "weaknesses": [
+            "Менее стабильна физически — потратила больше времени и сил в 1-м круге"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Экономила силы в предыдущем раунде",
+            "Уверенная игра на этой неделе"
+          ],
+          "weaknesses": [
+            "Ограниченный опыт на этом уровне соревнований"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Прогноз даётся предматчево и основан на ограниченных данных: у Видмановой было более лёгкое прохождение 1-го круга, что могло дать ей физическое преимущество. Источников по этому конкретному матчу немного, часть данных о туре Монтеррей получена только через сниппеты поиска (прямой доступ к букмекерским и статистическим сайтам был заблокирован сетевой политикой окружения), поэтому уверенность в прогнозе низкая.",
+        "predictedScore": "1:2"
+      },
+      "sources": [
+        "https://www.wtatennis.com/tournaments/1039/monterrey/2026/scores/RS006",
+        "https://en.tennistemple.com/match/udvardy-vidmanova-monterrey-2026/9478376/",
+        "https://en.wikipedia.org/wiki/2026_Monterrey_Open",
+        "https://www.bets.com.au/tennis/wta-tour/maya-joint-vs-panna-udvardy-wta-monterrey-tips-prediction-live-stream-20260825-0006/",
+        "https://www.wtatennis.com/tournaments/1039/monterrey/2026"
+      ],
+      "actualResult": "1:2"
+    },
+    {
+      "id": "lee-rincon-2026-08-26",
+      "tournament": "US Open, квалификация",
+      "round": "2 круг",
+      "kickoff": "2026-08-26T18:00:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Джордан Ли",
+        "ranking": 1757
+      },
+      "playerB": {
+        "name": "Даниэль Ринкон",
+        "ranking": 206
+      },
+      "h2h": {
+        "summary": "Личных встреч на про-туре не найдено — оба вышли во 2-й круг квалификации из разных частей сетки.",
+        "record": {
+          "aWins": 0,
+          "bWins": 0
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "16-летний уайлд-кард, победитель юниорского Уимблдона-2026 (обыграл Круза Хьюитта в финале); в 1-м круге квалификации US Open прошёл Марка Лаяла в трёх сетах 4:6, 6:3, 6:3."
+        },
+        "playerB": {
+          "last5": "Опытный испанский профессионал (высший рейтинг — 181-е место в 2023 году); в 1-м круге квалификации обыграл 5-го сеяного Титуана Дроге 2:6, 6:4, 7:6(1)."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Свежая победа на юниорском Уимблдоне добавляет уверенности",
+            "Агрессивная игра с задней линии, ничего не боится против более старших соперников"
+          ],
+          "weaknesses": [
+            "Минимальный опыт на взрослом про-туре",
+            "Против физически крепких соперников может не хватить выносливости"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Гораздо больше опыта на про-уровне",
+            "Показал бойцовский характер в тай-брейке против сеяного соперника в 1-м круге"
+          ],
+          "weaknesses": [
+            "Рейтинг заметно ниже пикового — нестабильный сезон",
+            "Затратил много сил в трёхсетовом матче 1-го круга"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Предматчевый прогноз: у Ринкона солидное преимущество в опыте и рейтинге взрослого тура, но история сенсации Ли на юниорском Уимблдоне и статус уайлд-карда добавляют интригу. Источников по этой конкретной паре немного (данные собраны в основном через сниппеты поиска, так как прямой доступ к специализированным теннисным и букмекерским сайтам был заблокирован сетевой политикой окружения), поэтому уверенность в прогнозе низкая.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://sports.yahoo.com/articles/us-open-2026-qualifying-day-103643555.html",
+        "https://sports.yahoo.com/articles/16-old-jordan-lee-turning-114131850.html",
+        "https://www.atptour.com/en/news/us-open-2026-qualifying-monday",
+        "https://www.tennis.com/tournaments/us-open/matches/t-droguet-vs-d-rincon-2026-08-24",
+        "https://en.wikipedia.org/wiki/Jordan_Lee_(tennis)",
+        "https://www.tennismajors.com/people/daniel-rincon"
+      ],
+      "actualResult": null
     }
   ]
 }
