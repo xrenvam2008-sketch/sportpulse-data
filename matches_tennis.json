@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T23:15:00+03:00",
+  "generatedAt": "2026-08-27T01:05:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -1587,7 +1587,7 @@
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
       "kickoff": "2026-08-26T05:40:00+03:00",
-      "status": "finished",
+      "status": "live",
       "playerA": {
         "name": "Анастасия Потапова",
         "ranking": 25
@@ -2491,7 +2491,7 @@
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
       "kickoff": "2026-08-27T00:00:00+03:00",
-      "status": "scheduled",
+      "status": "finished",
       "playerA": {
         "name": "Мария Тимофеева",
         "ranking": null
@@ -2550,9 +2550,10 @@
         "https://www.yardbarker.com/tennis/articles/ann_li_cruises_through_opening_match_in_monterrey/s1_17056_44215963",
         "https://en.tennistemple.com/match/osorio-li-monterrey-2026/9478391/",
         "https://tennistonic.com/tennis-news/1045453/",
-        "https://tennistonic.com/tennis-news/1045450/"
+        "https://tennistonic.com/tennis-news/1045450/",
+        "https://www.wtatennis.com/tournaments/1039/monterrey/2026/scores/LS011"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "shubladze-soboleva-2026-08-25",
@@ -2896,7 +2897,7 @@
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "3 круг",
       "kickoff": "2026-08-27T01:30:00+03:00",
-      "status": "scheduled",
+      "status": "finished",
       "playerA": {
         "name": "Александар Ковачевич",
         "ranking": 109
@@ -2958,9 +2959,10 @@
         "https://en.tennistemple.com/match/kovacevic-tsitsipas-winston-salem-2026/9478998/",
         "https://tennistonic.com/head-to-head-compare/Aleksandar-Kovacevic-Vs-Stefanos-Tsitsipas/",
         "https://matchstat.com/tennis/h2h-odds-bets/Aleksandar%20Kovacevic/Stefanos%20Tsitsipas/",
-        "https://www.atptour.com/en/players/aleksandar-kovacevic/k0az/player-stats"
+        "https://www.atptour.com/en/players/aleksandar-kovacevic/k0az/player-stats",
+        "https://www.sofascore.com/tennis/match/aleksandar-kovacevic-stefanos-tsitsipas/qXYsicAb"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "skatov-dimitrov-2026-08-26",
@@ -3309,7 +3311,7 @@
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "1/8 финала",
       "kickoff": "2026-08-26T22:30:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Артур Фери",
         "ranking": 37
@@ -3369,16 +3371,17 @@
         "https://matchstat.com/tennis/h2h-odds-bets/Arthur%20Fery/Mees%20Rottgering/",
         "https://www.atptour.com/en/news/winston-salem-2026-scouting-report",
         "https://www.sofascore.com/tennis/player/fery-arthur/321789",
-        "https://www.winstonsalemopen.com/en/media/news/mees-2026"
+        "https://www.winstonsalemopen.com/en/media/news/mees-2026",
+        "https://www.flashscore.com/match/tennis/fery-arthur-SKxbA6KA/rottgering-mees-QcUMcWQE/"
       ],
-      "actualResult": null
+      "actualResult": "2:0"
     },
     {
       "id": "sonego-duckworth-2026-08-27",
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "1/8 финала",
       "kickoff": "2026-08-27T01:30:00+03:00",
-      "status": "scheduled",
+      "status": "finished",
       "playerA": {
         "name": "Лоренцо Сонего",
         "ranking": 91
@@ -3438,9 +3441,10 @@
         "https://tennistonic.com/tennis-news/1045761/h2h-prediction-of-james-duckworth-vs-lorenzo-sonego-in-winston-salem-with-odds-preview-pick-26th-august-2026-2/",
         "https://tennistonic.com/tennis-news/1045800/how-to-watch-duckworth-vs-sonego-on-live-streaming-in-winston-salem-on-wednesday/",
         "https://www.sofascore.com/tennis/player/sonego-lorenzo/104847",
-        "https://www.tennisexplorer.com/winston-salem/2026/atp-men/"
+        "https://www.tennisexplorer.com/winston-salem/2026/atp-men/",
+        "https://www.sportytrader.com/en/results-live/sonego-l-ita-james-duckworth-8777486/"
       ],
-      "actualResult": null
+      "actualResult": "2:1"
     },
     {
       "id": "damm-marozsan-2026-08-27",
