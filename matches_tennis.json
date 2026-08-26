@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T17:19:00+03:00",
+  "generatedAt": "2026-08-26T18:32:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -1587,7 +1587,7 @@
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
       "kickoff": "2026-08-26T05:40:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Анастасия Потапова",
         "ranking": 25
@@ -1597,7 +1597,7 @@
         "ranking": 39
       },
       "h2h": {
-        "summary": "Потапова ведёт 2:0, обе победы на грунте: 6:1, 6:4 в Стамбуле в апреле 2022 года и 4:6, 6:4, 6:2 в Риме в мае 2026 года.",
+        "summary": "Потапова ведёт 2:0, обе победы на грунте: 6:1, 6:4 в Стамбуле в апреле 2022 года и 4:6, 6:4, 6:2 в Риме в мае 2026 года. Обновление: Потапова снялась с матча перед игрой из-за травмы спины, встреча не состоялась (Бартунькова прошла дальше техническим победителем).",
         "record": {
           "aWins": 2,
           "bWins": 0
@@ -1649,7 +1649,8 @@
         "https://tennistonic.com/tennis-news/1045486/monterrey-draw-anastasia-potapovas-prediction-with-bartunkova-next-h2h-and-rankings/",
         "https://www.wincomparator.com/predictions/nikola-bartunkova-anastasia-potapova-8771046/",
         "https://www.bleachernation.com/picks/2026/08/24/bartunkova-vs-potapova-prediction-at-the-abierto-gnp-seguros-tuesday-august-25/",
-        "https://lastwordonsports.com/tennis/2026/08/25/wta-monterrey-day-3-predictions-potapova-bartunkova/"
+        "https://lastwordonsports.com/tennis/2026/08/25/wta-monterrey-day-3-predictions-potapova-bartunkova/",
+        "https://www.livesport.ru/tennis/2026/08/26/potapova/"
       ],
       "actualResult": null
     },
@@ -1658,7 +1659,7 @@
       "tournament": "US Open, квалификация",
       "round": "2 круг квалификации",
       "kickoff": "2026-08-26T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Александр Мюллер",
         "ranking": 136
@@ -2485,143 +2486,6 @@
       "actualResult": "2:1"
     },
     {
-      "id": "chwalinska-parks-2026-08-26",
-      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
-      "round": "1/8 финала",
-      "kickoff": "2026-08-26T06:00:00+03:00",
-      "status": "live",
-      "playerA": {
-        "name": "Магда Хвалиньская",
-        "ranking": 21
-      },
-      "playerB": {
-        "name": "Алисия Паркс",
-        "ranking": 89
-      },
-      "h2h": {
-        "summary": "Личных встреч ранее не было — первая очная игра.",
-        "record": {
-          "aWins": 0,
-          "bWins": 0
-        }
-      },
-      "form": {
-        "playerA": {
-          "last5": "В отличной форме — прошла в 1/8 без игры как 3-й номер посева, на серии из 10 побед подряд; сезон-2026 30-13 (4-4 на харде)."
-        },
-        "playerB": {
-          "last5": "Прошла в 1/8 через камбэк, обыграв Петру Марцинко 2:6, 6:4, 6:4 в первом круге."
-        }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": [
-            "Мощная левая рука, тяжёлый топспин с форхенда",
-            "Уверенная игра с задней линии",
-            "Психологический подъём от серии из 10 побед подряд"
-          ],
-          "weaknesses": [
-            "Ограниченный опыт на харде в этом сезоне",
-            "Нестабильная подача под давлением"
-          ]
-        },
-        "playerB": {
-          "strengths": [
-            "Одна из самых мощных подач и форхендов в туре",
-            "Агрессивная игра навылет",
-            "Умеет обыгрывать топ-игроков классом удара"
-          ],
-          "weaknesses": [
-            "Высокий процент невынужденных ошибок",
-            "Психологическая нестабильность (видна по потерянному 1-му сету с Марцинко)",
-            "Более низкий рейтинг"
-          ]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "medium",
-        "reasoning": "Хвалиньская выше в рейтинге, посеяна и находится на впечатляющей серии из 10 побед подряд, тогда как Паркс с трудом прошла первый круг. Однако мощь подачи и удара Паркс делают исход неочевидным.",
-        "predictedScore": null
-      },
-      "sources": [
-        "https://www.polsatsport.pl/wiadomosc/2026-08-25/maja-chwalinska-alycia-parks-kiedy-mecz-o-ktorej-godzinie/",
-        "https://sport1.pl/kiedy-mecz-chwalinska-parks-o-ktorej-godzinie-pierwsze-spotkanie-polki-w-monterrey",
-        "https://eurosport.tvn24.pl/tenis/wta-monterrey/2026/z-kim-maja-chwalinska-zagra-w-pierwszym-meczu-turnieju-wta-500-w-monterrey-kiedy-mecz_sto23330956/story.shtml",
-        "https://www.tennisexplorer.com/monterrey/2026/wta-women/",
-        "https://tennistonic.com/tennis-news/1045390/"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "alexandrova-tauson-2026-08-26",
-      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
-      "round": "1/8 финала",
-      "kickoff": "2026-08-26T06:00:00+03:00",
-      "status": "live",
-      "playerA": {
-        "name": "Екатерина Александрова",
-        "ranking": 18
-      },
-      "playerB": {
-        "name": "Клара Таусон",
-        "ranking": null
-      },
-      "h2h": {
-        "summary": "Таусон ведёт 2:0 — победы в Лионе (2021, 6:3, 6:4) и Люксембурге (2021, 6:4, 3:6, 7:6), но обе встречи давние.",
-        "record": {
-          "aWins": 0,
-          "bWins": 2
-        }
-      },
-      "form": {
-        "playerA": {
-          "last5": "Топ-сеяная турнира, финалистка прошлого года, прошла в 1/8 без игры (бай)."
-        },
-        "playerB": {
-          "last5": "Камбэк-победа над местной фавориткой Ренатой Сарасуа 3:6, 6:3, 6:0 в первом круге."
-        }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": [
-            "Мощная и разнообразная подача",
-            "Глубокие плоские удары с обеих рук",
-            "Большой опыт именно на этом турнире (финал в прошлом году)"
-          ],
-          "weaknesses": [
-            "Уступает Таусон по личным встречам (0:2)",
-            "Возможное давление статуса топ-сеяной и защиты очков"
-          ]
-        },
-        "playerB": {
-          "strengths": [
-            "Один из лучших ударов слева в туре",
-            "Агрессивная атакующая игра",
-            "Психологическое преимущество по личным встречам"
-          ],
-          "weaknesses": [
-            "Нестабильность внутри матча (потеря 1-го сета с Сарасуа перед камбэком)",
-            "Обе победы над Александровой давние (2021), актуальность h2h под вопросом"
-          ]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "medium",
-        "reasoning": "Александрова выше сеяна, действующая финалистка турнира и в лучшей текущей форме, но исторический перевес Таусон в личных встречах (2:0, пусть и старых) добавляет неопределённости. (Обновление на 17:19 МСК 26.08: матч должен был стартовать в течение дня на харде Монтеррея, но из-за блокировки доступа к специализированным источникам (Sofascore, Flashscore, WTA live) подтверждённый текущий счёт или итоговый результат получить не удалось — статус оставлен 'live' без угадывания результата.)",
-        "predictedScore": null
-      },
-      "sources": [
-        "https://www.wtatennis.com/tournaments/1039/monterrey/2026/scores/LS017",
-        "https://lastwordonsports.com/tennis/2026/08/22/top-seeds-wta-monterrey-26/",
-        "https://tennistonic.com/tennis-news/1045477/",
-        "https://m.aiscore.com/head-to-head/tennis/clara-tauson-vs-ekaterina-alexandrova",
-        "https://tennistonic.com/head-to-head-compare/Clara-Tauson-Vs-Ekaterina-Alexandrova/"
-      ],
-      "actualResult": null
-    },
-    {
       "id": "timofeeva-li-2026-08-26",
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
@@ -2825,7 +2689,7 @@
       "tournament": "US Open, квалификация",
       "round": "2 круг",
       "kickoff": "2026-08-26T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Джордан Ли",
         "ranking": 1757
@@ -2884,6 +2748,216 @@
         "https://www.tennis.com/tournaments/us-open/matches/t-droguet-vs-d-rincon-2026-08-24",
         "https://en.wikipedia.org/wiki/Jordan_Lee_(tennis)",
         "https://www.tennismajors.com/people/daniel-rincon"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "chwalinska-parks-2026-08-27",
+      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-27T04:30:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Магда Хвалиньская",
+        "ranking": 21
+      },
+      "playerB": {
+        "name": "Алисия Паркс",
+        "ranking": 89
+      },
+      "h2h": {
+        "summary": "Личных встреч ранее не было — первая очная игра.",
+        "record": {
+          "aWins": 0,
+          "bWins": 0
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "В отличной форме — прошла в 1/8 без игры как 3-й номер посева, на серии из 10 побед подряд; сезон-2026 30-13 (4-4 на харде)."
+        },
+        "playerB": {
+          "last5": "Прошла в 1/8 через камбэк, обыграв Петру Марцинко 2:6, 6:4, 6:4 в первом круге."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Мощная левая рука, тяжёлый топспин с форхенда",
+            "Уверенная игра с задней линии",
+            "Психологический подъём от серии из 10 побед подряд"
+          ],
+          "weaknesses": [
+            "Ограниченный опыт на харде в этом сезоне",
+            "Нестабильная подача под давлением"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Одна из самых мощных подач и форхендов в туре",
+            "Агрессивная игра навылет",
+            "Умеет обыгрывать топ-игроков классом удара"
+          ],
+          "weaknesses": [
+            "Высокий процент невынужденных ошибок",
+            "Психологическая нестабильность (видна по потерянному 1-му сету с Марцинко)",
+            "Более низкий рейтинг"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Хвалиньская выше в рейтинге, посеяна и находится на впечатляющей серии из 10 побед подряд, тогда как Паркс с трудом прошла первый круг. Однако мощь подачи и удара Паркс делают исход неочевидным. (Уточнение на 18:2x МСК 26.08: по данным livesport.ru матч 2-го круга фактически назначен на 27 августа, а не на 26-е, как считалось ранее — время и статус скорректированы.)",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://www.polsatsport.pl/wiadomosc/2026-08-25/maja-chwalinska-alycia-parks-kiedy-mecz-o-ktorej-godzinie/",
+        "https://sport1.pl/kiedy-mecz-chwalinska-parks-o-ktorej-godzinie-pierwsze-spotkanie-polki-w-monterrey",
+        "https://eurosport.tvn24.pl/tenis/wta-monterrey/2026/z-kim-maja-chwalinska-zagra-w-pierwszym-meczu-turnieju-wta-500-w-monterrey-kiedy-mecz_sto23330956/story.shtml",
+        "https://www.tennisexplorer.com/monterrey/2026/wta-women/",
+        "https://tennistonic.com/tennis-news/1045390/",
+        "https://www.livesport.ru/tips/tennis/2026/08/27/maja-chwalinska-alycia-parks/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "alexandrova-tauson-2026-08-27",
+      "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-27T06:00:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Екатерина Александрова",
+        "ranking": 18
+      },
+      "playerB": {
+        "name": "Клара Таусон",
+        "ranking": null
+      },
+      "h2h": {
+        "summary": "Таусон ведёт 2:0 — победы в Лионе (2021, 6:3, 6:4) и Люксембурге (2021, 6:4, 3:6, 7:6), но обе встречи давние.",
+        "record": {
+          "aWins": 0,
+          "bWins": 2
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Топ-сеяная турнира, финалистка прошлого года, прошла в 1/8 без игры (бай)."
+        },
+        "playerB": {
+          "last5": "Камбэк-победа над местной фавориткой Ренатой Сарасуа 3:6, 6:3, 6:0 в первом круге."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Мощная и разнообразная подача",
+            "Глубокие плоские удары с обеих рук",
+            "Большой опыт именно на этом турнире (финал в прошлом году)"
+          ],
+          "weaknesses": [
+            "Уступает Таусон по личным встречам (0:2)",
+            "Возможное давление статуса топ-сеяной и защиты очков"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Один из лучших ударов слева в туре",
+            "Агрессивная атакующая игра",
+            "Психологическое преимущество по личным встречам"
+          ],
+          "weaknesses": [
+            "Нестабильность внутри матча (потеря 1-го сета с Сарасуа перед камбэком)",
+            "Обе победы над Александровой давние (2021), актуальность h2h под вопросом"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Александрова выше сеяна, действующая финалистка турнира и в лучшей текущей форме, но исторический перевес Таусон в личных встречах (2:0, пусть и старых) добавляет неопределённости. (Уточнение на 18:2x МСК 26.08: по данным livesport.ru матч в реальности назначен на 27 августа, а не на 26-е, как считалось ранее — время и статус скорректированы.)",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://www.wtatennis.com/tournaments/1039/monterrey/2026/scores/LS017",
+        "https://lastwordonsports.com/tennis/2026/08/22/top-seeds-wta-monterrey-26/",
+        "https://tennistonic.com/tennis-news/1045477/",
+        "https://m.aiscore.com/head-to-head/tennis/clara-tauson-vs-ekaterina-alexandrova",
+        "https://tennistonic.com/head-to-head-compare/Clara-Tauson-Vs-Ekaterina-Alexandrova/",
+        "https://www.livesport.ru/tips/tennis/2026/08/27/ekaterina-alexandrova-clara-tauson/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "kovacevic-tsitsipas-2026-08-27",
+      "tournament": "ATP-250 Уинстон-Сейлем",
+      "round": "3 круг",
+      "kickoff": "2026-08-27T01:30:00+03:00",
+      "status": "scheduled",
+      "playerA": {
+        "name": "Александар Ковачевич",
+        "ranking": 109
+      },
+      "playerB": {
+        "name": "Стефанос Циципас",
+        "ranking": 12
+      },
+      "h2h": {
+        "summary": "Одна личная встреча — Циципас выиграл в четвертьфинале Лос-Кабоса в 2024 году в двух сетах.",
+        "record": {
+          "aWins": 0,
+          "bWins": 1
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Отрицательный баланс побед/поражений в сезоне-2026 (около 20-27); в Уинстон-Сейлеме начал турнир с победы над Феликсом Балшоу 6:4, 7:6."
+        },
+        "playerB": {
+          "last5": "Уверенно обыграл Дженсона Бруксби во 2-м круге 6:4, 7:6(6) после старта турнира со 2-го круга как один из топ-сеяных."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Мощная подача (в среднем около 9-10 эйсов за матч на харде)",
+            "Плоский атакующий форхенд, любимый удар",
+            "Хорошо держит свою подачу (около 84%)"
+          ],
+          "weaknesses": [
+            "Слабый приём — низкий процент выигранных очков на 1-й и 2-й подаче соперника",
+            "Отрицательный баланс побед сезона-2026",
+            "Ниже рейтингом и опытом на этом уровне соперников"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Мощный форхенд и разнообразие ударов у всей площадки",
+            "Сильная подача (нередко свыше 200 км/ч)",
+            "Атакующая игра у сетки"
+          ],
+          "weaknesses": [
+            "Технические проблемы с одноручным бэкхендом под давлением",
+            "Невысокий процент приёма подачи в 2026 году",
+            "Периодическая психологическая неустойчивость в ключевые моменты"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "high",
+        "reasoning": "Циципас существенно выше в рейтинге (12-е место против 109-го), ведёт в личных встречах 1:0 и подтвердил хорошую форму победой над Бруксби во 2-м круге, тогда как у Ковачевича отрицательный баланс побед в сезоне-2026.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.atptour.com/en/players/atp-head-2-head/stefanos-tsitsipas-vs-aleksandar-kovacevic/te51/k0az",
+        "https://www.livesport.ru/tips/tennis/2026/08/27/aleksandar-kovacevic-stefanos-tsitsipas/",
+        "https://en.tennistemple.com/match/kovacevic-tsitsipas-winston-salem-2026/9478998/",
+        "https://tennistonic.com/head-to-head-compare/Aleksandar-Kovacevic-Vs-Stefanos-Tsitsipas/",
+        "https://matchstat.com/tennis/h2h-odds-bets/Aleksandar%20Kovacevic/Stefanos%20Tsitsipas/",
+        "https://www.atptour.com/en/players/aleksandar-kovacevic/k0az/player-stats"
       ],
       "actualResult": null
     }
