@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T01:16:00+03:00",
+  "generatedAt": "2026-08-27T02:25:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -2416,77 +2416,6 @@
       "actualResult": "2:0"
     },
     {
-      "id": "rincon-droguet-2026-08-24",
-      "tournament": "US Open, квалификация",
-      "round": "1 круг квалификации",
-      "kickoff": "2026-08-24T00:00:00+03:00",
-      "status": "finished",
-      "playerA": {
-        "name": "Даниэль Ринкон",
-        "ranking": 302
-      },
-      "playerB": {
-        "name": "Титуан Дрогэ",
-        "ranking": 102
-      },
-      "h2h": {
-        "summary": "Личных встреч ранее не было — первая очная игра.",
-        "record": {
-          "aWins": 0,
-          "bWins": 0
-        }
-      },
-      "form": {
-        "playerA": {
-          "last5": "Не показывал выдающихся результатов в рейтинговых очках (около 300-й позиции), но обладает опытом больших камбэков и победой на челленджере Rafa Nadal Open в 2025 году."
-        },
-        "playerB": {
-          "last5": "Подошёл к US Open на пике формы сезона: обновил личный рекорд рейтинга (107-е место в мае), по пути к четвертьфиналу в Бухаресте обыграл сильных соперников, посеян 5-м номером в квалификации."
-        }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": [
-            "Левша с двуручным бэкхендом",
-            "Высокий рост (185 см) даёт преимущество на подаче",
-            "Победитель юниорского US Open (2021)",
-            "Опыт камбэков в трёхсетовых матчах"
-          ],
-          "weaknesses": [
-            "Нестабильность результатов на протяжении сезона",
-            "Долгое время не может выйти за пределы 250-300 строчек рейтинга"
-          ]
-        },
-        "playerB": {
-          "strengths": [
-            "Высокий рост (191 см) даёт мощь на подаче и ударах",
-            "Уверенная игра на грунте переносится и на хард",
-            "Стабильные результаты в 2026 году",
-            "Статус посеянного (5-й номер)"
-          ],
-          "weaknesses": [
-            "Предпочитаемое покрытие — грунт, не идеально для US Open (хард)",
-            "Отмечались проблемы с физической готовностью (судороги) в концовках матчей"
-          ]
-        }
-      },
-      "prediction": {
-        "winner": "playerB",
-        "confidence": "high",
-        "reasoning": "До матча явным фаворитом считался Дрогэ — пятый сеяный квалификации, с рейтингом 102 против ~300 у Ринкона; котировки давали Дрогэ около 80% шансов, а Tennis Tonic прогнозировал его победу в трёх сетах.",
-        "predictedScore": null
-      },
-      "sources": [
-        "https://www.tennis.com/tournaments/us-open/",
-        "https://www.sofascore.com/tennis/player/rincon-daniel",
-        "https://en.tennistemple.com/player/titouan-droguet",
-        "https://www.atptour.com/en/news/us-open-2026-qualifying-monday",
-        "https://tennistonic.com/head-to-head-compare/Daniel-Rincon-Vs-Titouan-Droguet/",
-        "https://matchstat.com/tennis/h2h-odds-bets/Daniel%20Rincon/Titouan%20Droguet/"
-      ],
-      "actualResult": "2:1"
-    },
-    {
       "id": "timofeeva-li-2026-08-26",
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
@@ -2760,7 +2689,7 @@
       "kickoff": "2026-08-27T04:30:00+03:00",
       "status": "scheduled",
       "playerA": {
-        "name": "Магда Хвалиньская",
+        "name": "Мая Хвалиньская",
         "ranking": 21
       },
       "playerB": {
@@ -3512,6 +3441,76 @@
         "https://www.atptour.com/en/news/winston-salem-2026-tuesday-report",
         "https://www.atptour.com/en/scores/current/winston-salem/6242/daily-schedule",
         "https://www.sofascore.com/tennis/player/damm-jr-martin/51345"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "tsitsipas-kovacevic-2026-08-27",
+      "tournament": "ATP-250 Уинстон-Сейлем",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-27T01:30:00+03:00",
+      "status": "live",
+      "playerA": {
+        "name": "Стефанос Циципас",
+        "ranking": 53
+      },
+      "playerB": {
+        "name": "Александар Ковачевич",
+        "ranking": 89
+      },
+      "h2h": {
+        "summary": "Играли между собой лишь раз — в феврале 2024 года в Лос-Кабосе на харде, Циципас выиграл в двух сетах.",
+        "record": {
+          "aWins": 1,
+          "bWins": 0
+        }
+      },
+      "form": {
+        "playerA": {
+          "last5": "Сезон 20-18, в последних 10 матчах 7-3; постепенно восстанавливает уровень после провала в рейтинге до 53-й строчки."
+        },
+        "playerB": {
+          "last5": "Сезон 14-20, в последних 10 матчах 3-7, но дважды успешно выступал на этом турнире в Уинстон-Сейлеме в прошлом."
+        }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": [
+            "Преимущество в личной встрече (1:0)",
+            "Сильнее в тай-брейках",
+            "Выше по рейтингу и опытнее на топ-уровне",
+            "Лучше реализует брейк-пойнты"
+          ],
+          "weaknesses": [
+            "Нестабильный сезон в целом (20-18)",
+            "Проблемы со стабильностью бэкхенда под давлением"
+          ]
+        },
+        "playerB": {
+          "strengths": [
+            "Качественная подача в текущих условиях турнира",
+            "Умеет затягивать сеты до тай-брейков",
+            "Хорошо знаком с покрытием и обстановкой турнира"
+          ],
+          "weaknesses": [
+            "Отрицательный баланс сезона (14-20)",
+            "Уступает в личной встрече",
+            "Ниже в рейтинге (89-я строчка)"
+          ]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Букмекерские котировки отдают явное предпочтение Циципасу (~69% вероятности победы) благодаря преимуществу в личной встрече, лучшей игре на тай-брейках и реализации брейк-пойнтов, хотя Ковачевич способен навязать борьбу за счёт подачи.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://en.tennistemple.com/match/kovacevic-tsitsipas-winston-salem-2026/9478998/",
+        "https://matchstat.com/predictions-tips/tennis-prediction-pick-odds-kovacevic-tsitsipas-h2h-winston-salem-open-winston-salem-2026-day-4/",
+        "https://matchstat.com/tennis/h2h-odds-bets/Aleksandar%20Kovacevic/Stefanos%20Tsitsipas/",
+        "https://tennistonic.com/tennis-news/1045701/how-to-watch-tsitsipas-vs-kovacevic-on-live-streaming-in-winston-salem-on-wednesday/",
+        "https://tennistonic.com/tennis-news/1045694/h2h-prediction-of-stefanos-tsitsipas-vs-aleksandar-kovacevic-in-winston-salem-with-odds-preview-pick-26th-august-2026-2/"
       ],
       "actualResult": null
     }
