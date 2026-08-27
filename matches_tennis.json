@@ -1,252 +1,385 @@
 {
-  "generatedAt": "2026-08-27T08:13:00+03:00",
+  "generatedAt": "2026-08-27T09:15:00+03:00",
   "sport": "tennis",
   "matches": [
     {
+      "id": "tsitsipas-kovacevic-2026-08-27",
+      "tournament": "Winston-Salem Open (ATP 250)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-27T01:30:00+03:00",
+      "status": "finished",
+      "playerA": { "name": "Стефанос Циципас", "ranking": 53 },
+      "playerB": { "name": "Александар Ковачевич", "ranking": 96 },
+      "h2h": {
+        "summary": "Личная встреча была только одна: в феврале 2024 года в Лос-Кабосе Циципас обыграл Ковачевича 7-6(1), 6-3.",
+        "record": { "aWins": 1, "bWins": 0 }
+      },
+      "form": {
+        "playerA": { "last5": "Играет в Уинстон-Сейлеме по wild card; в стартовом матче с трудом, но уверенно прошёл Дженсона Бруксби 6-4, 7-6(6). Форма в сезоне-2026 нестабильна." },
+        "playerB": { "last5": "Подходит к матчу без громких результатов последних недель, опирается на надёжную игру с задней линии на домашних для себя кортах США." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["мощная и разнообразная подача", "атакующий форхенд", "однорукий бэкхенд как оружие на короткой дистанции"],
+          "weaknesses": ["нестабильность в решающих геймах", "вопросы к физической готовности после долгого отрезка без топ-результатов", "непостоянство на приёме"]
+        },
+        "playerB": {
+          "strengths": ["стабильная игра с задней линии", "хорошая физическая готовность", "уверенный форхенд"],
+          "weaknesses": ["не хватает вариативности в атаке", "слабее реализует брейк-пойнты против топ-соперников", "ограниченный опыт на таком уровне"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Циципас выше классом и ведёт 1-0 в личных встречах, но нестабилен в этом сезоне и вышел в основную сетку по wild card, поэтому полной уверенности нет.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.atptour.com/en/news/winston-salem-2026-monday-report",
+        "https://www.tennis.com/tournaments/winston-salem-open/matches/a-kovacevic-vs-s-tsitsipas-2026-08-26",
+        "https://en.tennistemple.com/match/kovacevic-tsitsipas-winston-salem-2026/9478998/",
+        "https://www.sportskeeda.com/tennis/stefanos-tsitsipas-vs-aleksandar-kovacevic-preview-head-to-head-odds-prediction-betting-tips-winston-salem-open-2026",
+        "https://www.atptour.com/en/players/atp-head-2-head/stefanos-tsitsipas-vs-aleksandar-kovacevic/te51/k0az",
+        "https://tennistonic.com/tennis-news/1045694/h2h-prediction-of-stefanos-tsitsipas-vs-aleksandar-kovacevic-in-winston-salem-with-odds-preview-pick-26th-august-2026-2/"
+      ],
+      "actualResult": "2:0",
+      "id_note": null
+    },
+    {
+      "id": "sonego-duckworth-2026-08-27",
+      "tournament": "Winston-Salem Open (ATP 250)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-27T00:10:00+03:00",
+      "status": "finished",
+      "playerA": { "name": "Лоренцо Сонего", "ranking": 88 },
+      "playerB": { "name": "Джеймс Дакворт", "ranking": 86 },
+      "h2h": {
+        "summary": "Сонего ведёт 2-0, обе победы были на траве в Истборне (последняя — в 2022 году, 4-6, 7-6(5), 7-6(1)); на харде соперники встречаются впервые.",
+        "record": { "aWins": 2, "bWins": 0 }
+      },
+      "form": {
+        "playerA": { "last5": "Чемпион турнира в Уинстон-Сейлеме 2024 года, уверенно прошёл стартовые раунды и на этот раз." },
+        "playerB": { "last5": "Стабильно выступает на харде в Северной Америке в конце лета, но без заметных результатов в сезоне-2026." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["агрессивная игра на быстром покрытии", "мощная первая подача", "бойцовский характер, опыт победы на этом турнире"],
+          "weaknesses": ["нестабильный бэкхенд", "случаются провалы в концовках сетов"]
+        },
+        "playerB": {
+          "strengths": ["разнообразие ударов", "неплохая подача", "опыт выступлений на харде в США"],
+          "weaknesses": ["уступает в скорости передвижения по корту", "уязвим против агрессивных нападающих игроков"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Сонего уже побеждал на этом турнире и ведёт 2-0 в личных встречах, но обе прошлые игры были упорными и проходили не на харде, так что лёгкой прогулки не ожидается.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.sofascore.com/tennis/match/lorenzo-sonego-james-duckworth/lUpsXWQ",
+        "https://www.atptour.com/en/players/atp-head-2-head/lorenzo-sonego-vs-james-duckworth/su87/d994",
+        "https://scores24.live/en/tennis/m-26-08-2026-sonego-lorenzo-duckworth-james-prediction",
+        "https://www.sportytrader.com/en/results-live/sonego-l-ita-james-duckworth-8777486/",
+        "https://matchstat.com/predictions-tips/tennis-prediction-pick-odds-sonego-duckworth-h2h-winston-salem-open-winston-salem-2026-day-4/"
+      ],
+      "actualResult": "2:0",
+      "id_note": null
+    },
+    {
+      "id": "damm-marozsan-2026-08-27",
+      "tournament": "Winston-Salem Open (ATP 250)",
+      "round": "1/8 финала",
+      "kickoff": "2026-08-27T03:00:00+03:00",
+      "status": "live",
+      "playerA": { "name": "Мартин Дамм", "ranking": 94 },
+      "playerB": { "name": "Фабиан Марожан", "ranking": 63 },
+      "h2h": {
+        "summary": "Личных встреч на туре не было — это первая очная игра теннисистов.",
+        "record": { "aWins": 0, "bWins": 0 }
+      },
+      "form": {
+        "playerA": { "last5": "Главный герой недели в Уинстон-Сейлеме: в предыдущем круге вынес экс-первую ракетку мира Даниила Медведева 7-5, 6-3 — лучшая победа в карьере." },
+        "playerB": { "last5": "Уверенно обыграл Миомира Кецмановича 6-3, 6-4 в предыдущем круге, подтверждая стабильную форму на харде." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["смелая атакующая игра без оглядки на рейтинг соперника", "хорошо принимает быструю подачу", "ничего не теряет в статусе аутсайдера"],
+          "weaknesses": ["небольшой опыт матчей такого уровня", "возможна эмоциональная и физическая усталость после победы над Медведевым"]
+        },
+        "playerB": {
+          "strengths": ["разнообразный теннис", "уверенная игра с задней линии", "стабильно проходит первые раунды турниров"],
+          "weaknesses": ["нестабильность в решающих партиях против неудобных соперников", "не тестировался против агрессивных аутсайдеров в такой форме"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Марожан выше в рейтинге и стабильнее по ходу турнира, однако Дамм показывает невероятную форму после победы над Медведевым, а личных встреч между ними не было — риск апсета высок.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.atptour.com/en/news/winston-salem-2026-tuesday-report",
+        "https://www.tennis.com/tournaments/winston-salem-open/matches/m-damm-jr-vs-f-marozsan-2026-08-26",
+        "https://www.bleachernation.com/picks/2026/08/26/damm-vs-marozsan-prediction-at-the-winston-salem-open-wednesday-august-26/",
+        "https://lastwordonsports.com/tennis/2026/08/26/atp-winston-salem-day-4-predictions-marozsan-damm/",
+        "https://www.tennisstatsh2h.com/martin-damm-v-fabian-marozsan/"
+      ],
+      "actualResult": null,
+      "id_note": "Матч по времени уже завершён (стадионная сессия среды, вечер по местному времени США), но надёжный источник с итоговым счётом найти не удалось — независимые запросы дали противоречивые цифры (6-4/7-6(2) и 7-5/6-3, последнее совпадает со счётом другого матча Дамма и похоже на ошибку агрегатора). Чтобы не гадать со счётом, статус оставлен как live, а actualResult — null."
+    },
+    {
+      "id": "van-de-zandschulp-bonzi-2026-08-27",
+      "tournament": "Winston-Salem Open (ATP 250)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-27T21:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Ботик ван де Зандсхюлп", "ranking": 71 },
+      "playerB": { "name": "Бенжамен Бонзи", "ranking": 109 },
+      "h2h": {
+        "summary": "Ван де Зандсхюлп ведёт 2-1 по личным встречам (5-2 по сетам); последняя игра осталась за Бонзи — Пуна-2023, полуфинал, хард, 7-6(5), 6-7(5), 6-1. На харде соперники сыграны 1-1.",
+        "record": { "aWins": 2, "bWins": 1 }
+      },
+      "form": {
+        "playerA": { "last5": "Проиграл всего три гейма на пути в четвертьфинал, включая разгром экс-финалиста Дардери 6-1, 6-0; в прошлом году сам был финалистом этого турнира." },
+        "playerB": { "last5": "Уверенно проходит харда-сезон в США, в предыдущем круге обыграл Ринки Хиджикату 6-1, 6-1." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["мощная подача", "стабильный форхенд", "большой опыт финалов именно на этом турнире"],
+          "weaknesses": ["временами теряет концентрацию в матче", "не лучшая игра у сетки"]
+        },
+        "playerB": {
+          "strengths": ["надёжная подача", "уверенная игра на быстром харде", "боевой характер в равных розыгрышах"],
+          "weaknesses": ["нестабильность на брейк-пойнтах", "ограниченный опыт побед над топ-70 игроками в этом сезоне"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Ван де Зандсхюлп ведёт в личных встречах, он финалист турнира прошлого года и почти не потерял геймов по пути в четвертьфинал — явный фаворит по форме недели.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.sportskeeda.com/tennis/botic-van-de-zandschulp-vs-benjamin-bonzi-preview-head-to-head-odds-prediction-betting-tips-winston-salem-open-2026",
+        "https://tenngrand.com/winston-salem-tennis-picks-predictions-van-de-zandschulp-vs-bonzi-buse-cerundolo/",
+        "https://www.atptour.com/en/players/atp-head-2-head/benjamin-bonzi-vs-botic-van-de-zandschulp/bm95/v812",
+        "https://tennistonic.com/tennis-news/1046113/updated-r3-prediction-h2h-of-botic-van-de-zandschulps-draw-vs-darderi-hijikata-buse-fery-to-win-the-winston/",
+        "https://en.tennistemple.com/match/van-de-zandschulp-darderi-winston-salem-2026/9479091/"
+      ],
+      "actualResult": null,
+      "id_note": null
+    },
+    {
+      "id": "buse-cerundolo-2026-08-27",
+      "tournament": "Winston-Salem Open (ATP 250)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-27T21:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Игнасио Бусе", "ranking": 36 },
+      "playerB": { "name": "Хуан Мануэль Черундоло", "ranking": 52 },
+      "h2h": {
+        "summary": "Черундоло ведёт 2-0 (Лима-2024, три сета; Гштад-2025, полуфинал, в двух сетах) — обе игры были на грунте, на харде это будет первая встреча.",
+        "record": { "aWins": 0, "bWins": 2 }
+      },
+      "form": {
+        "playerA": { "last5": "Прервал полосу неудач на быстрых покрытиях, обыграв Даниэля Альтмайера в тяжёлом трёхсетовом матче 7-6(5), 7-5." },
+        "playerB": { "last5": "Выиграл тяжелейший тай-брейк 7-6(10) у Себастьяна Баэса и уверенно закрыл встречу 6-3 во второй партии." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["атакующий теннис и мощный форхенд", "растущая уверенность после трудной победы", "хорошая подача"],
+          "weaknesses": ["непостоянство на приёме", "до этого турнира переживал спад результатов на быстрых покрытиях"]
+        },
+        "playerB": {
+          "strengths": ["разнообразная игра с задней линии", "крепкие нервы в тай-брейках", "преимущество в личных встречах"],
+          "weaknesses": ["не хватает мощности подачи против топ-сервисёров", "нет опыта очных встреч с Бусе на харде"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "У Бусе преимущество в текущем рейтинге и он набирает ход после трудной победы над Альтмайером, но Черундоло ведёт 2-0 в личных встречах — правда, обе игры были на грунте, а не на харде, что добавляет неопределённости.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://tenngrand.com/winston-salem-tennis-picks-predictions-van-de-zandschulp-vs-bonzi-buse-cerundolo/",
+        "https://www.tennis.com/tournaments/winston-salem-open/matches/j-cerundolo-vs-s-baez-2026-08-26",
+        "https://www.tennisstatsh2h.com/manuel-cerundolo-juan-v-ignacio-buse/",
+        "https://tennistonic.com/tennis-news/1046101/updated-r3-prediction-h2h-of-ignacio-buses-draw-vs-altmaier-baez-darderi-fery-to-win-the-winston/",
+        "https://www.atptour.com/es/news/winston-salem-2026-martes-buse"
+      ],
+      "actualResult": null,
+      "id_note": null
+    },
+    {
+      "id": "zheng-pridankina-2026-08-27",
+      "tournament": "US Open 2026 — квалификация",
+      "round": "Финальный раунд квалификации (за место в основной сетке)",
+      "kickoff": "2026-08-27T18:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Чжэн Циньвэнь", "ranking": 121 },
+      "playerB": { "name": "Елена Приданкина", "ranking": 214 },
+      "h2h": {
+        "summary": "Данные о личных встречах не найдены в открытых источниках.",
+        "record": null
+      },
+      "form": {
+        "playerA": { "last5": "Впервые с 2022 года играет квалификацию турнира Большого шлема — рейтинг просел после травм и пропущенных турниров, но уверенно обыграла Ю Сяоди 6-1, 7-5 и Клару Бюрель 6-1, 7-5 в первых двух раундах." },
+        "playerB": { "last5": "Малоизвестна широкой публике, статистика последних результатов ограничена в открытых источниках." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["мощнейший форхенд", "агрессивная игра на приёме", "опыт финалов турниров Большого шлема и титул Олимпиады"],
+          "weaknesses": ["долгое отсутствие соревновательной практики", "рейтинг и уверенность просели из-за травм"]
+        },
+        "playerB": {
+          "strengths": ["стабильная игра с задней линии в раундах квалификации", "ничего не теряет в статусе аутсайдера"],
+          "weaknesses": ["ограниченный опыт матчей такого уровня", "мало публичной статистики для прогноза"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Несмотря на просевший из-за перерыва рейтинг, класс финалистки Australian Open и олимпийской чемпионки должен быть выше уровня соперницы из квалификации.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.wtatennis.com/news/4565851/zheng-defeats-you-pareja-advances-in-us-open-qualifying",
+        "http://www.china.org.cn/2026-08/27/content_118666545.shtml",
+        "https://www.tennis.com/tournaments/us-open/matches/q-zheng-vs-x-you-2026-08-24",
+        "https://news.cgtn.com/news/2026-08-25/Zheng-Qinwen-beats-You-Xiaodi-to-begin-qualifying-campaign-at-US-Open-1PTeeOcsafm/p.html",
+        "https://www.tennisworldusa.org/tennis/news/On_the_WTA_results_with/169051/us-open-zheng-qinwen-dominates-in-qualifying-debut-at-flushing-meadows/"
+      ],
+      "actualResult": null,
+      "id_note": null
+    },
+    {
+      "id": "andreescu-podrez-2026-08-27",
+      "tournament": "US Open 2026 — квалификация",
+      "round": "Финальный раунд квалификации (за место в основной сетке)",
+      "kickoff": "2026-08-27T18:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Бьянка Андрееску", "ranking": 183 },
+      "playerB": { "name": "Вероника Подрез", "ranking": 132 },
+      "h2h": {
+        "summary": "Личных встреч не было — это первая игра теннисисток друг против друга.",
+        "record": { "aWins": 0, "bWins": 0 }
+      },
+      "form": {
+        "playerA": { "last5": "Чемпионка US Open-2019 возвращается через квалификацию после серии травм и уверенно проходит первые раунды." },
+        "playerB": { "last5": "Подтверждает статус одной из сильнейших квалифайерш турнира, стабильно проходит раунды." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["разнообразный, изобретательный теннис", "чемпионский опыт и умение играть решающие очки", "хорошая подача"],
+          "weaknesses": ["долгие перерывы из-за травм", "недостаток соревновательной практики на высоком уровне"]
+        },
+        "playerB": {
+          "strengths": ["агрессивный приём подачи", "уверенно прошла ранние раунды квалификации", "выше в текущем рейтинге"],
+          "weaknesses": ["небольшой опыт матчей такого уровня и давления", "нестабильность против более именитых соперниц"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Андрееску, несмотря на более низкий текущий рейтинг, обладает уникальным опытом победы на US Open и уверенно проходит квалификацию, но Подрез объективно выше в рейтинге, и это их первая встреча, так что уверенность не абсолютная.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.wtatennis.com/news/4553891/andreescu-zheng-kenin-liutova-headline-us-open-qualifying-entries",
+        "https://www.yardbarker.com/tennis/articles/us_open_qualifying_from_champion_to_fighting_for_main_draw_as_bianca_andreescu_dominates/s1_17460_44216117",
+        "https://www.tennisworldusa.org/tennis/news/On_the_WTA_results_with/169054/us-open-qualifying-2019-champion-bianca-andreescu-dominates-in-her-qualies-return/",
+        "https://lastwordonsports.com/tennis/2026/08/26/wta-us-open-andreescu-podrez/",
+        "https://tennistonic.com/tennis-news/1045938/h2h-prediction-of-veronika-podrez-vs-bianca-vanessa-andreescu-at-the-u-s-open-with-odds-preview-pick-26th-august-2026/"
+      ],
+      "actualResult": null,
+      "id_note": null
+    },
+    {
+      "id": "dimitrov-virtanen-2026-08-27",
+      "tournament": "US Open 2026 — квалификация",
+      "round": "Финальный раунд квалификации (за место в основной сетке)",
+      "kickoff": "2026-08-27T18:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Григор Димитров", "ranking": 170 },
+      "playerB": { "name": "Отто Виртанен", "ranking": 127 },
+      "h2h": {
+        "summary": "Данные о личных встречах не найдены в открытых источниках.",
+        "record": null
+      },
+      "form": {
+        "playerA": { "last5": "Восстанавливается после травмы, из-за которой сильно просел рейтинг; уверенно прошёл предыдущий круг квалификации против Скатова." },
+        "playerB": { "last5": "Тяжело, в трёх сетах, прошёл предыдущий раунд против Джека Пиннингтон-Джонса 2-6, 7-6(6), 6-3." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["элегантный универсальный теннис", "отличный бэкхенд по линии", "огромный опыт больших матчей"],
+          "weaknesses": ["физическая готовность под вопросом после травмы", "просевшая уверенность из-за долгого спада"]
+        },
+        "playerB": {
+          "strengths": ["мощная подача", "уверенная игра на быстром харде", "боевой характер, вытащил тяжёлый трёхсетовик"],
+          "weaknesses": ["ограниченный опыт на турнирах Большого шлема", "может не хватить свежести после трудного предыдущего матча"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Димитров опытнее и техничнее, уверенно прошёл предыдущий круг, но его физическая готовность после травмы вызывает вопросы против крепкого на харде и уже проверенного тяжёлым матчем Виртанена.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.atptour.com/en/news/us-open-2026-qualifying-draw",
+        "https://www.usopen.org/en_US/news/articles/2026-08-23/nishikori_dimitrov_zheng_andreescu_learn_paths_in_2026_us_open_qualifying_draws.html",
+        "https://en.tennistemple.com/actu/nishikori-outlasts-dimitrov-cruises-us-open/mKY7",
+        "https://www.flashscore.com/player/virtanen-otto/hnYnFaTm/",
+        "https://tennistonic.com/tennis-news/1046272/live-updates-grigor-dimitrov-tops-skatov-in-the-qualifications-at-the-u-s-open-u-s-open-results/"
+      ],
+      "actualResult": null,
+      "id_note": null
+    },
+    {
       "id": "nishikori-sakamoto-2026-08-27",
-      "tournament": "US Open — 2026, квалификация (Нью-Йорк)",
-      "round": "Квалификация, финальный раунд (3 круг)",
+      "tournament": "US Open 2026 — квалификация",
+      "round": "Финальный раунд квалификации (за место в основной сетке)",
       "kickoff": "2026-08-27T18:00:00+03:00",
       "status": "scheduled",
       "playerA": { "name": "Кэй Нисикори", "ranking": 703 },
       "playerB": { "name": "Рей Сакамото", "ranking": 152 },
       "h2h": {
-        "summary": "Личных встреч в одиночном разряде не найдено — Нисикори и Сакамото ранее играли в паре вместе на Олимпиаде-2024 в Токио, но друг против друга в одиночке выходят впервые.",
+        "summary": "Данные о личных встречах не найдены в открытых источниках.",
         "record": null
       },
       "form": {
-        "playerA": {
-          "last5": "Прощальный сезон карьеры — Нисикори объявил об уходе из тенниса по окончании 2026 года после долгой борьбы с травмами (бедро, спина, плечо, колено). Из-за низкого рейтинга играет в основном на Challenger-туре; в квалификации US Open обыграл Себастьяна Офнера 6-1 2-6 6-2 и 16-летнего уайлд-кард Майкла Антониуса 6-4 6-4."
-        },
-        "playerB": {
-          "last5": "Один из самых быстрорастущих юниоров мира: экс-первая ракетка мира среди юниоров, чемпион юниорского Australian Open-2024. В 2026 году выиграл Challenger-турниры в Кэри и Йокогаме, стал первым японским тинейджером с тремя титулами Challenger и вышел на карьерный максимум — 152-е место."
-        }
+        "playerA": { "last5": "Играет свой прощальный турнир Большого шлема; в предыдущем круге обыграл 16-летнего американца Майкла Антониуса 6-4, 6-4, но общий уровень практики после многолетних травм невысок." },
+        "playerB": { "last5": "Уверенно проходит квалификацию; развёрнутая статистика последних результатов ограничена в открытых источниках." }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": [
-            "Один из лучших приёмов подачи в истории тура",
-            "Скорострельные, плоские удары с обеих рук — бьёт по восходящему мячу лучше почти всех",
-            "Огромный опыт матчей на турнирах Большого Шлема (финал US Open-2014)",
-            "Отличная физическая готовность к длинным матчам"
-          ],
-          "weaknesses": [
-            "Слабая по меркам топ-уровня подача, невысокий процент выигранных очков на первой подаче",
-            "Малый рост (178 см) уступает в мощи современным крупным соперникам",
-            "Многолетний шлейф травм сказывается на движении и выносливости"
-          ]
+          "strengths": ["техничный бэкхенд", "богатый опыт топ-матчей на харде", "тактическая грамотность"],
+          "weaknesses": ["долгая история травм", "низкий текущий рейтинг из-за многолетнего отсутствия", "минимум соревновательной практики перед турниром"]
         },
         "playerB": {
-          "strengths": [
-            "Очень высокая скорость подачи и форхенда для игрока такого уровня",
-            "Хорошее сочетание мощи с вариативностью — слайсы, укороченные",
-            "Рост 193 см даёт преимущество в подаче",
-            "Уверенность и импульс от трёх титулов Challenger в 2026 году"
-          ],
-          "weaknesses": [
-            "Ограниченный опыт матчей на уровне основной сетки ATP и турниров Большого Шлема",
-            "Молодость (19 лет) может сказаться в решающих геймах против опытного соперника",
-            "Стабильность подачи и приёма ещё предстоит подтвердить против игроков экстра-класса"
-          ]
+          "strengths": ["стабильная игра с задней линии", "уверенно чувствует себя в раундах квалификации", "выше соперника в текущем рейтинге"],
+          "weaknesses": ["небольшой опыт на самом крупном уровне", "ограниченная физическая мощь против опытных топ-игроков"]
         }
       },
       "prediction": {
         "winner": "playerB",
-        "confidence": "medium",
-        "reasoning": "Разница в рейтинге огромна (703-й против 152-го), и Сакамото сейчас в лучшей форме карьеры с тремя титулами Challenger в этом году. Но Нисикори остаётся куда более опытным и техничным игроком, способным на разовый камбэк в прощальном сезоне, поэтому уверенность не выше средней.",
+        "confidence": "low",
+        "reasoning": "Класс Нисикори в прошлом не вызывает сомнений, но долгий перерыв из-за травм и текущий провал в рейтинге делают его аутсайдером против набравшего ход и объективно выше стоящего в рейтинге Сакамото.",
         "predictedScore": "2:1"
       },
       "sources": [
-        "https://www.atptour.com/en/news/us-open-2026-qualifying-wednesday",
-        "https://en.tennistemple.com/actu/nishikori-outlasts-dimitrov-cruises-us-open/mKY7",
         "https://www.usopen.org/en_US/news/articles/2026-08-25/kei_nishikori_extends_grand_slam_career_with_2026_us_open_qualifying_win.html",
-        "https://www.tennisworldusa.org/tennis/news/On_the_ATP_results_with/169080/us-open-qualifying-retiring-kei-nishikori-wins-first-qualies-match-in-ny-since-2007/",
-        "https://sports.yahoo.com/articles/us-open-2026-qualifying-day-103643555.html"
+        "https://www.atptour.com/en/news/us-open-2026-qualifying-wednesday",
+        "https://www.atptour.com/en/players/atp-head-2-head/kei-nishikori-vs-rei-sakamoto/n552/s0uv",
+        "https://www.flashscore.com/player/nishikori-kei/YNkOjUIB/",
+        "https://tennistonic.com/head-to-head-compare/Rei-Sakamoto-Vs-Kei-Nishikori/"
       ],
-      "actualResult": null
-    },
-    {
-      "id": "dimitrov-virtanen-2026-08-27",
-      "tournament": "US Open — 2026, квалификация (Нью-Йорк)",
-      "round": "Квалификация, финальный раунд (3 круг)",
-      "kickoff": "2026-08-27T18:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Григор Димитров", "ranking": 135 },
-      "playerB": { "name": "Отто Виртанен", "ranking": 116 },
-      "h2h": {
-        "summary": "Точных данных о личных встречах не найдено.",
-        "record": null
-      },
-      "form": {
-        "playerA": {
-          "last5": "Восстанавливается после разрыва грудной мышцы на Уимблдоне-2025 (травма случилась при счёте 2:0 по сетам в матче против Синнера). Вернулся в тур в начале 2026-го, рейтинг просел в район 130–140-й строчки. В квалификации US Open обыграл Тимофея Скатова 7-6(5) 6-4."
-        },
-        "playerB": {
-          "last5": "Специалист по травяному покрытию: в 2026 году сенсационно обыграл Бена Шелтона в пяти сетах на Уимблдоне. Первая ракетка Финляндии, стабильно выступает в основной сетке ATP-турниров; в квалификации US Open прошёл в финальный круг."
-        }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": [
-            "Один из лучших однорукых бэкхендов в туре, включая эффектный слайс",
-            "Высочайшая техника и вариативность, тактическая гибкость",
-            "Форхенд инсайд-аут, уводящий соперника под бэкхенд",
-            "Огромный опыт на турнирах Большого Шлема (полуфинал US Open-2019)"
-          ],
-          "weaknesses": [
-            "Психологическая и физическая нестабильность после травмы — при плохом самочувствии сильно проседает в игре",
-            "Не хватает агрессии на форхенде в ключевые моменты",
-            "Долгий перерыв в соревновательной практике из-за операции/реабилитации"
-          ]
-        },
-        "playerB": {
-          "strengths": [
-            "Мощная подача и удары с обеих рук, особенно эффективен на быстрых покрытиях",
-            "Психологическая устойчивость — играет одинаково против любого соперника, по его собственным словам",
-            "Растущая уверенность после победы над Шелтоном на Уимблдоне-2026"
-          ],
-          "weaknesses": [
-            "Результаты сильно зависят от покрытия — вне травы менее убедителен",
-            "Меньше опыта в поздних раундах турниров высокого уровня",
-            "Может быть нестабилен в приёме против игроков с вариативной подачей"
-          ]
-        }
-      },
-      "prediction": {
-        "winner": "playerB",
-        "confidence": "low",
-        "reasoning": "Матч двух примерно равных по рейтингу игроков (135-й против 116-го). Виртанен сейчас увереннее по игровому тонусу и на подъёме после победы над Шелтоном, тогда как Димитров всё ещё восстанавливает ритм после тяжёлой травмы, поэтому предпочтение отдаётся финну, но с невысокой уверенностью — опыт и класс Димитрова способны перевесить.",
-        "predictedScore": "2:1"
-      },
-      "sources": [
-        "https://www.puntodebreak.com/en/2026/07/01/otto-virtanen-the-ice-man-who-has-revolutionized-wimbledon",
-        "https://www.atptour.com/en/news/dimitrov-wimbledon-2026-feature",
-        "https://tennishead.net/grigor-dimitrov-confirmed-as-entrant-into-atp-tournament-for-first-time-since-heartbreaking-wimbledon-injury/",
-        "https://en.tennistemple.com/actu/us-open-qualifying-draw-released-dimitrov/o0UJ",
-        "https://bnrnews.bg/en/post/520148/grigor-dimitrov-wins-his-first-us-open-qualifying-match"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "zheng-pridankina-2026-08-27",
-      "tournament": "US Open — 2026, квалификация, женщины (Нью-Йорк)",
-      "round": "Квалификация, финальный раунд (3 круг)",
-      "kickoff": "2026-08-27T18:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Чжэн Циньвэнь", "ranking": 56 },
-      "playerB": { "name": "Елена Приданкина", "ranking": 214 },
-      "h2h": {
-        "summary": "Точных данных о личных встречах не найдено.",
-        "record": null
-      },
-      "form": {
-        "playerA": {
-          "last5": "Восстанавливается после операции на локте (июль 2025), неудачная преждевременная попытка возвращения на China Open осенью 2025-го усугубила травму. Полноценно вернулась в туре в Дохе в феврале 2026-го; с тех пор результат около 11-13, испытывает проблемы с ритмом и снижением скорости первой подачи. В квалификации US Open уверенно обыграла Клару Бюрель 6-1 7-5."
-        },
-        "playerB": {
-          "last5": "Стабильная теннисистка в диапазоне топ-200–250, в 2026 году выиграла два титула WTA в парном разряде (Ла-Бисбаль-д’Эмпорда, Мумбаи); в одиночном разряде в этом сезоне доходила до 1-го круга French Open и 2-го круга Australian Open."
-        }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": [
-            "Одна из сильнейших подач в туре в здоровом состоянии",
-            "Мощные плоские удары с обеих сторон",
-            "Опыт финала Большого Шлема (финалистка Australian Open-2024) и олимпийское золото Париж-2024",
-            "Явное преимущество в классе и рейтинге над соперницей"
-          ],
-          "weaknesses": [
-            "После операции на локте вынуждена сдерживать мощь подачи из-за риска травмы",
-            "Процент выигранных очков на первой подаче заметно упал (до ~52% в отдельных матчах против ~70%+ на пике)",
-            "Проблемы с игровым ритмом после долгого перерыва в матчевой практике"
-          ]
-        },
-        "playerB": {
-          "strengths": [
-            "Хорошая парная игра — два титула WTA в паре в 2026 году говорят о надёжной технике у сетки и стабильности",
-            "Опыт участия в квалификациях и основных сетках турниров Большого Шлема",
-            "Ничего не теряет в статусе андердога — играет свободно"
-          ],
-          "weaknesses": [
-            "Значительно уступает в рейтинге и классе (214-я против 56-й)",
-            "Ограниченный успех в одиночном разряде на крупных турнирах в этом сезоне",
-            "Мало опыта побед над игроками уровня топ-60"
-          ]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "medium",
-        "reasoning": "Чжэн — экс-четвёртая ракетка мира и финалистка Australian Open, при равном здоровье это был бы явный фаворит. Уверенность понижена до средней из-за её проблем с ритмом и мощью подачи после операции на локте, которые теоретически дают Приданкиной шанс зацепиться за матч.",
-        "predictedScore": "2:0"
-      },
-      "sources": [
-        "https://www.wtatennis.com/news/4565851/zheng-defeats-you-pareja-advances-in-us-open-qualifying",
-        "https://www.tennis.com/news/articles/zheng-qinwen-prayed-elbow-heal-injury-wins-doha-return",
-        "http://www.china.org.cn/2026-08/27/content_118666545.shtml",
-        "https://www.tennisworldusa.org/tennis/news/WTA_Tennis/164066/zheng-qinwen-opens-up-on-postsurgery-issues-and-just-praying-for-elbow-to-heal/",
-        "https://en.tennistemple.com/actu/qinwen-zhengs-doha-comeback-after-elbow-surgery/vE79"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "gea-chidekh-2026-08-27",
-      "tournament": "US Open — 2026, квалификация (Нью-Йорк)",
-      "round": "Квалификация, 2 круг (перенесён на четверг из-за дождя в среду)",
-      "kickoff": "2026-08-27T18:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Артур Жеа", "ranking": 86 },
-      "playerB": { "name": "Клеман Шидек", "ranking": 189 },
-      "h2h": {
-        "summary": "Личных встреч не было — это первая очная встреча в карьере (0:0), матч между двумя французами.",
-        "record": { "aWins": 0, "bWins": 0 }
-      },
-      "form": {
-        "playerA": {
-          "last5": "Взрывной сезон-2026: 15-4 на Challenger-туре, титулы в Нумеа и Лос-Кабосе (в финале обыграл экс-топ-10 Дениса Шаповалова), поднялся с 357-го на 86-е место. В 1-м круге квалификации US Open обыграл Сумита Нагала 6-3 7-6(4)."
-        },
-        "playerB": {
-          "last5": "Идеальный старт сезона на Challenger-туре — 10-0 подряд побед, титулы в Ноттингеме и Глазго (оба в финалах на морально трудных матчах). Поднялся на 26 позиций в рейтинге ATP благодаря этой серии."
-        }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": [
-            "Уже имеет титул уровня ATP Tour (Лос-Кабос-2026) — обыгрывал топ-10 соперника",
-            "Бойцовский, эмоциональный стиль игры, сравниваемый с Надалем по его собственным словам",
-            "Явное преимущество в рейтинге над соперником"
-          ],
-          "weaknesses": [
-            "Небольшой опыт матчей на турнирах ATP Tour (выиграл титул, имея всего 8 матчей на этом уровне)",
-            "Молодость и относительно небольшой опыт больших сцен вроде US Open"
-          ]
-        },
-        "playerB": {
-          "strengths": [
-            "Абсолютно лучшая форма в туре прямо сейчас — 10 побед подряд без поражений",
-            "Стабильная двуручная работа с задней линии",
-            "Психологическая устойчивость в решающих геймах (не раз побеждал на тай-брейках финалов)"
-          ],
-          "weaknesses": [
-            "Уступает в рейтинге и в опыте матчей самого высокого уровня",
-            "Серия побед набрана на Challenger-туре, а не против игроков топ-100"
-          ]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "low",
-        "reasoning": "Жеа выше в рейтинге и уже завоевал титул ATP Tour, но Шидек находится в лучшей форме карьеры (10 побед подряд). Личных встреч не было, поэтому уверенность в прогнозе невысокая. Из-за переноса матча с дождливой среды точное время выхода на корт в четверг не подтверждено.",
-        "predictedScore": "2:1"
-      },
-      "sources": [
-        "https://www.atptour.com/en/news/gea-shapovalov-los-cabos-2026-final",
-        "https://tennistonic.com/tennis-news/1045820/h2h-prediction-of-arthur-gea-vs-clement-chidekh-at-the-u-s-open-with-odds-preview-pick-26th-august-2026/",
-        "https://en.tennistemple.com/actu/arthur-gea-tops-nagal-sets-up-all-french-clash-at/TjdU",
-        "https://www.fft.fr/actualites/us-open-qualifications-deuxieme-jour-arthur-gea-hugo-gaston-clement-chidekh",
-        "https://gohuskies.com/news/2026/5/29/mens-tennis-husky-tennis-great-clement-chidekh-qualifies-for-2026-roland-garros"
-      ],
-      "actualResult": null
+      "actualResult": null,
+      "id_note": null
     }
   ]
 }
