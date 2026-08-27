@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T20:11:00+03:00",
+  "generatedAt": "2026-08-27T21:16:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -131,7 +131,7 @@
       "tournament": "Winston-Salem Open (ATP 250)",
       "round": "1/4 финала",
       "kickoff": "2026-08-27T21:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Ботик ван де Зандсхюлп", "ranking": 71 },
       "playerB": { "name": "Бенжамен Бонзи", "ranking": 109 },
       "h2h": {
@@ -378,7 +378,7 @@
       "tournament": "US Open 2026 — квалификация",
       "round": "Финальный раунд квалификации (за место в основной сетке)",
       "kickoff": "2026-08-27T18:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Григор Димитров", "ranking": 170 },
       "playerB": { "name": "Отто Виртанен", "ranking": 127 },
       "h2h": {
@@ -410,9 +410,11 @@
         "https://www.usopen.org/en_US/news/articles/2026-08-23/nishikori_dimitrov_zheng_andreescu_learn_paths_in_2026_us_open_qualifying_draws.html",
         "https://en.tennistemple.com/actu/nishikori-outlasts-dimitrov-cruises-us-open/mKY7",
         "https://www.atptour.com/en/news/us-open-2026-qualifying-wednesday",
-        "https://en.tennistemple.com/actu/us-open-qualifying-draw-released-dimitrov/o0UJ"
+        "https://en.tennistemple.com/actu/us-open-qualifying-draw-released-dimitrov/o0UJ",
+        "https://en.tennistemple.com/actu/us-open-2026-dimitrov-gets-walkover-into-main-draw/CqVo",
+        "https://www.atptour.com/en/news/us-open-2026-qualifying-wednesday"
       ],
-      "actualResult": null
+      "actualResult": "W/O (Виртанен снялся из-за травмы спины перед матчем, Димитров вышел в основную сетку без игры)"
     },
     {
       "id": "nishikori-sakamoto-2026-08-27",
