@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T14:20:00+03:00",
+  "generatedAt": "2026-08-27T15:33:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -452,6 +452,170 @@
         "https://www.atptour.com/en/players/atp-head-2-head/kei-nishikori-vs-rei-sakamoto/n552/s0uv",
         "https://en.tennistemple.com/actu/nishikori-outlasts-dimitrov-cruises-us-open/mKY7",
         "https://tennistonic.com/head-to-head-compare/Rei-Sakamoto-Vs-Kei-Nishikori/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "parks-li-2026-08-27",
+      "tournament": "Monterrey Open / Abierto GNP Seguros (WTA 500)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-28T00:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Алисия Паркс", "ranking": 89 },
+      "playerB": { "name": "Энн Ли", "ranking": 30 },
+      "h2h": {
+        "summary": "Личные встречи разделены поровну 1-1, но ни разу теннисистки не играли на харде; последняя игра осталась за Ли — 6-2, 6-7(5), 6-3 во 2 круге в Мадриде в апреле 2026 года.",
+        "record": { "aWins": 1, "bWins": 1 }
+      },
+      "form": {
+        "playerA": { "last5": "Вышла в четвертьфинал, обыграв Петру Марцинко 2-6, 6-4, 6-4 и Майю Хвалиньску 3-6, 6-2, 6-2; сезон 2026 нестабилен (25-25)." },
+        "playerB": { "last5": "Уверенно дошла до четвертьфинала: обыграла Марию Камилу Осорио Серрано 6-1, 6-2, а следующая соперница снялась перед матчем (Мария Тимофеева, walkover)." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["мощная подача", "атакующий форхенд", "физическая мощь и взрывная игра"],
+          "weaknesses": ["нестабильность на протяжении матча", "проблемы с концентрацией в решающих геймах", "высокий процент невынужденных ошибок"]
+        },
+        "playerB": {
+          "strengths": ["стабильная игра с задней линии", "надёжный бэкхенд", "хорошее тактическое чтение соперниц"],
+          "weaknesses": ["не хватает явного оружия для завершения розыгрышей", "уязвима против очень мощной первой подачи"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Tennis Tonic отдаёт предпочтение Ли в трёх сетах, однако личные встречи равны 1-1 и ни разу не проходили на харде, а один из источников по коэффициентам противоречит собственному прогнозу, поэтому уверенность в исходе невысокая.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1046605/prediction-preview-h2h-parks-parry-starodubtseva-and-mertens-to-play-on-grandstand-on-thursday-abierto-gnp-seguros/",
+        "https://tennistonic.com/tennis-news/1046137/updated-r2-prediction-h2h-of-ann-lis-draw-vs-timofeeva-chwalinska-alexandrova-mertens-to-win-the-monterrey/",
+        "https://tennistonic.com/tennis-news/1046598/monterrey-results-alycia-parks-clara-tauson-darja-vidmanova-nikola-bartunkova-win-on-wednesday/",
+        "https://www.sportytrader.com/en/results-live/alycia-parks-ann-li-8781249/",
+        "https://tennistonic.com/tennis-news/1046128/updated-r2-prediction-h2h-of-alycia-parkss-draw-vs-chwalinska-li-alexandrova-mertens-to-win-the-monterrey/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "bartunkova-vidmanova-2026-08-27",
+      "tournament": "Monterrey Open / Abierto GNP Seguros (WTA 500)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-28T02:30:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Никола Бартункова", "ranking": 38 },
+      "playerB": { "name": "Дарья Видманова", "ranking": 90 },
+      "h2h": {
+        "summary": "Бартункова ведёт 2-0; последняя встреча — победа Бартунковой 6-4, 7-5 в полуфинале турнира в Самсуне в 2025 году.",
+        "record": { "aWins": 2, "bWins": 0 }
+      },
+      "form": {
+        "playerA": { "last5": "16-8 на харде в сезоне 2026 (31-18 в целом за год) — карьерный рекорд по рейтингу." },
+        "playerB": { "last5": "Прошла в четвертьфинал через четыре раунда (включая квалификацию): победы над Каролин Вернер 7-5, 6-4, Панной Удвари 6-3, 3-6, 6-3, Кимберли Биррелл 7-6(2), 6-3 и Кристиной Бусой 6-4, 7-5." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["агрессивный, хорошо поставленный форхенд", "уверенная игра на харде в этом сезоне (16-8)", "растущая стабильность результатов"],
+          "weaknesses": ["ограниченный опыт на стадии четвертьфиналов WTA", "может нервничать в решающих геймах против более опытных соперниц"]
+        },
+        "playerB": {
+          "strengths": ["боевой характер — четыре победы подряд на пути в четвертьфинал", "стабильная игра с задней линии", "хорошая физическая готовность"],
+          "weaknesses": ["уступает по рейтингу (90-е место)", "проигрывает 0-2 по личным встречам", "меньше опыта на этой стадии турниров"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Tennis Tonic выбирает Бартункову победу в трёх сетах (коэффициенты 1.54 против 2.46), она также ведёт 2-0 в личных встречах и превосходит соперницу в рейтинге.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1046621/h2h-prediction-of-nikola-bartunkova-vs-darja-vidmanova-in-monterrey-with-odds-preview-pick-27th-august-2026/",
+        "https://tennistonic.com/tennis-news/1046598/monterrey-results-alycia-parks-clara-tauson-darja-vidmanova-nikola-bartunkova-win-on-wednesday/",
+        "https://tennistonic.com/tennis-news/1046589/darja-vidmanova-upsets-bucsa-in-the-2nd-round-to-set-up-a-battle-vs-bartunkova-monterrey-results/",
+        "https://tennistonic.com/tennis-news/1046639/how-to-watch-bartunkova-vs-vidmanova-on-live-streaming-in-monterrey-on-thursday/",
+        "https://tennistonic.com/tennis-news/1046146/updated-r2-prediction-h2h-of-nikola-bartunkovas-draw-vs-potapova-bucsa-mertens-alexandrova-to-win-the-monterrey-2/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "tauson-parry-2026-08-27",
+      "tournament": "Monterrey Open / Abierto GNP Seguros (WTA 500)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-28T04:30:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Клара Таусон", "ranking": 42 },
+      "playerB": { "name": "Диана Парри", "ranking": 50 },
+      "h2h": {
+        "summary": "Парри ведёт 2-0 (1-0 на харде); последняя встреча — победа Парри 6-3, 6-4 в 1 круге в Берлине в июне 2026 года.",
+        "record": { "aWins": 0, "bWins": 2 }
+      },
+      "form": {
+        "playerA": { "last5": "Обыграла финалистку турнира прошлого года Екатерину Александрову 7-6(6), 4-6, 6-3 во 2 круге; сезон 2026 нестабилен — 15-19." },
+        "playerB": { "last5": "27-19 в сезоне 2026; в Монтеррее обыграла Донну Векич 6-7(5), 6-4, 6-1 и Александру Олийникову 6-4, 7-6(3)." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["один из сильнейших форхендов в туре", "мощная подача", "способна обыгрывать топ-соперниц"],
+          "weaknesses": ["нестабильность и высокий процент невынужденных ошибок", "проигрывает 0-2 личные встречи с Парри", "неровный общий баланс побед-поражений в сезоне (15-19)"]
+        },
+        "playerB": {
+          "strengths": ["разнообразная, техничная игра", "хорошая работа с обводящими и укороченными ударами", "преимущество 2-0 в личных встречах"],
+          "weaknesses": ["не хватает мощи против самых силовых соперниц", "неидеально стабильный сезон (27-19)"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "low",
+        "reasoning": "Tennis Tonic ставит на победу Таусон в трёх сетах несмотря на невыгодную для неё статистику личных встреч (0-2), опираясь на её недавний разгром финалистки прошлого года Александровой — уверенность снижена из-за противоречия между формой и историей очных игр.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1046574/h2h-prediction-of-clara-tauson-vs-diane-parry-in-monterrey-with-odds-preview-pick-27th-august-2026/",
+        "https://tennistonic.com/tennis-news/1046594/clara-tauson-ousts-alexandrova-in-the-2nd-round-to-play-vs-parry-highlights-monterrey-results/",
+        "https://tennistonic.com/tennis-news/1046578/how-to-watch-tauson-vs-parry-on-live-streaming-in-monterrey-on-thursday/",
+        "https://tennistonic.com/tennis-news/1046605/prediction-preview-h2h-parks-parry-starodubtseva-and-mertens-to-play-on-grandstand-on-thursday-abierto-gnp-seguros/",
+        "https://tennistonic.com/tennis-news/1045480/updated-r2-prediction-h2h-of-diane-parrys-draw-vs-oliynykova-alexandrova-chwalinska-mertens-to-win-the-monterrey/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "starodubtseva-mertens-2026-08-27",
+      "tournament": "Monterrey Open / Abierto GNP Seguros (WTA 500)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-28T07:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Юлия Стародубцева", "ranking": 53 },
+      "playerB": { "name": "Элиз Мертенс", "ranking": 22 },
+      "h2h": {
+        "summary": "Личных встреч на туре не было — это первая очная игра теннисисток.",
+        "record": { "aWins": 0, "bWins": 0 }
+      },
+      "form": {
+        "playerA": { "last5": "На серии из 10 побед подряд; в 1/8 финала обыграла 7-ю сеяную Дженис Тьен в двух сетах — первый четвертьфинал с апреля 2026 года (после финала в Чарльстоне)." },
+        "playerB": { "last5": "Также на серии из 10 побед подряд; в 1/8 финала обыграла Панну Удвари 6-1, 4-6, 6-3." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["серия из 10 побед подряд", "высокая работоспособность и движение по корту", "уверенная игра на харде в сезоне (13-12)"],
+          "weaknesses": ["нет опыта личных встреч с игроками уровня топ-25", "не хватает явного оружия для быстрого завершения розыгрышей"]
+        },
+        "playerB": {
+          "strengths": ["одна из лучших теннисисток тура по игре у сетки (топ-3 в паре)", "серия из 10 побед подряд", "тактическая грамотность и стабильность"],
+          "weaknesses": ["не самая мощная подача среди топ-30 одиночного разряда", "ограниченная силовая игра против агрессивных нападающих соперниц"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Явного прогноза от проверенных аналитических источников на эту конкретную пару не найдено. Собственная оценка на основе статистики: Мертенс выше в рейтинге и опытнее, но обе теннисистки подходят к матчу на серии из 10 побед подряд, а личных встреч не было, поэтому уверенность низкая.",
+        "predictedScore": null
+      },
+      "sources": [
+        "https://www.wtatennis.com/videos/4566590/starodubtseva-upsets-tjen-for-first-quarterfinal-since-april",
+        "https://tennistonic.com/tennis-news/1046605/prediction-preview-h2h-parks-parry-starodubtseva-and-mertens-to-play-on-grandstand-on-thursday-abierto-gnp-seguros/",
+        "https://tennistonic.com/tennis-news/1046602/elise-mertens-aces-udvardy-in-the-2nd-round-to-clash-vs-starodubtseva-at-the-abierto-gnp-seguros-highlights-monterrey-results/",
+        "https://tennistonic.com/tennis-news/1045492/updated-r2-prediction-h2h-of-yuliia-starodubtsevas-draw-vs-tjen-mertens-potapova-alexandrova-to-win-the-monterrey/",
+        "https://www.tennisexplorer.com/monterrey/2026/wta-women/"
       ],
       "actualResult": null
     }
