@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T13:20:00+03:00",
+  "generatedAt": "2026-08-27T14:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -40,10 +40,9 @@
         "https://en.tennistemple.com/match/kovacevic-tsitsipas-winston-salem-2026/9478998/",
         "https://www.sportskeeda.com/tennis/stefanos-tsitsipas-vs-aleksandar-kovacevic-preview-head-to-head-odds-prediction-betting-tips-winston-salem-open-2026",
         "https://www.atptour.com/en/players/atp-head-2-head/stefanos-tsitsipas-vs-aleksandar-kovacevic/te51/k0az",
-        "https://matchstat.com/tennis/h2h-odds-bets/Aleksandar%20Kovacevic/Arthur%20Fery/"
+        "https://tennistonic.com/tennis-news/1046586/winston-salem-results-arthur-fery-aleksandar-kovacevic-james-duckworth-progress-to-the-next-round-stefanos-tsitsipas-lost/"
       ],
-      "actualResult": "0:2",
-      "id_note": "ИСПРАВЛЕНО в этом обновлении: в предыдущей версии файла результат был ошибочно указан как победа Циципаса 2:0. По совпадающим данным нескольких источников матч выиграл Ковачевич 6-3, 7-6(1) и вышел в 1/4 финала на Фери — счёт исправлен на 0:2 в пользу playerB."
+      "actualResult": "0:2"
     },
     {
       "id": "sonego-duckworth-2026-08-27",
@@ -84,8 +83,7 @@
         "https://www.sportytrader.com/en/results-live/sonego-l-ita-james-duckworth-8777486/",
         "https://matchstat.com/predictions-tips/tennis-prediction-pick-odds-sonego-duckworth-h2h-winston-salem-open-winston-salem-2026-day-4/"
       ],
-      "actualResult": "0:2",
-      "id_note": "ИСПРАВЛЕНО в этом обновлении: в предыдущей версии файла результат был ошибочно указан как победа Сонего 2:0. По данным ABC News и Tennis Majors (счёт, статистика брейков и упоминание истории личных встреч совпадают с h2h выше) матч выиграл Дакворт 7-5, 6-3 — счёт исправлен на 0:2 в пользу playerB."
+      "actualResult": "0:2"
     },
     {
       "id": "damm-marozsan-2026-08-27",
@@ -122,12 +120,11 @@
       "sources": [
         "https://www.atptour.com/en/news/winston-salem-2026-tuesday-report",
         "https://www.tennis.com/tournaments/winston-salem-open/matches/m-damm-jr-vs-f-marozsan-2026-08-26",
-        "https://yournews.com/2026/08/27/7177955/botic-van-de-zandschulp-pulls-off-dominating-upset-in-winston-salem/",
-        "https://wdsm710.com/2026/08/26/botic-van-de-zandschulp-pulls-off-dominating-upset-in-winston-salem/",
-        "https://www.tennisstatsh2h.com/martin-damm-v-fabian-marozsan/"
+        "https://lastwordonsports.com/tennis/2026/08/26/atp-winston-salem-day-4-predictions-marozsan-damm/",
+        "https://www.tennisstatsh2h.com/martin-damm-v-fabian-marozsan/",
+        "https://www.abc.net.au/news/2026-08-27/james-duckworth-through-to-winston-salem-quarter-finals/107084328"
       ],
-      "actualResult": "1:2",
-      "id_note": "В этом обновлении статус изменён с live на finished: по совпадающим данным нескольких источников Марожан (15-й номер посева) отыграл проигранный первый сет и победил 2-6, 6-3, 6-3, выйдя в 1/4 финала против Дакворта."
+      "actualResult": "1:2"
     },
     {
       "id": "van-de-zandschulp-bonzi-2026-08-27",
@@ -138,44 +135,43 @@
       "playerA": { "name": "Ботик ван де Зандсхюлп", "ranking": 71 },
       "playerB": { "name": "Бенжамен Бонзи", "ranking": 109 },
       "h2h": {
-        "summary": "Ван де Зандсхюлп ведёт 2-1 по личным встречам (5-2 по сетам); последняя игра осталась за Бонзи — Пуна-2023, полуфинал, хард, 7-6(5), 6-7(5), 6-1. На харде соперники сыграны 1-1.",
-        "record": { "aWins": 2, "bWins": 1 }
+        "summary": "Личные встречи разделены поровну 1-1 на туре; последняя игра осталась за Бонзи — полуфинал Пуны-2023, три сета.",
+        "record": { "aWins": 1, "bWins": 1 }
       },
       "form": {
-        "playerA": { "last5": "Проиграл всего три гейма на пути в четвертьфинал, включая разгром экс-финалиста Дардери 6-1, 6-0; в прошлом году сам был финалистом этого турнира." },
-        "playerB": { "last5": "Уверенно проходит харда-сезон в США, в предыдущем круге обыграл Ринки Хиджикату 6-1, 6-1." }
+        "playerA": { "last5": "Проиграл всего три гейма на пути в четвертьфинал, включая разгром экс-финалиста Дардери 6-1, 6-0; ранее в этом месяце обыграл Даниила Медведева в Монреале." },
+        "playerB": { "last5": "Уверенно проходит харда-сезон в США: победы над Камилем Майхжаком, Квентином Алисом и Ринки Хиджикатой." }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["мощная подача", "стабильный форхенд", "большой опыт финалов именно на этом турнире"],
+          "strengths": ["мощная подача", "стабильный форхенд", "уверенная серия результатов в конце лета, включая победу над Медведевым"],
           "weaknesses": ["временами теряет концентрацию в матче", "не лучшая игра у сетки"]
         },
         "playerB": {
           "strengths": ["надёжная подача", "уверенная игра на быстром харде", "боевой характер в равных розыгрышах"],
-          "weaknesses": ["нестабильность на брейк-пойнтах", "ограниченный опыт побед над топ-70 игроками в этом сезоне"]
+          "weaknesses": ["нестабильность на брейк-пойнтах", "личные встречи ровно 1-1, преимущества по форме нет"]
         }
       },
       "prediction": {
         "winner": "playerA",
-        "confidence": "high",
-        "reasoning": "Ван де Зандсхюлп ведёт в личных встречах, он финалист турнира прошлого года и почти не потерял геймов по пути в четвертьфинал — явный фаворит по форме недели.",
-        "predictedScore": "2:0"
+        "confidence": "medium",
+        "reasoning": "Ван де Зандсхюлп почти не потерял геймов по пути в четвертьфинал и обыграл Медведева в Монреале — явный фаворит по форме недели, хотя личные встречи ровны 1-1 и последнее очное противостояние осталось за Бонзи.",
+        "predictedScore": "2:1"
       },
       "sources": [
         "https://www.sportskeeda.com/tennis/botic-van-de-zandschulp-vs-benjamin-bonzi-preview-head-to-head-odds-prediction-betting-tips-winston-salem-open-2026",
         "https://tenngrand.com/winston-salem-tennis-picks-predictions-van-de-zandschulp-vs-bonzi-buse-cerundolo/",
-        "https://www.atptour.com/en/players/atp-head-2-head/benjamin-bonzi-vs-botic-van-de-zandschulp/bm95/v812",
-        "https://tennistonic.com/tennis-news/1046113/updated-r3-prediction-h2h-of-botic-van-de-zandschulps-draw-vs-darderi-hijikata-buse-fery-to-win-the-winston/",
-        "https://en.tennistemple.com/match/van-de-zandschulp-darderi-winston-salem-2026/9479091/"
+        "https://matchstat.com/tennis/h2h-odds-bets/Benjamin%20Bonzi/Botic%20Van%20De%20Zandschulp/",
+        "https://tennistonic.com/tennis-news/1046571/merciless-botic-van-de-zandschulp-trashes-darderi-in-the-3rd-round-to-set-up-a-battle-vs-bonzi-highlights-salem-open-results/",
+        "https://www.americateve.com/van-zandschulp-llega-cuartos-winston-salem-n1148242"
       ],
-      "actualResult": null,
-      "id_note": null
+      "actualResult": null
     },
     {
       "id": "buse-cerundolo-2026-08-27",
       "tournament": "Winston-Salem Open (ATP 250)",
       "round": "1/4 финала",
-      "kickoff": "2026-08-27T21:00:00+03:00",
+      "kickoff": "2026-08-27T22:00:00+03:00",
       "status": "scheduled",
       "playerA": { "name": "Игнасио Бусе", "ranking": 36 },
       "playerB": { "name": "Хуан Мануэль Черундоло", "ranking": 52 },
@@ -205,15 +201,13 @@
       },
       "sources": [
         "https://tenngrand.com/winston-salem-tennis-picks-predictions-van-de-zandschulp-vs-bonzi-buse-cerundolo/",
-        "https://www.tennis.com/tournaments/winston-salem-open/matches/j-cerundolo-vs-s-baez-2026-08-26",
+        "https://www.infobae.com/peru/deportes/2026/08/26/ignacio-buse-vs-juan-manuel-cerundolo-dia-hora-y-donde-ver-partido-por-cuartos-de-final-del-atp-250-de-winston-salem-2026/",
         "https://www.tennisstatsh2h.com/manuel-cerundolo-juan-v-ignacio-buse/",
-        "https://tennistonic.com/tennis-news/1046101/updated-r3-prediction-h2h-of-ignacio-buses-draw-vs-altmaier-baez-darderi-fery-to-win-the-winston/",
-        "https://www.atptour.com/es/news/winston-salem-2026-martes-buse",
         "https://www.infobae.com/deportes/2026/08/27/juan-manuel-cerundolo-vencio-a-baez-en-el-duelo-de-argentinos-y-avanzo-a-cuartos-en-winston-salem/",
-        "https://www.tennis.com/tournaments/winston-salem-open/matches/j-cerundolo-vs-s-baez-2026-08-26"
+        "https://www.tenisalmaximo.pe/buse-remonta-y-esta-en-cuartos-de-winston-salem/",
+        "https://www.infobae.com/peru/deportes/2026/08/26/ignacio-buse-derrota-a-daniel-altmaier-en-winston-salem-y-se-instala-en-cuartos-de-final-de-un-torneo-atp-por-quinta-vez/"
       ],
-      "actualResult": null,
-      "id_note": "ИСПРАВЛЕНО в этом обновлении: в предыдущей версии файла форма Черундоло была ошибочно описана как победа через тай-брейк 7-6(10), 6-3. По данным Infobae и Tennis.com верный счёт предыдущего круга — 6-2, 4-0 в пользу Черундоло, Баэс снялся с матча."
+      "actualResult": null
     },
     {
       "id": "kovacevic-fery-2026-08-27",
@@ -229,7 +223,7 @@
       },
       "form": {
         "playerA": { "last5": "19-27 в сезоне 2026 (8-10 на харде); вышел в четвертьфинал, обыграв Стефаноса Циципаса 6-3, 7-6(1) в 1/8 финала." },
-        "playerB": { "last5": "26-14 в сезоне 2026 (9-5 на харде), на серии из 10 побед подряд; вышел в четвертьфинал после победы над Мисом Роттгерингом 6-3, 6-3, ранее обыграл вайлд-кард Круза Хьюитта; в этом сезоне также дошёл до полуфинала турнира в Риме — карьерный рекорд по рейтингу (37-е место)." }
+        "playerB": { "last5": "26-14 в сезоне 2026 (9-5 на харде), на серии из 10 побед подряд; вышел в четвертьфинал после победы над Мисом Роттгерингом 6-3, 6-3; в этом сезоне также дошёл до полуфинала турнира в Риме — карьерный рекорд по рейтингу (37-е место)." }
       },
       "strengthsWeaknesses": {
         "playerA": {
@@ -250,12 +244,11 @@
       "sources": [
         "https://matchstat.com/tennis/h2h-odds-bets/Aleksandar%20Kovacevic/Arthur%20Fery/",
         "https://lastwordonsports.com/tennis/2026/08/25/atp-winston-salem-day-3-predictions-hewitt-fery/",
-        "https://tennisnow.com/darderi-fery-brooksby-lead-winston-salem-field/",
         "https://www.atptour.com/en/players/arthur-fery/f0dm/rankings-breakdown",
-        "https://tennistonic.com/tennis-news/1046055/winston-salem-results-arthur-fery-aleksandar-kovacevic-lorenzo-sonego-win-daniil-medvedev-upset/"
+        "https://tennistonic.com/tennis-news/1046055/winston-salem-results-arthur-fery-aleksandar-kovacevic-lorenzo-sonego-win-daniil-medvedev-upset/",
+        "https://www.tennisstatsh2h.com/arthur-fery-v-aleksandar-kovacevic/"
       ],
-      "actualResult": null,
-      "id_note": null
+      "actualResult": null
     },
     {
       "id": "marozsan-duckworth-2026-08-27",
@@ -296,8 +289,7 @@
         "https://www.sportytrader.com/en/odds/fabian-marozsan-james-duckworth-8781237/",
         "https://www.forebet.com/en/tennis/matches/atp-singles/winston-salem/f-marozsan-j-duckworth/357451"
       ],
-      "actualResult": null,
-      "id_note": null
+      "actualResult": null
     },
     {
       "id": "zheng-pridankina-2026-08-27",
@@ -338,8 +330,7 @@
         "https://news.cgtn.com/news/2026-08-25/Zheng-Qinwen-beats-You-Xiaodi-to-begin-qualifying-campaign-at-US-Open-1PTeeOcsafm/p.html",
         "https://www.tennisworldusa.org/tennis/news/On_the_WTA_results_with/169051/us-open-zheng-qinwen-dominates-in-qualifying-debut-at-flushing-meadows/"
       ],
-      "actualResult": null,
-      "id_note": null
+      "actualResult": null
     },
     {
       "id": "andreescu-podrez-2026-08-27",
@@ -355,7 +346,7 @@
       },
       "form": {
         "playerA": { "last5": "Чемпионка US Open-2019 возвращается через квалификацию после серии травм и уверенно проходит первые раунды." },
-        "playerB": { "last5": "Подтверждает статус одной из сильнейших квалифайерш турнира, стабильно проходит раунды." }
+        "playerB": { "last5": "Подтверждает статус одной из сильнейших квалифайерш турнира: победа 6-2, 0-6, 6-3 над Кэролайн Долехайд в предыдущем круге." }
       },
       "strengthsWeaknesses": {
         "playerA": {
@@ -364,7 +355,7 @@
         },
         "playerB": {
           "strengths": ["агрессивный приём подачи", "уверенно прошла ранние раунды квалификации", "выше в текущем рейтинге"],
-          "weaknesses": ["небольшой опыт матчей такого уровня и давления", "нестабильность против более именитых соперниц"]
+          "weaknesses": ["небольшой опыт матчей такого уровня и давления", "нестабильность против более именитых соперниц (потерянный средний сет с Долехайд)"]
         }
       },
       "prediction": {
@@ -380,8 +371,7 @@
         "https://lastwordonsports.com/tennis/2026/08/26/wta-us-open-andreescu-podrez/",
         "https://tennistonic.com/tennis-news/1045938/h2h-prediction-of-veronika-podrez-vs-bianca-vanessa-andreescu-at-the-u-s-open-with-odds-preview-pick-26th-august-2026/"
       ],
-      "actualResult": null,
-      "id_note": null
+      "actualResult": null
     },
     {
       "id": "dimitrov-virtanen-2026-08-27",
@@ -396,7 +386,7 @@
         "record": null
       },
       "form": {
-        "playerA": { "last5": "Восстанавливается после травмы, из-за которой сильно просел рейтинг; уверенно прошёл предыдущий круг квалификации против Скатова." },
+        "playerA": { "last5": "Восстанавливается после травмы, из-за которой сильно просел рейтинг; разгромил Лоренцо Джустино 6-0, 6-3 в первом круге квалификации." },
         "playerB": { "last5": "Тяжело, в трёх сетах, прошёл предыдущий раунд против Джека Пиннингтон-Джонса 2-6, 7-6(6), 6-3." }
       },
       "strengthsWeaknesses": {
@@ -419,11 +409,10 @@
         "https://www.atptour.com/en/news/us-open-2026-qualifying-draw",
         "https://www.usopen.org/en_US/news/articles/2026-08-23/nishikori_dimitrov_zheng_andreescu_learn_paths_in_2026_us_open_qualifying_draws.html",
         "https://en.tennistemple.com/actu/nishikori-outlasts-dimitrov-cruises-us-open/mKY7",
-        "https://www.flashscore.com/player/virtanen-otto/hnYnFaTm/",
-        "https://tennistonic.com/tennis-news/1046272/live-updates-grigor-dimitrov-tops-skatov-in-the-qualifications-at-the-u-s-open-u-s-open-results/"
+        "https://www.atptour.com/en/news/us-open-2026-qualifying-wednesday",
+        "https://en.tennistemple.com/actu/us-open-qualifying-draw-released-dimitrov/o0UJ"
       ],
-      "actualResult": null,
-      "id_note": null
+      "actualResult": null
     },
     {
       "id": "nishikori-sakamoto-2026-08-27",
@@ -461,11 +450,10 @@
         "https://www.usopen.org/en_US/news/articles/2026-08-25/kei_nishikori_extends_grand_slam_career_with_2026_us_open_qualifying_win.html",
         "https://www.atptour.com/en/news/us-open-2026-qualifying-wednesday",
         "https://www.atptour.com/en/players/atp-head-2-head/kei-nishikori-vs-rei-sakamoto/n552/s0uv",
-        "https://www.flashscore.com/player/nishikori-kei/YNkOjUIB/",
+        "https://en.tennistemple.com/actu/nishikori-outlasts-dimitrov-cruises-us-open/mKY7",
         "https://tennistonic.com/head-to-head-compare/Rei-Sakamoto-Vs-Kei-Nishikori/"
       ],
-      "actualResult": null,
-      "id_note": null
+      "actualResult": null
     }
   ]
 }
