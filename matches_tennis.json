@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T10:18:00+03:00",
+  "generatedAt": "2026-08-27T12:15:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -185,7 +185,7 @@
       },
       "form": {
         "playerA": { "last5": "Прервал полосу неудач на быстрых покрытиях, обыграв Даниэля Альтмайера в тяжёлом трёхсетовом матче 7-6(5), 7-5." },
-        "playerB": { "last5": "Выиграл тяжелейший тай-брейк 7-6(10) у Себастьяна Баэса и уверенно закрыл встречу 6-3 во второй партии." }
+        "playerB": { "last5": "В предыдущем круге победил соотечественника Себастьяна Баэса 6-2, 4-0 — Баэс снялся с матча во второй партии." }
       },
       "strengthsWeaknesses": {
         "playerA": {
@@ -208,10 +208,12 @@
         "https://www.tennis.com/tournaments/winston-salem-open/matches/j-cerundolo-vs-s-baez-2026-08-26",
         "https://www.tennisstatsh2h.com/manuel-cerundolo-juan-v-ignacio-buse/",
         "https://tennistonic.com/tennis-news/1046101/updated-r3-prediction-h2h-of-ignacio-buses-draw-vs-altmaier-baez-darderi-fery-to-win-the-winston/",
-        "https://www.atptour.com/es/news/winston-salem-2026-martes-buse"
+        "https://www.atptour.com/es/news/winston-salem-2026-martes-buse",
+        "https://www.infobae.com/deportes/2026/08/27/juan-manuel-cerundolo-vencio-a-baez-en-el-duelo-de-argentinos-y-avanzo-a-cuartos-en-winston-salem/",
+        "https://www.tennis.com/tournaments/winston-salem-open/matches/j-cerundolo-vs-s-baez-2026-08-26"
       ],
       "actualResult": null,
-      "id_note": null
+      "id_note": "ИСПРАВЛЕНО в этом обновлении: в предыдущей версии файла форма Черундоло была ошибочно описана как победа через тай-брейк 7-6(10), 6-3. По данным Infobae и Tennis.com верный счёт предыдущего круга — 6-2, 4-0 в пользу Черундоло, Баэс снялся с матча."
     },
     {
       "id": "zheng-pridankina-2026-08-27",
