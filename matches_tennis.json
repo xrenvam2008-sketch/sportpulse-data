@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T12:15:00+03:00",
+  "generatedAt": "2026-08-27T13:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -214,6 +214,90 @@
       ],
       "actualResult": null,
       "id_note": "ИСПРАВЛЕНО в этом обновлении: в предыдущей версии файла форма Черундоло была ошибочно описана как победа через тай-брейк 7-6(10), 6-3. По данным Infobae и Tennis.com верный счёт предыдущего круга — 6-2, 4-0 в пользу Черундоло, Баэс снялся с матча."
+    },
+    {
+      "id": "kovacevic-fery-2026-08-27",
+      "tournament": "Winston-Salem Open (ATP 250)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-28T01:30:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Александар Ковачевич", "ranking": 96 },
+      "playerB": { "name": "Артур Фери", "ranking": 37 },
+      "h2h": {
+        "summary": "Личных встреч между теннисистами не было.",
+        "record": { "aWins": 0, "bWins": 0 }
+      },
+      "form": {
+        "playerA": { "last5": "19-27 в сезоне 2026 (8-10 на харде); вышел в четвертьфинал, обыграв Стефаноса Циципаса 6-3, 7-6(1) в 1/8 финала." },
+        "playerB": { "last5": "26-14 в сезоне 2026 (9-5 на харде), на серии из 10 побед подряд; вышел в четвертьфинал после победы над Мисом Роттгерингом 6-3, 6-3, ранее обыграл вайлд-кард Круза Хьюитта; в этом сезоне также дошёл до полуфинала турнира в Риме — карьерный рекорд по рейтингу (37-е место)." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["стабильная игра с задней линии", "хороший приём подачи", "победа над более именитым Циципасом в предыдущем круге"],
+          "weaknesses": ["отрицательный баланс побед и поражений в сезоне (19-27)", "ниже соперника в рейтинге", "уступает по проценту реализации брейк-пойнтов"]
+        },
+        "playerB": {
+          "strengths": ["серия из 10 побед подряд и карьерный рекорд по рейтингу", "уверенная игра на харде (9-5)", "опыт полуфинала турнира в Риме в этом сезоне"],
+          "weaknesses": ["нет личных встреч с Ковачевичем — нет тактических наработок", "может быть уязвим после нескольких тяжёлых раундов подряд"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "medium",
+        "reasoning": "Фери превосходит Ковачевича по текущей форме (серия из 10 побед, карьерный рекорд рейтинга) и по статистике сезона на харде, что делает его небольшим фаворитом в матче без личных встреч между соперниками.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://matchstat.com/tennis/h2h-odds-bets/Aleksandar%20Kovacevic/Arthur%20Fery/",
+        "https://lastwordonsports.com/tennis/2026/08/25/atp-winston-salem-day-3-predictions-hewitt-fery/",
+        "https://tennisnow.com/darderi-fery-brooksby-lead-winston-salem-field/",
+        "https://www.atptour.com/en/players/arthur-fery/f0dm/rankings-breakdown",
+        "https://tennistonic.com/tennis-news/1046055/winston-salem-results-arthur-fery-aleksandar-kovacevic-lorenzo-sonego-win-daniil-medvedev-upset/"
+      ],
+      "actualResult": null,
+      "id_note": null
+    },
+    {
+      "id": "marozsan-duckworth-2026-08-27",
+      "tournament": "Winston-Salem Open (ATP 250)",
+      "round": "1/4 финала",
+      "kickoff": "2026-08-28T01:30:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Фабиан Марожан", "ranking": 63 },
+      "playerB": { "name": "Джеймс Дакворт", "ranking": 86 },
+      "h2h": {
+        "summary": "Открытые источники не содержат данных о личных встречах между теннисистами.",
+        "record": null
+      },
+      "form": {
+        "playerA": { "last5": "15-й номер посева; вышел в четвертьфинал, отыгравшись после проигранного первого сета против Мартина Дамма — 2-6, 6-3, 6-3; ранее обыграл Миомира Кецмановича 6-3, 6-4 — уже третья победа над сербом с июня." },
+        "playerB": { "last5": "Обыграл Лоренцо Сонего 7-5, 6-3 в 1/8 финала — реванш за прошлые поражения; уверенно проводит харда-сезон перед US Open." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["тяжёлый топспиновый форхенд", "статус более высокого сеяного (15-й номер)", "умеет камбэчить после проигранного сета"],
+          "weaknesses": ["потребовался камбэк против аутсайдера Дамма", "нет личных встреч с Даквортом — нет тактических наработок"]
+        },
+        "playerB": {
+          "strengths": ["разнообразие ударов", "реваншистская мотивация после победы над Сонего", "опыт выступлений на харде в США в конце лета"],
+          "weaknesses": ["ниже соперника в рейтинге и посеве", "34-летний возраст против более молодого и статистически растущего Марожана"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "low",
+        "reasoning": "Марожан выше посеян и демонстрирует хорошую форму (три победы над Кецмановичем в этом году, камбэк против Дамма), но отсутствие данных о личных встречах и стабильная игра прошедшего в четвертьфинал Дакворта не позволяют дать высокую уверенность в прогнозе.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://www.abc.net.au/news/2026-08-27/james-duckworth-through-to-winston-salem-quarter-finals/107084328",
+        "https://au.news.yahoo.com/duckworth-winston-salem-quarter-finals-011027837.html",
+        "https://lastwordonsports.com/tennis/2026/08/26/atp-winston-salem-day-4-predictions-marozsan-damm/",
+        "https://www.sportytrader.com/en/odds/fabian-marozsan-james-duckworth-8781237/",
+        "https://www.forebet.com/en/tennis/matches/atp-singles/winston-salem/f-marozsan-j-duckworth/357451"
+      ],
+      "actualResult": null,
+      "id_note": null
     },
     {
       "id": "zheng-pridankina-2026-08-27",
