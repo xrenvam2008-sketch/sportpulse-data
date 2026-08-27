@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T19:16:00+03:00",
+  "generatedAt": "2026-08-27T20:11:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -337,7 +337,7 @@
       "tournament": "US Open 2026 — квалификация",
       "round": "Финальный раунд квалификации (за место в основной сетке)",
       "kickoff": "2026-08-27T19:30:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Бьянка Андрееску", "ranking": 186 },
       "playerB": { "name": "Тамара Зиданшек", "ranking": 133 },
       "h2h": {
