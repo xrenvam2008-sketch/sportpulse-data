@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T02:25:00+03:00",
+  "generatedAt": "2026-08-27T07:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -1660,7 +1660,7 @@
       "tournament": "US Open, квалификация",
       "round": "2 круг квалификации",
       "kickoff": "2026-08-26T18:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Александр Мюллер",
         "ranking": 136
@@ -1724,7 +1724,7 @@
         "https://www.atptour.com/en/news/sakamoto-kovacevic-miami-2026-friday",
         "https://www.flashscoreusa.com/h2h/tennis/muller-alexandre-nLLdS9q0/sakamoto-rei-AeBHWNls/"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "hijikata-collignon-2026-08-25",
@@ -2620,7 +2620,7 @@
       "tournament": "US Open, квалификация",
       "round": "2 круг",
       "kickoff": "2026-08-26T18:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Джордан Ли",
         "ranking": 1757
@@ -2680,14 +2680,14 @@
         "https://en.wikipedia.org/wiki/Jordan_Lee_(tennis)",
         "https://www.tennismajors.com/people/daniel-rincon"
       ],
-      "actualResult": null
+      "actualResult": "1:2"
     },
     {
       "id": "chwalinska-parks-2026-08-27",
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
       "kickoff": "2026-08-27T04:30:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": {
         "name": "Мая Хвалиньская",
         "ranking": 21
@@ -2757,7 +2757,7 @@
       "tournament": "WTA-500 Монтеррей (Abierto GNP Seguros)",
       "round": "1/8 финала",
       "kickoff": "2026-08-27T06:00:00+03:00",
-      "status": "scheduled",
+      "status": "finished",
       "playerA": {
         "name": "Екатерина Александрова",
         "ranking": 18
@@ -2819,7 +2819,7 @@
         "https://tennistonic.com/head-to-head-compare/Clara-Tauson-Vs-Ekaterina-Alexandrova/",
         "https://www.livesport.ru/tips/tennis/2026/08/27/ekaterina-alexandrova-clara-tauson/"
       ],
-      "actualResult": null
+      "actualResult": "1:2"
     },
     {
       "id": "kovacevic-tsitsipas-2026-08-27",
@@ -2898,7 +2898,7 @@
       "tournament": "US Open, квалификация",
       "round": "2 круг квалификации",
       "kickoff": "2026-08-26T19:10:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": {
         "name": "Тимофей Скатов",
         "ranking": 205
@@ -2960,7 +2960,7 @@
         "https://www.bettingexpert.com/tennis/grigor-dimitrov-vs-timofey-skatov",
         "https://www.usopen.org/en_US/news/articles/2026-08-23/nishikori_dimitrov_zheng_andreescu_learn_paths_in_2026_us_open_qualifying_draws.html"
       ],
-      "actualResult": null
+      "actualResult": "0:2"
     },
     {
       "id": "cerundolo-grenier-2026-08-26",
@@ -3380,7 +3380,7 @@
       "tournament": "ATP-250 Уинстон-Сейлем",
       "round": "1/8 финала",
       "kickoff": "2026-08-27T03:00:00+03:00",
-      "status": "scheduled",
+      "status": "finished",
       "playerA": {
         "name": "Мартин Дамм",
         "ranking": 100
@@ -3442,77 +3442,7 @@
         "https://www.atptour.com/en/scores/current/winston-salem/6242/daily-schedule",
         "https://www.sofascore.com/tennis/player/damm-jr-martin/51345"
       ],
-      "actualResult": null
-    },
-    {
-      "id": "tsitsipas-kovacevic-2026-08-27",
-      "tournament": "ATP-250 Уинстон-Сейлем",
-      "round": "1/8 финала",
-      "kickoff": "2026-08-27T01:30:00+03:00",
-      "status": "live",
-      "playerA": {
-        "name": "Стефанос Циципас",
-        "ranking": 53
-      },
-      "playerB": {
-        "name": "Александар Ковачевич",
-        "ranking": 89
-      },
-      "h2h": {
-        "summary": "Играли между собой лишь раз — в феврале 2024 года в Лос-Кабосе на харде, Циципас выиграл в двух сетах.",
-        "record": {
-          "aWins": 1,
-          "bWins": 0
-        }
-      },
-      "form": {
-        "playerA": {
-          "last5": "Сезон 20-18, в последних 10 матчах 7-3; постепенно восстанавливает уровень после провала в рейтинге до 53-й строчки."
-        },
-        "playerB": {
-          "last5": "Сезон 14-20, в последних 10 матчах 3-7, но дважды успешно выступал на этом турнире в Уинстон-Сейлеме в прошлом."
-        }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": [
-            "Преимущество в личной встрече (1:0)",
-            "Сильнее в тай-брейках",
-            "Выше по рейтингу и опытнее на топ-уровне",
-            "Лучше реализует брейк-пойнты"
-          ],
-          "weaknesses": [
-            "Нестабильный сезон в целом (20-18)",
-            "Проблемы со стабильностью бэкхенда под давлением"
-          ]
-        },
-        "playerB": {
-          "strengths": [
-            "Качественная подача в текущих условиях турнира",
-            "Умеет затягивать сеты до тай-брейков",
-            "Хорошо знаком с покрытием и обстановкой турнира"
-          ],
-          "weaknesses": [
-            "Отрицательный баланс сезона (14-20)",
-            "Уступает в личной встрече",
-            "Ниже в рейтинге (89-я строчка)"
-          ]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "medium",
-        "reasoning": "Букмекерские котировки отдают явное предпочтение Циципасу (~69% вероятности победы) благодаря преимуществу в личной встрече, лучшей игре на тай-брейках и реализации брейк-пойнтов, хотя Ковачевич способен навязать борьбу за счёт подачи.",
-        "predictedScore": "2:0"
-      },
-      "sources": [
-        "https://en.tennistemple.com/match/kovacevic-tsitsipas-winston-salem-2026/9478998/",
-        "https://matchstat.com/predictions-tips/tennis-prediction-pick-odds-kovacevic-tsitsipas-h2h-winston-salem-open-winston-salem-2026-day-4/",
-        "https://matchstat.com/tennis/h2h-odds-bets/Aleksandar%20Kovacevic/Stefanos%20Tsitsipas/",
-        "https://tennistonic.com/tennis-news/1045701/how-to-watch-tsitsipas-vs-kovacevic-on-live-streaming-in-winston-salem-on-wednesday/",
-        "https://tennistonic.com/tennis-news/1045694/h2h-prediction-of-stefanos-tsitsipas-vs-aleksandar-kovacevic-in-winston-salem-with-odds-preview-pick-26th-august-2026-2/"
-      ],
-      "actualResult": null
+      "actualResult": "0:2"
     }
   ]
 }
