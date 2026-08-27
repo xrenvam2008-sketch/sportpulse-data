@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T09:15:00+03:00",
+  "generatedAt": "2026-08-27T10:18:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -40,10 +40,10 @@
         "https://en.tennistemple.com/match/kovacevic-tsitsipas-winston-salem-2026/9478998/",
         "https://www.sportskeeda.com/tennis/stefanos-tsitsipas-vs-aleksandar-kovacevic-preview-head-to-head-odds-prediction-betting-tips-winston-salem-open-2026",
         "https://www.atptour.com/en/players/atp-head-2-head/stefanos-tsitsipas-vs-aleksandar-kovacevic/te51/k0az",
-        "https://tennistonic.com/tennis-news/1045694/h2h-prediction-of-stefanos-tsitsipas-vs-aleksandar-kovacevic-in-winston-salem-with-odds-preview-pick-26th-august-2026-2/"
+        "https://matchstat.com/tennis/h2h-odds-bets/Aleksandar%20Kovacevic/Arthur%20Fery/"
       ],
-      "actualResult": "2:0",
-      "id_note": null
+      "actualResult": "0:2",
+      "id_note": "ИСПРАВЛЕНО в этом обновлении: в предыдущей версии файла результат был ошибочно указан как победа Циципаса 2:0. По совпадающим данным нескольких источников матч выиграл Ковачевич 6-3, 7-6(1) и вышел в 1/4 финала на Фери — счёт исправлен на 0:2 в пользу playerB."
     },
     {
       "id": "sonego-duckworth-2026-08-27",
@@ -78,21 +78,21 @@
         "predictedScore": "2:1"
       },
       "sources": [
-        "https://www.sofascore.com/tennis/match/lorenzo-sonego-james-duckworth/lUpsXWQ",
+        "https://www.abc.net.au/news/2026-08-27/james-duckworth-through-to-winston-salem-quarter-finals/107084328",
+        "https://www.tennismajors.com/matches/atp/winston-salem-open/lorenzo-sonego-vs-james-duckworth-2",
         "https://www.atptour.com/en/players/atp-head-2-head/lorenzo-sonego-vs-james-duckworth/su87/d994",
-        "https://scores24.live/en/tennis/m-26-08-2026-sonego-lorenzo-duckworth-james-prediction",
         "https://www.sportytrader.com/en/results-live/sonego-l-ita-james-duckworth-8777486/",
         "https://matchstat.com/predictions-tips/tennis-prediction-pick-odds-sonego-duckworth-h2h-winston-salem-open-winston-salem-2026-day-4/"
       ],
-      "actualResult": "2:0",
-      "id_note": null
+      "actualResult": "0:2",
+      "id_note": "ИСПРАВЛЕНО в этом обновлении: в предыдущей версии файла результат был ошибочно указан как победа Сонего 2:0. По данным ABC News и Tennis Majors (счёт, статистика брейков и упоминание истории личных встреч совпадают с h2h выше) матч выиграл Дакворт 7-5, 6-3 — счёт исправлен на 0:2 в пользу playerB."
     },
     {
       "id": "damm-marozsan-2026-08-27",
       "tournament": "Winston-Salem Open (ATP 250)",
       "round": "1/8 финала",
       "kickoff": "2026-08-27T03:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Мартин Дамм", "ranking": 94 },
       "playerB": { "name": "Фабиан Марожан", "ranking": 63 },
       "h2h": {
@@ -122,12 +122,12 @@
       "sources": [
         "https://www.atptour.com/en/news/winston-salem-2026-tuesday-report",
         "https://www.tennis.com/tournaments/winston-salem-open/matches/m-damm-jr-vs-f-marozsan-2026-08-26",
-        "https://www.bleachernation.com/picks/2026/08/26/damm-vs-marozsan-prediction-at-the-winston-salem-open-wednesday-august-26/",
-        "https://lastwordonsports.com/tennis/2026/08/26/atp-winston-salem-day-4-predictions-marozsan-damm/",
+        "https://yournews.com/2026/08/27/7177955/botic-van-de-zandschulp-pulls-off-dominating-upset-in-winston-salem/",
+        "https://wdsm710.com/2026/08/26/botic-van-de-zandschulp-pulls-off-dominating-upset-in-winston-salem/",
         "https://www.tennisstatsh2h.com/martin-damm-v-fabian-marozsan/"
       ],
-      "actualResult": null,
-      "id_note": "Матч по времени уже завершён (стадионная сессия среды, вечер по местному времени США), но надёжный источник с итоговым счётом найти не удалось — независимые запросы дали противоречивые цифры (6-4/7-6(2) и 7-5/6-3, последнее совпадает со счётом другого матча Дамма и похоже на ошибку агрегатора). Чтобы не гадать со счётом, статус оставлен как live, а actualResult — null."
+      "actualResult": "1:2",
+      "id_note": "В этом обновлении статус изменён с live на finished: по совпадающим данным нескольких источников Марожан (15-й номер посева) отыграл проигранный первый сет и победил 2-6, 6-3, 6-3, выйдя в 1/4 финала против Дакворта."
     },
     {
       "id": "van-de-zandschulp-bonzi-2026-08-27",
