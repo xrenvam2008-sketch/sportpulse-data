@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T17:16:00+03:00",
+  "generatedAt": "2026-08-27T18:31:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -296,7 +296,7 @@
       "tournament": "US Open 2026 — квалификация",
       "round": "Финальный раунд квалификации (за место в основной сетке)",
       "kickoff": "2026-08-27T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Чжэн Циньвэнь", "ranking": 121 },
       "playerB": { "name": "Елена Приданкина", "ranking": 214 },
       "h2h": {
@@ -333,20 +333,20 @@
       "actualResult": null
     },
     {
-      "id": "andreescu-podrez-2026-08-27",
+      "id": "andreescu-zidansek-2026-08-27",
       "tournament": "US Open 2026 — квалификация",
       "round": "Финальный раунд квалификации (за место в основной сетке)",
-      "kickoff": "2026-08-27T18:00:00+03:00",
+      "kickoff": "2026-08-27T19:30:00+03:00",
       "status": "scheduled",
-      "playerA": { "name": "Бьянка Андрееску", "ranking": 183 },
-      "playerB": { "name": "Вероника Подрез", "ranking": 132 },
+      "playerA": { "name": "Бьянка Андрееску", "ranking": 186 },
+      "playerB": { "name": "Тамара Зиданшек", "ranking": 133 },
       "h2h": {
-        "summary": "Личных встреч не было — это первая игра теннисисток друг против друга.",
-        "record": { "aWins": 0, "bWins": 0 }
+        "summary": "Единственная очная встреча — на грунте на Ролан Гаррос-2021 (1 круг), победу в трёх сетах 6-7(1), 7-6(2), 9-7 одержала Зиданшек; на харде теннисистки ранее не встречались.",
+        "record": { "aWins": 0, "bWins": 1 }
       },
       "form": {
-        "playerA": { "last5": "Чемпионка US Open-2019 возвращается через квалификацию после серии травм и уверенно проходит первые раунды." },
-        "playerB": { "last5": "Подтверждает статус одной из сильнейших квалифайерш турнира: победа 6-2, 0-6, 6-3 над Кэролайн Долехайд в предыдущем круге." }
+        "playerA": { "last5": "Чемпионка US Open-2019 возвращается через квалификацию после серии травм; в предыдущем круге уверенно обыграла Веронику Подрез 6-0, 6-3, ранее — Еву Веддер 6-1, 6-2." },
+        "playerB": { "last5": "Сезон 2026 неровный (23-13), в основном на уровне challenger; в финале челленджера в Анталье уступила Анхелине Калининой 0-6, 3-6." }
       },
       "strengthsWeaknesses": {
         "playerA": {
@@ -354,22 +354,22 @@
           "weaknesses": ["долгие перерывы из-за травм", "недостаток соревновательной практики на высоком уровне"]
         },
         "playerB": {
-          "strengths": ["агрессивный приём подачи", "уверенно прошла ранние раунды квалификации", "выше в текущем рейтинге"],
-          "weaknesses": ["небольшой опыт матчей такого уровня и давления", "нестабильность против более именитых соперниц (потерянный средний сет с Долехайд)"]
+          "strengths": ["надёжная игра с задней линии на грунте", "боевой характер, опыт трёхсетовых матчей", "выше в рейтинге"],
+          "weaknesses": ["преимущественно грунтовая специализация, на харде статистика скромнее", "нестабильный сезон 2026 года"]
         }
       },
       "prediction": {
         "winner": "playerA",
-        "confidence": "medium",
-        "reasoning": "Андрееску, несмотря на более низкий текущий рейтинг, обладает уникальным опытом победы на US Open и уверенно проходит квалификацию, но Подрез объективно выше в рейтинге, и это их первая встреча, так что уверенность не абсолютная.",
+        "confidence": "low",
+        "reasoning": "Андрееску увереннее выглядит по ходу этой квалификации и обладает более высоким классом, но Зиданшек уже обыгрывала её (пусть и на грунте) и выше в текущем рейтинге, поэтому уверенность в исходе невысокая.",
         "predictedScore": "2:1"
       },
       "sources": [
-        "https://www.wtatennis.com/news/4553891/andreescu-zheng-kenin-liutova-headline-us-open-qualifying-entries",
-        "https://www.yardbarker.com/tennis/articles/us_open_qualifying_from_champion_to_fighting_for_main_draw_as_bianca_andreescu_dominates/s1_17460_44216117",
-        "https://www.tennisworldusa.org/tennis/news/On_the_WTA_results_with/169054/us-open-qualifying-2019-champion-bianca-andreescu-dominates-in-her-qualies-return/",
-        "https://lastwordonsports.com/tennis/2026/08/26/wta-us-open-andreescu-podrez/",
-        "https://tennistonic.com/tennis-news/1045938/h2h-prediction-of-veronika-podrez-vs-bianca-vanessa-andreescu-at-the-u-s-open-with-odds-preview-pick-26th-august-2026/"
+        "https://tennistonic.com/tennis-news/1046446/h2h-prediction-of-tamara-zidansek-vs-bianca-vanessa-andreescu-at-the-u-s-open-with-odds-preview-pick-27th-august-2026/",
+        "https://www.tsn.ca/tennis/video/2026/08/27/andreescu-advances-to-final-round-of-us-open-qualifying/",
+        "https://www.theglobeandmail.com/sports/tennis/article-canadas-andreescu-branstine-advance-to-final-round-of-us-open/",
+        "https://www.cbc.ca/sports/tennis/us-open-canadians-recap-aug26-9.7322083",
+        "https://www.espn.com/tennis/story/_/id/49696956/bianca-andreescu-former-us-open-champion-qualfying-main-draw"
       ],
       "actualResult": null
     },
@@ -378,7 +378,7 @@
       "tournament": "US Open 2026 — квалификация",
       "round": "Финальный раунд квалификации (за место в основной сетке)",
       "kickoff": "2026-08-27T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Григор Димитров", "ranking": 170 },
       "playerB": { "name": "Отто Виртанен", "ranking": 127 },
       "h2h": {
@@ -419,7 +419,7 @@
       "tournament": "US Open 2026 — квалификация",
       "round": "Финальный раунд квалификации (за место в основной сетке)",
       "kickoff": "2026-08-27T18:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Кэй Нисикори", "ranking": 703 },
       "playerB": { "name": "Рей Сакамото", "ranking": 152 },
       "h2h": {
