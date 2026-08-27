@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-27T21:16:00+03:00",
+  "generatedAt": "2026-08-27T22:12:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -131,7 +131,7 @@
       "tournament": "Winston-Salem Open (ATP 250)",
       "round": "1/4 финала",
       "kickoff": "2026-08-27T21:00:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Ботик ван де Зандсхюлп", "ranking": 71 },
       "playerB": { "name": "Бенжамен Бонзи", "ranking": 109 },
       "h2h": {
@@ -163,16 +163,17 @@
         "https://tenngrand.com/winston-salem-tennis-picks-predictions-van-de-zandschulp-vs-bonzi-buse-cerundolo/",
         "https://matchstat.com/tennis/h2h-odds-bets/Benjamin%20Bonzi/Botic%20Van%20De%20Zandschulp/",
         "https://tennistonic.com/tennis-news/1046571/merciless-botic-van-de-zandschulp-trashes-darderi-in-the-3rd-round-to-set-up-a-battle-vs-bonzi-highlights-salem-open-results/",
-        "https://www.americateve.com/van-zandschulp-llega-cuartos-winston-salem-n1148242"
+        "https://www.americateve.com/van-zandschulp-llega-cuartos-winston-salem-n1148242",
+        "https://fieldlevelmedia.com/atp-tour/botic-van-de-zandschulp-pulls-off-dominating-upset-in-winston-salem/"
       ],
-      "actualResult": null
+      "actualResult": "2:1"
     },
     {
       "id": "buse-cerundolo-2026-08-27",
       "tournament": "Winston-Salem Open (ATP 250)",
       "round": "1/4 финала",
       "kickoff": "2026-08-27T22:00:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Игнасио Бусе", "ranking": 36 },
       "playerB": { "name": "Хуан Мануэль Черундоло", "ranking": 52 },
       "h2h": {
