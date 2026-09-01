@@ -1,252 +1,423 @@
 {
-  "generatedAt": "2026-08-28T00:13:00+03:00",
+  "generatedAt": "2026-09-01T15:30:00+03:00",
   "sport": "tennis",
   "matches": [
     {
-      "id": "parks-li-2026-08-28",
-      "tournament": "Monterrey Open / Abierto GNP Seguros (WTA 500)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-28T00:00:00+03:00",
-      "status": "live",
-      "playerA": { "name": "Алисия Паркс", "ranking": 89 },
-      "playerB": { "name": "Энн Ли", "ranking": 30 },
-      "h2h": {
-        "summary": "Личные встречи разделены поровну 1-1, но ни разу теннисистки не играли на харде; последняя игра осталась за Ли — 6-2, 6-7(5), 6-3 во 2 круге в Мадриде в апреле 2026 года.",
-        "record": { "aWins": 1, "bWins": 1 }
-      },
+      "id": "keys-korneeva-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T18:30:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Мэдисон Кис", "ranking": 23 },
+      "playerB": { "name": "Алина Корнеева", "ranking": 67 },
+      "h2h": { "summary": "Личных встреч ранее не было, это будет первая очная встреча теннисисток.", "record": { "aWins": 0, "bWins": 0 } },
       "form": {
-        "playerA": { "last5": "Вышла в четвертьфинал, обыграв Петру Марцинко 2-6, 6-4, 6-4 и Майю Хвалиньску 3-6, 6-2, 6-2; сезон 2026 нестабилен (25-25)." },
-        "playerB": { "last5": "Уверенно дошла до четвертьфинала: обыграла Марию Камилу Осорио Серрано 6-1, 6-2, а следующая соперница снялась перед матчем (Мария Тимофеева, walkover)." }
+        "playerA": { "last5": "Невыразительный хардовый сезон: вылет в 1 круге в Вашингтоне, лучший результат — четвертьфинал в Цинциннати." },
+        "playerB": { "last5": "19-летняя россиянка на подъёме: полуфинал на турнире в Афинах, победа над №23 сеяной Эммой Наварро в Торонто." }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["мощная подача", "атакующий форхенд", "физическая мощь и взрывная игра"],
-          "weaknesses": ["нестабильность на протяжении матча", "проблемы с концентрацией в решающих геймах", "высокий процент невынужденных ошибок"]
+          "strengths": ["Мощная первая подача", "Один из сильнейших ударов справа в туре", "Опыт финалов турниров Большого шлема"],
+          "weaknesses": ["Нестабильность в межсезонье 2026", "Проблемы со второй подачей под давлением"]
         },
         "playerB": {
-          "strengths": ["стабильная игра с задней линии", "надёжный бэкхенд", "хорошее тактическое чтение соперниц"],
-          "weaknesses": ["не хватает явного оружия для завершения розыгрышей", "уязвима против очень мощной первой подачи"]
-        }
+          "strengths": ["Быстрый прогресс в рейтинге за сезон", "Хорошая работа ног и агрессивный приём", "Победы над топ-30 соперницами летом"]
+        , "weaknesses": ["Минимальный опыт основных сеток турниров Большого шлема", "Может теряться против мощной подачи"]}
       },
       "prediction": {
-        "winner": "playerB",
-        "confidence": "low",
-        "reasoning": "Tennis Tonic отдаёт предпочтение Ли в трёх сетах, однако личные встречи равны 1-1 и ни разу не проходили на харде, поэтому уверенность в исходе невысокая. Матч уже начался, но по данным на момент формирования дайджеста текущий счёт по сетам не подтверждён из независимых источников, поэтому статус и прогноз оставлены как до начала игры.",
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Кис выше в рейтинге и опытнее на этой стадии турниров Большого шлема, но её собственная форма после Цинциннати нестабильна, а Корнеева уверенно прибавляет — ожидается плотный, но победный матч для Кис.",
         "predictedScore": "2:1"
       },
       "sources": [
-        "https://tennistonic.com/tennis-news/1046605/prediction-preview-h2h-parks-parry-starodubtseva-and-mertens-to-play-on-grandstand-on-thursday-abierto-gnp-seguros/",
-        "https://tennistonic.com/tennis-news/1046137/updated-r2-prediction-h2h-of-ann-lis-draw-vs-timofeeva-chwalinska-alexandrova-mertens-to-win-the-monterrey/",
-        "https://tennistonic.com/tennis-news/1046598/monterrey-results-alycia-parks-clara-tauson-darja-vidmanova-nikola-bartunkova-win-on-wednesday/",
-        "https://www.sportytrader.com/en/results-live/alycia-parks-ann-li-8781249/",
-        "https://tennistonic.com/tennis-news/1046128/updated-r2-prediction-h2h-of-alycia-parkss-draw-vs-chwalinska-li-alexandrova-mertens-to-win-the-monterrey/"
+        "https://www.sofascore.com/tennis/match/alina-korneeva-madison-keys/ziosTAid",
+        "https://www.sportytrader.com/en/odds/madison-keys-alina-korneeva-8782019/",
+        "https://en.tennistemple.com/match/keys-korneeva-us-open-2026/9478592/stats",
+        "https://www.sportskeeda.com/tennis/news-us-open-2026-day-3-predictions-ft-madison-keys-vs-alina-korneeva-taylor-fritz-vs-darwin-blanch",
+        "https://tennistonic.com/tennis-news/1047501/h2h-prediction-of-madison-keys-vs-alina-korneeva-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/"
       ],
       "actualResult": null
     },
     {
-      "id": "kovacevic-fery-2026-08-28",
-      "tournament": "Winston-Salem Open (ATP 250)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-28T01:30:00+03:00",
+      "id": "fritz-blanch-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T20:30:00+03:00",
       "status": "scheduled",
-      "playerA": { "name": "Александар Ковачевич", "ranking": 89 },
-      "playerB": { "name": "Артур Фери", "ranking": 37 },
-      "h2h": {
-        "summary": "Личных встреч между теннисистами не было.",
-        "record": { "aWins": 0, "bWins": 0 }
-      },
+      "playerA": { "name": "Тейлор Фриц", "ranking": 9 },
+      "playerB": { "name": "Дарвин Бланч", "ranking": 245 },
+      "h2h": { "summary": "Ранее не встречались на туре.", "record": { "aWins": 0, "bWins": 0 } },
       "form": {
-        "playerA": { "last5": "Вышел в четвертьфинал, обыграв 7-го сеяного Стефаноса Циципаса 6-3, 7-6(1) в 1/8 финала — сравнял личный счёт с ним 1-1." },
-        "playerB": { "last5": "Проводит лучший отрезок карьеры: дошёл до полуфинала Уимблдона (обыграв по пути Джумхура, Виртанена, Бергса, Диметрова и 9-го сеяного Коболли), затем прошёл Роттгеринга в 1/8 финала Уинстон-Сейлема 6-3, 6-3 — карьерный рекорд по рейтингу." }
+        "playerA": { "last5": "Один из лучших хардовых отрезков сезона: титул в Вашингтоне, четвертьфинал в Цинциннати, 8 побед в последних 10 матчах." },
+        "playerB": { "last5": "18-летний уайлдкард на серии из 7 поражений подряд, побед на харде в этом сезоне пока нет." }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["американец, вырос на харде — комфортное покрытие", "хорошая подача и форхенд", "победа над Циципасом показала способность справляться с давлением"],
-          "weaknesses": ["нестабильность на протяжении карьеры (карьерный баланс побед/поражений в пользу поражений)", "уязвим на приёме против больших подач", "рейтинг за пределами топ-80 говорит о нерегулярности результатов"]
+          "strengths": ["Одна из мощнейших подач тура", "Стабильная игра с задней линии", "Опыт финала турнира Большого шлема"],
+          "weaknesses": ["Иногда проседает во второй половине долгих матчей"]
         },
         "playerB": {
-          "strengths": ["серия успешных результатов и карьерный рекорд по рейтингу", "мощная подача", "уверенная агрессивная игра с задней линии", "не боится топ-соперников (победы над Диметровым, Коболли)"],
-          "weaknesses": ["немного опыта на харде на таком уровне в этом отрезке сезона", "физически тяжёлое лето (Уимблдон + харды подряд)", "первая встреча с соперником — фактор адаптации"]
+          "strengths": ["Молодость и раскрепощённость на корте", "Потенциально опасный приём подачи"],
+          "weaknesses": ["Затяжной спад результатов", "Минимальный опыт основной сетки турниров Большого шлема", "Уступает в физике на пять сетов"]
         }
       },
       "prediction": {
-        "winner": "playerB",
-        "confidence": "low",
-        "reasoning": "Личных встреч не было. Фери превосходит соперника по текущей форме (полуфинал Уимблдона, карьерный рекорд рейтинга), но у Ковачевича преимущество своего покрытия (хард, США) и уверенность после победы над Циципасом. Из-за отсутствия H2H уверенность в прогнозе низкая.",
-        "predictedScore": "2:1"
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Разница в классе и текущей форме огромна: Фриц в отличном хардовом сезоне, Бланч приходит на серии поражений. Букмекеры оценивают шансы Фрица исключительно высоко.",
+        "predictedScore": "3:0"
       },
       "sources": [
-        "https://matchstat.com/tennis/h2h-odds-bets/Aleksandar%20Kovacevic/Arthur%20Fery/",
-        "https://lastwordonsports.com/tennis/2026/08/27/atp-winston-salem-quarterfinal-predictions-kovacevic-fery/",
-        "https://www.atptour.com/en/players/arthur-fery/f0dm/rankings-breakdown",
-        "https://tennistonic.com/tennis-news/1046055/winston-salem-results-arthur-fery-aleksandar-kovacevic-lorenzo-sonego-win-daniil-medvedev-upset/",
-        "https://www.tennisstatsh2h.com/arthur-fery-v-aleksandar-kovacevic/",
-        "https://www.winstonsalemopen.com/en/scores/draw"
+        "https://tennistonic.com/tennis-news/1047489/h2h-prediction-of-taylor-fritz-vs-darwin-blanch-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
+        "https://www.sportsbettingdime.com/news/tennis/best-bets-picks-odds-fritz-vs-blanch/",
+        "https://www.dimers.com/tennis/news/taylor-fritz-vs-darwin-blanch-tennis-prediction-us-open-2026-ac",
+        "https://lastwordonsports.com/tennis/2026/08/31/us-open-predictions-fritz-blanch/",
+        "https://en.tennistemple.com/match/fritz-blanch-us-open-2026/9479332/",
+        "https://www.usopen.org/en_US/news/articles/2026-08-29/meet_darwin_blanch_taylor_fritz_r1_opponent_at_the_2026_us_open.html"
       ],
       "actualResult": null
     },
     {
-      "id": "bartunkova-vidmanova-2026-08-28",
-      "tournament": "Monterrey Open / Abierto GNP Seguros (WTA 500)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-28T02:30:00+03:00",
+      "id": "sonmez-gauff-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-02T02:00:00+03:00",
       "status": "scheduled",
-      "playerA": { "name": "Никола Бартункова", "ranking": 38 },
-      "playerB": { "name": "Дарья Видманова", "ranking": 90 },
-      "h2h": {
-        "summary": "Бартункова ведёт 2-0; последняя встреча — победа Бартунковой 6-4, 7-5 в полуфинале турнира в Самсуне в 2025 году.",
-        "record": { "aWins": 2, "bWins": 0 }
-      },
+      "playerA": { "name": "Зейнеп Сонмез", "ranking": 52 },
+      "playerB": { "name": "Коко Гауфф", "ranking": 4 },
+      "h2h": { "summary": "Ранее не встречались.", "record": { "aWins": 0, "bWins": 0 } },
       "form": {
-        "playerA": { "last5": "16-8 на харде в сезоне 2026 (31-18 в целом за год) — карьерный рекорд по рейтингу." },
-        "playerB": { "last5": "Прошла в четвертьфинал через четыре раунда (включая квалификацию): победы над Каролин Вернер 7-5, 6-4, Панной Удвари 6-3, 3-6, 6-3, Кимберли Биррелл 7-6(2), 6-3 и Кристиной Бусой 6-4, 7-5." }
+        "playerA": { "last5": "59,6% побед в сезоне (28-19), в 3 круге Australian Open обыграла 11-ю сеяную Екатерину Александрову." },
+        "playerB": { "last5": "В отличной форме: выиграла турнир в Цинциннати, обыграв в финале Джессику Пегулу 6-2, 6-4; 75,5% побед за сезон." }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["агрессивный, хорошо поставленный форхенд", "уверенная игра на харде в этом сезоне (16-8)", "растущая стабильность результатов"],
-          "weaknesses": ["ограниченный опыт на стадии четвертьфиналов WTA", "может нервничать в решающих геймах против более опытных соперниц"]
+          "strengths": ["Стабильная игра с задней линии", "Хорошо действует на харде", "Способна на камбэки против сеяных"],
+          "weaknesses": ["Уступает в мощности топ-игрокам", "Ограниченный опыт на топовых аренах"]
         },
         "playerB": {
-          "strengths": ["боевой характер — четыре победы подряд на пути в четвертьфинал", "стабильная игра с задней линии", "хорошая физическая готовность"],
-          "weaknesses": ["уступает по рейтингу (90-е место)", "проигрывает 0-2 по личным встречам", "меньше опыта на этой стадии турниров"]
+          "strengths": ["Взрывная скорость и приём подачи", "Чемпионский опыт турниров Большого шлема", "Свежий титул в Цинциннати"],
+          "weaknesses": ["Периодическая нестабильность собственной подачи"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "high",
+        "reasoning": "Гауфф в статусе одного из фаворитов турнира и на пике формы после победы в Цинциннати, тогда как Сонмез статистически заметно уступает по классу.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.sportskeeda.com/tennis/us-open-2026-coco-gauff-vs-zeynep-sonmez-preview-head-to-head-odds-prediction-betting-tips",
+        "https://www.bets.com.au/tennis/us-open/coco-gauff-vs-zeynep-sonmez-us-open-tips-prediction-live-stream-20260901-0006/",
+        "https://lastwordonsports.com/tennis/2026/08/31/us-open-predictions-gauff-sonmez/",
+        "https://www.tennisstatsh2h.com/zeynep-sonmez-v-coco-gauff/",
+        "https://www.olympics.com/en/news/us-open-2026-carlos-alcaraz-title-defence-roman-safiullin-coco-gauff-zeynep-sonmez"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "zverev-sonego-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-02T04:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Александр Зверев", "ranking": 1 },
+      "playerB": { "name": "Лоренцо Сонего", "ranking": 40 },
+      "h2h": { "summary": "Зверев выигрывает все 6 личных встреч (6-0), Сонего ещё не находил рецепта против его мощи и стабильности.", "record": { "aWins": 6, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "Первый номер посева турнира Большого шлема впервые в карьере, победитель Roland Garros и финалист Уимблдона-2026." },
+        "playerB": { "last5": "Опытный боец, способный навязать борьбу на харде, но нестабилен против топ-соперников в этом сезоне." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Один из сильнейших ударов слева в туре", "Мощная подача", "Статус фаворита и высокая мотивация"],
+          "weaknesses": ["Периодические провалы концентрации в отдельных геймах"]
+        },
+        "playerB": {
+          "strengths": ["Хороший форхенд и агрессивная игра у сетки", "Опыт выступлений на харде"],
+          "weaknesses": ["Стабильно проигрывает Звереву по стилю", "Уступает в физике на пять сетов топ-игрокам"]
         }
       },
       "prediction": {
         "winner": "playerA",
         "confidence": "medium",
-        "reasoning": "Tennis Tonic выбирает победу Бартунковой в трёх сетах (коэффициенты 1.54 против 2.46), она также ведёт 2-0 в личных встречах и превосходит соперницу в рейтинге.",
-        "predictedScore": "2:1"
+        "reasoning": "Зверев подавляюще выигрывает личные встречи (6-0) и является первым номером посева, однако часть экспертов указывает на риск неожиданного старта фаворита турнира на фоне высокой нагрузки последних месяцев — поэтому уверенность не абсолютная.",
+        "predictedScore": "3:1"
       },
       "sources": [
-        "https://tennistonic.com/tennis-news/1046621/h2h-prediction-of-nikola-bartunkova-vs-darja-vidmanova-in-monterrey-with-odds-preview-pick-27th-august-2026/",
-        "https://tennistonic.com/tennis-news/1046598/monterrey-results-alycia-parks-clara-tauson-darja-vidmanova-nikola-bartunkova-win-on-wednesday/",
-        "https://tennistonic.com/tennis-news/1046589/darja-vidmanova-upsets-bucsa-in-the-2nd-round-to-set-up-a-battle-vs-bartunkova-monterrey-results/",
-        "https://tennistonic.com/tennis-news/1046639/how-to-watch-bartunkova-vs-vidmanova-on-live-streaming-in-monterrey-on-thursday/",
-        "https://tennistonic.com/tennis-news/1046146/updated-r2-prediction-h2h-of-nikola-bartunkovas-draw-vs-potapova-bucsa-mertens-alexandrova-to-win-the-monterrey-2/"
+        "https://tennistonic.com/tennis-news/1047483/h2h-prediction-of-alexander-zverev-vs-lorenzo-sonego-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
+        "https://lastwordonsports.com/tennis/2026/08/31/us-open-predictions-zverev-sonego/",
+        "https://www.eurosport.de/tennis/us-open/2026/alexander-zverev-vs.-lorenzo-sonego-heute-live-im-tv-stream-und-ticker-grand-slam-1.-runde-aus-new-york-flushing-meadwos_sto23332242/story.shtml",
+        "https://www.skysports.com/tennis/news/32833/13577827/us-open-draw-schedule-results-from-the-final-grand-slam-tournament-of-2026-at-flushing-meadows-in-new-york",
+        "https://www.atptour.com/en/players/lorenzo-sonego/su87/rankings-history"
       ],
       "actualResult": null
     },
     {
-      "id": "marozsan-duckworth-2026-08-28",
-      "tournament": "Winston-Salem Open (ATP 250)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-28T04:00:00+03:00",
+      "id": "comesana-cobolli-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T18:00:00+03:00",
       "status": "scheduled",
-      "playerA": { "name": "Фабиан Марожан", "ranking": 63 },
-      "playerB": { "name": "Джеймс Дакворт", "ranking": 78 },
-      "h2h": {
-        "summary": "Открытые источники не содержат данных о личных встречах между теннисистами — играют друг против друга впервые.",
-        "record": null
-      },
+      "playerA": { "name": "Франсиско Комесанья", "ranking": 123 },
+      "playerB": { "name": "Флавио Коболли", "ranking": 6 },
+      "h2h": { "summary": "Коболли выигрывает единственную личную встречу — в 1 круге Монте-Карло 2026 (7-5, 2-6, 6-3); на харде ранее не встречались.", "record": { "aWins": 0, "bWins": 1 } },
       "form": {
-        "playerA": { "last5": "15-й номер посева; вышел в четвертьфинал, отыгравшись после проигранного первого сета против Мартина Дамма — 2-6, 6-3, 6-3; ранее обыграл Миомира Кецмановича 6-3, 6-4." },
-        "playerB": { "last5": "Обыграл Лоренцо Сонего 7-5, 6-3 в 1/8 финала; до этого прошёл Куинна Вандекастееле — уверенно проводит харда-сезон перед US Open." }
+        "playerA": { "last5": "Спад результатов в этом сезоне (16-23 в сезоне), проиграл 4 из последних 5 матчей." },
+        "playerB": { "last5": "Карьерный пик по рейтингу, 31-18 в сезоне (13-7 на харде), полуфинал в Цинциннати (поражение от Фиса)." }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["тонкая техника, один из лучших укороченных ударов в туре", "высокий процент первой подачи (около 66%)", "хорошо держит свою подачу (~81% геймов на подаче)", "победа над Алькарасом в карьере"],
-          "weaknesses": ["любимое покрытие — грунт, а не хард", "просел в рейтинге с карьерного максимума (36-я строчка)", "потребовался камбэк против аутсайдера Дамма — вопрос свежести"]
+          "strengths": ["Опытный боец с задней линии", "Опыт глубоких стадий турниров Большого шлема"],
+          "weaknesses": ["Спад формы и уверенности в 2026", "Нестабильная подача"]
         },
         "playerB": {
-          "strengths": ["большой опыт на туре, боевой характер", "стабильная подача", "есть победы над топ-15 игроками в карьере (Гоффен)", "хорошо чувствует себя на харде США"],
-          "weaknesses": ["34 года — уступает в физике на длинной дистанции", "рейтинг ощутимо ниже карьерного пика (46-е место в 2022 году)", "ниже соперника в посеве"]
+          "strengths": ["Карьерный пик по рейтингу и уверенности", "Хорошая скорость и атакующий форхенд", "Личная победа над соперником"],
+          "weaknesses": ["Не всегда стабилен в начале матчей на харде"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "medium",
+        "reasoning": "Коболли превосходит по рейтингу, форме и уже имеет победу в очной встрече, но Комесанья — опытный боец на этой стадии турниров Большого шлема, поэтому возможен непростой старт для итальянца.",
+        "predictedScore": "3:1"
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1047492/h2h-prediction-of-flavio-cobolli-vs-francisco-comesana-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
+        "https://www.stevegtennis.com/head-to-head/men/Francisco_Comesana/Flavio_Cobolli/",
+        "https://matchstat.com/tennis/h2h-odds-bets/Francisco%20Comesana/Flavio%20Cobolli/",
+        "https://lastwordonsports.com/tennis/2026/08/31/us-open-predictions-cobolli-comesana/",
+        "https://www.sofascore.com/tennis/player/flavio-cobolli/273680"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "andreeva-tjen-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T19:40:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Мирра Андреева", "ranking": 5 },
+      "playerB": { "name": "Дженис Тьен", "ranking": 40 },
+      "h2h": { "summary": "Андреева выиграла у Тьен в Цинциннати совсем недавно, 6-1, 7-6.", "record": { "aWins": 1, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "5-я сеяная, чемпионка Roland Garros; уверенно обыграла Тьен несколько недель назад в Цинциннати." },
+        "playerB": { "last5": "Проблемы с формой: 23 поражения в 39 матчах сезона." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Отличная тактическая зрелость", "Стабильная игра с задней линии", "Свежий титул турнира Большого шлема"],
+          "weaknesses": ["Молодой возраст, ограниченный опыт крупных арен США"]
+        },
+        "playerB": {
+          "strengths": ["Хороший приём подачи", "Может создавать неудобства нестандартной игрой"],
+          "weaknesses": ["Слабая форма сезона", "Свежее поражение от соперницы в Цинциннати", "Мало времени на подготовку между турнирами"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Андреева выше классом, уверенно обыграла Тьен совсем недавно и подходит к матчу в статусе чемпионки турнира Большого шлема, тогда как Тьен переживает спад формы.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.sofascore.com/tennis/match/mirra-andreeva-janice-tjen/IJqcsBKmd",
+        "https://lastwordonsports.com/tennis/2026/08/31/us-open-predictions-andreeva-tjen/",
+        "https://tass.com/sports/2178559",
+        "https://tennisstats.com/players/janice-tjen/rankings",
+        "https://www.wtatennis.com/players/328818/janice-tjen"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "vallejo-monfils-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-02T02:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Адольфо Даниэль Вальехо", "ranking": 70 },
+      "playerB": { "name": "Гаэль Монфис", "ranking": 222 },
+      "h2h": { "summary": "Ранее не встречались.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "Хороший сезон на харде после перехода с грунта: 3 круг Мадрида, 2 круг Roland Garros, 3 круг Цинциннати." },
+        "playerB": { "last5": "Прощальный сезон 40-летнего француза: 4-9 в 2026 году, без побед на турнирах Большого шлема больше года." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Молодость и хорошая физическая форма", "Стабильный прогресс сезона", "Уверенность после недавних результатов"],
+          "weaknesses": ["Ограниченный опыт основных сеток турниров Большого шлема"]
+        },
+        "playerB": {
+          "strengths": ["Колоссальный опыт (71-й турнир Большого шлема в карьере)", "Атлетизм и непредсказуемость на харде", "Мотивация прощального турнира на своём дне рождения"],
+          "weaknesses": ["Физическое состояние в 40 лет на дистанции пяти сетов", "Слабые результаты сезона (4-9)"]
         }
       },
       "prediction": {
         "winner": "playerA",
         "confidence": "medium",
-        "reasoning": "Личных встреч не было. Марожан выше посеян, обладает более разнообразным арсеналом и уже обыгрывал топ-игроков (в том числе Алькараса), но харды — не его любимое покрытие, а предыдущий матч дался ему тяжело (три сета). Дакворт компенсирует это опытом и стабильной подачей на домашних для себя кортах США.",
-        "predictedScore": "2:1"
+        "reasoning": "Вальехо моложе, увереннее по ходу сезона и физически свежее, но опыт и особый настрой Монфиса в его прощальном турнире Большого шлема добавляют интриги.",
+        "predictedScore": "3:1"
       },
       "sources": [
-        "https://tennistonic.com/tennis-news/1046563/fabian-marozsan-ousts-damm-in-the-3rd-round-to-play-vs-duckworth-at-the-winston-highlights-salem-open-results/",
-        "https://tennistonic.com/tennis-news/1046559/james-duckworth-victorious-over-sonego-in-the-3rd-round-to-play-vs-marozsan-salem-open-results/",
-        "https://www.abc.net.au/news/2026-08-27/james-duckworth-through-to-winston-salem-quarter-finals/107084328",
-        "https://tennistonic.com/tennis-news/1046357/how-to-watch-marozsan-vs-duckworth-on-live-streaming-in-winston-salem-on-thursday/",
-        "https://www.atptour.com/en/players/fabian-marozsan/m0ci/overview",
-        "https://www.atptour.com/en/players/james-duckworth/d994/overview"
+        "https://www.sportskeeda.com/tennis/gael-monfils-vs-adolfo-daniel-vallejo-preview-head-to-head-odds-prediction-betting-tips-us-open-2026",
+        "https://www.ubitennis.net/2026/08/us-open-daily-preview-monfils-begins-his-last-major-on-his-40th-birthday/",
+        "https://www.yardbarker.com/tennis/articles/another_possible_goodbye_highlights_day_3_us_open_mens_matches/s1_13132_44244329",
+        "https://www.coretennis.net/tennis-player/adolfo-daniel-vallejo/108533/ranking.html",
+        "https://www.atptour.com/en/players/gael-monfils/mc65/rankings-history"
       ],
       "actualResult": null
     },
     {
-      "id": "tauson-parry-2026-08-28",
-      "tournament": "Monterrey Open / Abierto GNP Seguros (WTA 500)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-28T04:30:00+03:00",
+      "id": "stoiana-eala-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-02T04:00:00+03:00",
       "status": "scheduled",
-      "playerA": { "name": "Клара Таусон", "ranking": 42 },
-      "playerB": { "name": "Диана Парри", "ranking": 50 },
-      "h2h": {
-        "summary": "Парри ведёт 2-0 (1-0 на харде); последняя встреча — победа Парри 6-3, 6-4 в 1 круге в Берлине в июне 2026 года.",
-        "record": { "aWins": 0, "bWins": 2 }
-      },
+      "playerA": { "name": "Мэри Стояна", "ranking": 122 },
+      "playerB": { "name": "Александра Эала", "ranking": 18 },
+      "h2h": { "summary": "Эала выигрывает единственную личную встречу — 10 августа 2024 в Лэндисвилле на харде, 7-5, 6-2.", "record": { "aWins": 0, "bWins": 1 } },
       "form": {
-        "playerA": { "last5": "Обыграла финалистку турнира прошлого года Екатерину Александрову 7-6(6), 4-6, 6-3 во 2 круге; сезон 2026 нестабилен — 15-19." },
-        "playerB": { "last5": "27-19 в сезоне 2026; в Монтеррее обыграла Донну Векич 6-7(5), 6-4, 6-1 и Александру Олийникову 6-4, 7-6(3)." }
+        "playerA": { "last5": "Дебют в основной сетке турнира Большого шлема после победы в трёх квалификационных матчах." },
+        "playerB": { "last5": "Один из лучших сезонов в туре: победа над Пегулой, Осакой и Свитолиной по пути к титулу в Вашингтоне, выход в 4 круг Уимблдона." }
       },
       "strengthsWeaknesses": {
         "playerA": {
-          "strengths": ["один из сильнейших форхендов в туре", "мощная подача", "способна обыгрывать топ-соперниц"],
-          "weaknesses": ["нестабильность и высокий процент невынужденных ошибок", "проигрывает 0-2 личные встречи с Парри", "неровный общий баланс побед-поражений в сезоне (15-19)"]
+          "strengths": ["Уверенная игра в квалификации", "Бывшая №1 студенческого тенниса США — крепкая база ударов"],
+          "weaknesses": ["Отсутствие опыта основной сетки турниров Большого шлема", "Давление дебюта на большой арене"]
         },
         "playerB": {
-          "strengths": ["разнообразная, техничная игра", "хорошая работа с обводящими и укороченными ударами", "преимущество 2-0 в личных встречах"],
-          "weaknesses": ["не хватает мощи против самых силовых соперниц", "неидеально стабильный сезон (27-19)"]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "low",
-        "reasoning": "Tennis Tonic ставит на победу Таусон в трёх сетах несмотря на невыгодную для неё статистику личных встреч (0-2), опираясь на её недавний разгром финалистки прошлого года Александровой — уверенность снижена из-за противоречия между формой и историей очных игр.",
-        "predictedScore": "2:1"
-      },
-      "sources": [
-        "https://tennistonic.com/tennis-news/1046574/h2h-prediction-of-clara-tauson-vs-diane-parry-in-monterrey-with-odds-preview-pick-27th-august-2026/",
-        "https://tennistonic.com/tennis-news/1046594/clara-tauson-ousts-alexandrova-in-the-2nd-round-to-play-vs-parry-highlights-monterrey-results/",
-        "https://tennistonic.com/tennis-news/1046578/how-to-watch-tauson-vs-parry-on-live-streaming-in-monterrey-on-thursday/",
-        "https://tennistonic.com/tennis-news/1046605/prediction-preview-h2h-parks-parry-starodubtseva-and-mertens-to-play-on-grandstand-on-thursday-abierto-gnp-seguros/",
-        "https://tennistonic.com/tennis-news/1045480/updated-r2-prediction-h2h-of-diane-parrys-draw-vs-oliynykova-alexandrova-chwalinska-mertens-to-win-the-monterrey/"
-      ],
-      "actualResult": null
-    },
-    {
-      "id": "starodubtseva-mertens-2026-08-28",
-      "tournament": "Monterrey Open / Abierto GNP Seguros (WTA 500)",
-      "round": "1/4 финала",
-      "kickoff": "2026-08-28T07:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Юлия Стародубцева", "ranking": 53 },
-      "playerB": { "name": "Элиз Мертенс", "ranking": 22 },
-      "h2h": {
-        "summary": "Личных встреч на туре не было — это первая очная игра теннисисток.",
-        "record": { "aWins": 0, "bWins": 0 }
-      },
-      "form": {
-        "playerA": { "last5": "На серии из 10 побед подряд; в 1/8 финала обыграла 7-ю сеяную Дженис Тьен в двух сетах — первый четвертьфинал с апреля 2026 года (после финала в Чарльстоне)." },
-        "playerB": { "last5": "Также на серии из 10 побед подряд; в 1/8 финала обыграла Панну Удвари 6-1, 4-6, 6-3." }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": ["серия из 10 побед подряд", "высокая работоспособность и движение по корту", "уверенная игра на харде в сезоне (13-12)"],
-          "weaknesses": ["нет опыта личных встреч с игроками уровня топ-25", "не хватает явного оружия для быстрого завершения розыгрышей"]
-        },
-        "playerB": {
-          "strengths": ["одна из лучших теннисисток тура по игре у сетки", "серия из 10 побед подряд", "тактическая грамотность и стабильность"],
-          "weaknesses": ["не самая мощная подача среди топ-30 одиночного разряда", "ограниченная силовая игра против агрессивных нападающих соперниц"]
+          "strengths": ["Победы над несколькими топ-13 соперницами летом", "Поддержка трибун на домашнем турнире", "Высокая уверенность после титула в Вашингтоне"],
+          "weaknesses": ["Может недооценить малоизвестную соперницу в стартовом раунде"]
         }
       },
       "prediction": {
         "winner": "playerB",
-        "confidence": "low",
-        "reasoning": "Явного прогноза от проверенных аналитических источников на эту конкретную пару не найдено. Собственная оценка на основе статистики: Мертенс выше в рейтинге и опытнее, но обе теннисистки подходят к матчу на серии из 10 побед подряд, а личных встреч не было, поэтому уверенность низкая.",
-        "predictedScore": null
+        "confidence": "high",
+        "reasoning": "Эала в одной из лучших форм карьеры и обыгрывала топ-игроков этим летом, тогда как Стояна дебютирует в основной сетке турнира Большого шлема.",
+        "predictedScore": "2:0"
       },
       "sources": [
-        "https://www.wtatennis.com/videos/4566590/starodubtseva-upsets-tjen-for-first-quarterfinal-since-april",
-        "https://tennistonic.com/tennis-news/1046605/prediction-preview-h2h-parks-parry-starodubtseva-and-mertens-to-play-on-grandstand-on-thursday-abierto-gnp-seguros/",
-        "https://tennistonic.com/tennis-news/1046602/elise-mertens-aces-udvardy-in-the-2nd-round-to-clash-vs-starodubtseva-at-the-abierto-gnp-seguros-highlights-monterrey-results/",
-        "https://tennistonic.com/tennis-news/1045492/updated-r2-prediction-h2h-of-yuliia-starodubtsevas-draw-vs-tjen-mertens-potapova-alexandrova-to-win-the-monterrey/",
-        "https://www.tennisexplorer.com/monterrey/2026/wta-women/"
+        "https://tennistonic.com/tennis-news/1047498/h2h-prediction-of-alexandra-eala-vs-mary-stoiana-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
+        "https://www.gmanetwork.com/news/sports/othersports/1000408/alex-eala-at-the-2026-us-open-schedule-draw-and-match-time/story/",
+        "https://sports.inquirer.net/692257/alex-eala-plays-american-mary-stoiana-in-us-open-first-round",
+        "https://www.rappler.com/sports/alex-eala-first-round-opponent-us-open-2026/",
+        "https://heavy.com/sports/tennis/alex-eala-us-open-opponent-mary-stoiana/",
+        "https://lastwordonsports.com/tennis/2026/08/31/us-open-predictions-eala-stoiana/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "frodin-rybakina-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T18:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Теа Фродин", "ranking": 580 },
+      "playerB": { "name": "Елена Рыбакина", "ranking": 2 },
+      "h2h": { "summary": "Явных сведений об очных встречах не найдено; Фродин дебютирует в основной сетке турнира Большого шлема, ранее с Рыбакиной не пересекалась.", "record": null },
+      "form": {
+        "playerA": { "last5": "17-летняя уайлдкард из США, главный результат сезона — победа на юниорском национальном чемпионате США." },
+        "playerB": { "last5": "Победительница Australian Open-2026; в Цинциннати выбыла из-за проблем с лодыжкой, статус готовности к US Open обсуждается." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Раскрепощённость дебютантки", "Нечего терять в матче против топ-игрока"],
+          "weaknesses": ["Минимальный опыт профессионального уровня", "Огромная разница в классе с соперницей"]
+        },
+        "playerB": {
+          "strengths": ["Один из сильнейших ударов справа и подач в туре", "Статус победительницы турнира Большого шлема этого сезона"],
+          "weaknesses": ["Возможные проблемы с лодыжкой после Цинциннати", "Риск недостаточной готовности после травмы"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "medium",
+        "reasoning": "Рыбакина явный фаворит по классу против дебютантки, однако сообщения о проблемах с лодыжкой после Цинциннати добавляют неопределённости в её готовность, поэтому уверенность не максимальная.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.olympics.com/en/news/meet-thea-frodin-serena-williams-movie-stunt-double-king-richard-us-open-2026-debut",
+        "https://lastwordonsports.com/tennis/2026/08/31/us-open-predictions-rybakina-frodin/",
+        "https://wmbdradio.com/2026/08/30/tennis-from-serena-double-to-us-open-debut-17-year-old-frodin-gets-her-own-stage/",
+        "https://www.si.com/onsi/serve/news/elena-rybakina-path-2026-us-open-final-round-by-round-01m150eg5gn8",
+        "https://www.sportskeeda.com/tennis/us-open-2026-5-upset-alerts-day-3-ft-elena-rybakina-lorenzo-musetti"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "fery-musetti-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T19:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Артур Фери", "ranking": 33 },
+      "playerB": { "name": "Лоренцо Музетти", "ranking": 14 },
+      "h2h": { "summary": "Ранее не встречались.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "10 побед в последних 13 матчах: полуфинал Уимблдона и финал турнира в Уинстон-Сейлеме на прошлой неделе." },
+        "playerB": { "last5": "13-й сеяный, четвертьфиналист US Open прошлого года; готовился к турниру вместе с Роджером Федерером." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Отличная статистика приёма подачи", "Высокий Match Efficiency и Dominance Ratio по сравнению с соперником", "Уверенность после недавнего финала"],
+          "weaknesses": ["Дебют в основной сетке US Open", "Уступает по стабильности подачи топ-игрокам"]
+        },
+        "playerB": {
+          "strengths": ["83,4% выигранных геймов на своей подаче за 52 недели — один из лучших показателей тура", "Разнообразный одноручный бэкхенд", "Опыт четвертьфинала US Open"],
+          "weaknesses": ["Уступает сопернику по показателям на приёме", "Может провисать в отдельных отрезках долгих матчей"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "medium",
+        "reasoning": "Музетти выше классом и имеет статус фаворита (-400 по коэффициентам), но статистика приёма и текущая форма Фери после финала в Уинстон-Сейлеме делают матч более равным, чем предполагает рейтинг.",
+        "predictedScore": "3:2"
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1048388/h2h-prediction-of-lorenzo-musetti-vs-arthur-fery-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
+        "https://www.bleachernation.com/picks/2026/08/31/fery-vs-musetti-prediction-at-the-us-open-tuesday-september-1/",
+        "https://www.espn.com/tennis/story/_/id/49744093/us-open-tennis-arthur-fery-draws-world-no-14-tough-first-round",
+        "https://www.sportsbettingdime.com/news/tennis/fery-vs-musetti-picks-predictions-odds-us-open/",
+        "https://www.lta.org.uk/fan-zone/grand-slam/us-open/news/2026/arthur-fery-to-face-lorenzo-musetti-as-draws-are-revealed-for-british-stars/"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "jovic-frech-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T20:50:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Ива Йович", "ranking": 14 },
+      "playerB": { "name": "Магдалена Френх", "ranking": 46 },
+      "h2h": { "summary": "Ранее не встречались на туре.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "14-я сеяная, 31-16 побед в сезоне (9-3 на турнирах Большого шлема), но в последних турнирах заметен спад после яркого старта года." },
+        "playerB": { "last5": "17-21 в сезоне, но хороший недавний отрезок в Цинциннати добавляет уверенности перед стартом." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Мощная подача и агрессивная игра с задней линии", "Сильная статистика на турнирах Большого шлема в этом сезоне"],
+          "weaknesses": ["Спад результатов в последних турнирах", "Психологическая нестабильность под давлением статуса фаворитки"]
+        },
+        "playerB": {
+          "strengths": ["Стабильная игра с задней линии", "Свежая уверенность после результатов в Цинциннати"],
+          "weaknesses": ["Отрицательный баланс побед и поражений в сезоне (17-21)", "Уступает сопернице по мощности ударов"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "medium",
+        "reasoning": "Йович превосходит по классу и результатам на турнирах Большого шлема в этом сезоне, однако её недавний спад формы и уверенный отрезок Френх в Цинциннати не позволяют дать матчу максимальную степень уверенности.",
+        "predictedScore": "2:1"
+      },
+      "sources": [
+        "https://tennistonic.com/tennis-news/1048481/h2h-prediction-of-iva-jovic-vs-magdalena-frech-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
+        "https://lastwordonsports.com/tennis/2026/08/31/us-open-prediction-jovic-frech/",
+        "https://www.tennismajors.com/matches/wta/us-open/iva-jovic-vs-magdalena-frech",
+        "https://www.yardbarker.com/tennis/articles/american_prodigy_highlights_day_3_us_open_womens_draw/s1_13132_44244558",
+        "https://www.sofascore.com/tennis/player/frech-magdalena/71250"
       ],
       "actualResult": null
     }
