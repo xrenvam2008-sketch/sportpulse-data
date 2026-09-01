@@ -1,7 +1,127 @@
 {
-  "generatedAt": "2026-09-01T20:15:00+03:00",
+  "generatedAt": "2026-09-01T21:20:00+03:00",
   "sport": "tennis",
   "matches": [
+    {
+      "id": "shelton-griekspoor-2026-09-01",
+      "tournament": "US Open (Grand Slam)",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T02:00:00+03:00",
+      "status": "finished",
+      "playerA": { "name": "Бен Шелтон", "ranking": 9 },
+      "playerB": { "name": "Таллон Грикспор", "ranking": 33 },
+      "h2h": { "summary": "Личных встреч на туре ранее не было — это была их первая очная игра.", "record": null },
+      "form": {
+        "playerA": { "last5": "Шелтон (8-й сеяный на турнире) подошёл к US Open в отличной форме: баланс сезона-2026 33-13 (14-6 на харде), серия из 10 побед подряд." },
+        "playerB": { "last5": "Сезон Грикспора складывается скромно: баланс 14-18 (7-6 на харде) в 2026 году." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Одна из самых мощных подач в туре", "Взрывной левосторонний форхенд", "Уверенность после 10-матчевой победной серии", "Хорошая реализация брейк-пойнтов"],
+          "weaknesses": ["Может медленно раскачиваться в начале матчей", "Нестабильность на приёме подачи против мощных соперников"]
+        },
+        "playerB": {
+          "strengths": ["Мощная плоская подача и удары с форхенда", "Способен навязать борьбу более именитым соперникам за счёт агрессии", "Опыт матчей на харде"],
+          "weaknesses": ["Общая нестабильность формы сезона (14-18)", "Уступает Шелтону в физической мощи и скорости подачи", "Проблемы со стабильностью на первой подаче под давлением"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Букмекеры считали Шелтона подавляющим фаворитом (коэффициент около -790 на его победу) благодаря явному преимуществу в текущей форме (10 побед подряд) и статистике эффективности по сравнению с более скромным сезоном Грикспора. Аналитики прогнозировали победу Шелтона в трёх сетах.",
+        "predictedScore": "3:0"
+      },
+      "sources": [
+        "https://sports.yahoo.com/articles/ben-shelton-rallies-past-tallon-022825748.html",
+        "https://www.espn.com/tennis/story/_/id/49789216/ben-shelton-american-men-win-day-2-2026-us-open",
+        "https://en.tennistemple.com/actu/shelton-survives-scare-rallies-past-griekspoor-in/GGMH",
+        "https://www.sportsbettingdime.com/news/tennis/shelton-vs-tallon-griekspoor-picks-odds-and-predictions/",
+        "https://tennistonic.com/tennis-news/1047337/h2h-prediction-of-ben-shelton-vs-tallon-griekspoor-at-the-u-s-open-with-odds-preview-pick-31st-august-2026/",
+        "https://sundayguardianlive.com/sports/us-open-2026-results-ben-shelton-battles-back-against-tallon-griekspoor-as-iga-swiatek-cruises-into-second-round-tennis-live-updates-274463/"
+      ],
+      "actualResult": "3:1"
+    },
+    {
+      "id": "swiatek-wang-2026-09-01",
+      "tournament": "US Open (Grand Slam)",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T02:05:00+03:00",
+      "status": "finished",
+      "playerA": { "name": "Ига Свёнтек", "ranking": 8 },
+      "playerB": { "name": "Ван Сию", "ranking": 90 },
+      "h2h": {
+        "summary": "Свёнтек ведёт 2:0, обе игры на грунте: Мадрид-2024 (2-й круг) и Олимпиада в Париже-2024 (1/8 финала, 6:3 6:4).",
+        "record": { "aWins": 2, "bWins": 0 }
+      },
+      "form": {
+        "playerA": { "last5": "Свёнтек посеяна 8-й на US Open; сезон-2026 в целом складывается неровно, но она набирает ход к концу лета." },
+        "playerB": { "last5": "Ван Сию прошла квалификацию в Цинциннати и дошла до 1/8 финала, обыграв 30-ю сеяную Лейлу Фернандес (камбэк с 3:6 до 6:2 6:2) — второй в сезоне выигрыш у топ-50; ранее в 2026 году доходила до 1/8 финала Ролан Гаррос; поднялась в рейтинге примерно до топ-90-108 (данные источников расходятся) после серии из четырёх побед на харде." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Тяжёлый топ-спин форхенд и контроль корта", "Отличное перемещение и защита", "Опыт побед в финалах турниров Большого шлема", "Психологическая устойчивость в больших матчах"],
+          "weaknesses": ["Периоды нестабильности в сезоне-2026", "Подача может давать сбои под давлением"]
+        },
+        "playerB": {
+          "strengths": ["Прогрессирующая форма после серии побед на харде (в т.ч. над топ-30)", "Агрессивная игра с задней линии", "Уверенность после результативной квалификации и 1/8 финала в Цинциннати"],
+          "weaknesses": ["Скромный текущий рейтинг относительно топ-10", "Малый опыт матчей против игроков уровня Свёнтек", "Общая нестабильность результатов на протяжении сезона"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Свёнтек уверенно ведёт по личным встречам (2:0) и обладает значительно более высоким классом и опытом турниров Большого шлема. Прогрессирующая форма Ван Сию на харде — фактор риска, но разница в уровне слишком велика для победы над восьмой ракеткой мира в первом круге.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.livesport.ru/tennis/2026/09/01/swiatek/",
+        "https://vprognoze.ru/sportnews/tennis/13462132-iga-shventek-vyshla-vo-vtoroj-krug-us-open-2026.html",
+        "https://www.tennis.com/tournaments/us-open/matches/i-swiatek-vs-x-wang-2026-08-31",
+        "https://www.flashscore.com/news/tennis-us-open-wta-singles-swiatek-survives-error-filled-start-to-reach-us-open-second-round-in-straight-sets/UJDqNq1m",
+        "https://en.wikipedia.org/wiki/Wang_Xiyu",
+        "https://www.wtatennis.com/videos/4561061/wang-xiyu-upsets-fernandez-in-cincinnati-for-second-top-50-win-of-2026"
+      ],
+      "actualResult": "2:0"
+    },
+    {
+      "id": "osaka-zakharova-2026-09-01",
+      "tournament": "US Open (Grand Slam)",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T04:00:00+03:00",
+      "status": "finished",
+      "playerA": { "name": "Наоми Осака", "ranking": 13 },
+      "playerB": { "name": "Анастасия Захарова", "ranking": 101 },
+      "h2h": { "summary": "Личных встреч ранее не было — это была их первая очная встреча.", "record": null },
+      "form": {
+        "playerA": { "last5": "Осака подходила к US Open в хорошей форме после возвращения из декретного отпуска: вышла в финал турнира в Бад-Хомбурге летом 2026 года и уверенно выступала на Australian Open в начале сезона." },
+        "playerB": { "last5": "Сезон Захаровой сложился тяжело: во втором квартале 2026 года одержала лишь 4 победы без побед над топ-50 (1-й круг в Чарльстоне, Мадриде и на Ролан Гаррос, 2-й круг в Риме); в начале августа дошла до финала турнира ITF W100 в Ландисвилле, подойдя к US Open в районе топ-85-101 по разным источникам." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Мощная плоская подача с большим количеством эйсов", "Разрушительные удары с обеих рук", "Опыт побед на турнирах Большого шлема (4 титула)", "Умение переламывать ход розыгрышей в тай-брейках"],
+          "weaknesses": ["Нестабильность формы после возвращения из декрета", "Повышенное число невынужденных и двойных ошибок в отдельных матчах", "Может проседать в затяжных розыгрышах против выносливых соперниц"]
+        },
+        "playerB": {
+          "strengths": ["Настойчивость и бойцовский характер в равных отрезках матча", "Опыт борьбы на нижних турнирах и в квалификациях", "Хорошее движение по корту"],
+          "weaknesses": ["Скромный рейтинг и отсутствие побед над топ-50 в 2026 году", "Слабая подача по сравнению с топ-соперницами", "Нестабильность на решающих отрезках сетов"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Осака заметно выше по рейтингу и обладает большим опытом турниров Большого шлема, поэтому букмекеры уверенно считали её фаворитом матча. Основным фактором риска называлась нестабильность формы Осаки после возвращения из декрета, но разница в классе с соперницей за пределами топ-85 расценивалась как решающая.",
+        "predictedScore": "2:0"
+      },
+      "sources": [
+        "https://www.livesport.ru/tips/tennis/2026/09/01/naomi-osaka-anastasia-zakharova/",
+        "https://www.sport-express.net/tennis/grand-slam/news/anastasiya-zaharova-naomi-osaka-schet-i-rezultat-matcha-pervogo-kruga-us-open-1-sentyabrya-2026-2451545/",
+        "https://vprognoze.ru/sportnews/tennis/13462126-anastasiya-zaharova-ustupila-naomi-osake-v-pervom-kruge-us-open-2026.html",
+        "https://ria.ru/20260901/start-2114517569.html",
+        "https://www.wtatennis.com/tournaments/905/us-open/2026/scores/LS74124818",
+        "https://www.championat.com/tennis/article-6561062-turnir-v-memfise-2026-kak-sygrala-anastasiya-zaharova-sopernica-linda-fruhvirtova-statistika-setka-istoriya-vstrech-itog.html"
+      ],
+      "actualResult": "2:0"
+    },
     {
       "id": "cobolli-comesana-2026-09-01",
       "tournament": "US Open (Grand Slam)",
@@ -91,7 +211,7 @@
       "tournament": "US Open (Grand Slam)",
       "round": "1 круг",
       "kickoff": "2026-09-01T18:30:00+03:00",
-      "status": "live",
+      "status": "finished",
       "playerA": { "name": "Мэдисон Киз", "ranking": 23 },
       "playerB": { "name": "Алина Корнеева", "ranking": 89 },
       "h2h": { "summary": "Личных встреч на туре ранее не было, это первая очная встреча теннисисток.", "record": null },
@@ -122,6 +242,45 @@
         "https://en.tennistemple.com/match/keys-korneeva-us-open-2026/9478592/stats",
         "https://www.wtatennis.com/news/4555332/crafts-fan-alina-korneeva-is-rebuilding-her-career-after-injury-setbacks",
         "https://www.flashscore.com.ng/match/tennis/keys-madison-QwU996PK/korneeva-alina-OlQsiYlU/"
+      ],
+      "actualResult": "2:0"
+    },
+    {
+      "id": "fery-musetti-2026-09-01",
+      "tournament": "US Open (Grand Slam)",
+      "round": "1 круг",
+      "kickoff": "2026-09-01T19:30:00+03:00",
+      "status": "live",
+      "playerA": { "name": "Артур Фери", "ranking": 33 },
+      "playerB": { "name": "Лоренцо Музетти", "ranking": 14 },
+      "h2h": { "summary": "Игроки никогда ранее не встречались на туре — это их первая личная встреча.", "record": null },
+      "form": {
+        "playerA": { "last5": "Прорывной сезон: полуфинал Уимблдона (второй в истории уайлд-кард финалист полуфинала), первый титул Masters 1000 в Цинциннати, финал в Уинстон-Сейлеме на прошлой неделе; 10 побед в последних 13 матчах." },
+        "playerB": { "last5": "Возвращается после длительного перерыва из-за травмы ноги, пропустил Ролан Гаррос и Уимблдон; тренировался с Роджером Федерером, но пока не набрал прежний уровень игры; посеян 13-м, защищает четвертьфинал US Open-2025." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Лучшая форма карьеры и уверенность после Уимблдона/Цинциннати", "Эффективный ресивер: больше брейк-пойнтов и очков на приёме против первой подачи", "Более высокие показатели эффективности за последние 52 недели"],
+          "weaknesses": ["Дебют в основной сетке US Open, нет опыта здесь", "Более низкий рейтинг и статус андердога против сеяного"]
+        },
+        "playerB": {
+          "strengths": ["Изящный агрессивный одноручный бэкхенд", "Высокий процент удержания подачи (83.4% за 52 недели)", "Выше по рейтингу и посеву (13-й сеяный, экс-№5)"],
+          "weaknesses": ["Долгий перерыв без соревновательной практики (пропуск РГ и Уимблдона)", "Риск не набрать ритм и физическую готовность после травмы"]
+        }
+      },
+      "prediction": {
+        "winner": "playerB",
+        "confidence": "low",
+        "reasoning": "Источники расходятся во мнениях. Букмекеры называют фаворитом Музетти (котировка около -400), прогнозируя его победу в 4-5 сетах ввиду близкого противостояния. Однако статистический анализ (эффективность, показатели на приёме) за последние 52 недели говорит в пользу Фери, который к тому же в лучшей форме карьеры. Из-за этого явного противоречия между рейтингом/коэффициентами и формой/статистикой уверенность в прогнозе низкая.",
+        "predictedScore": "2:3"
+      },
+      "sources": [
+        "https://www.lta.org.uk/fan-zone/grand-slam/us-open/news/2026/arthur-fery-to-face-lorenzo-musetti-as-draws-are-revealed-for-british-stars/",
+        "https://www.espn.com/tennis/story/_/id/49744093/us-open-tennis-arthur-fery-draws-world-no-14-tough-first-round",
+        "https://www.skysports.com/tennis/news/32833/13579318/arthur-fery-lorenzo-musetti-awaits-in-first-round-of-us-open-for-british-no-1",
+        "https://tennistonic.com/tennis-news/1048388/h2h-prediction-of-lorenzo-musetti-vs-arthur-fery-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
+        "https://www.bets.com.au/tennis/us-open/lorenzo-musetti-vs-arthur-fery-us-open-tips-prediction-live-stream-20260901-0003/",
+        "https://britwatchsports.com/tennis-us-open-2026-fery-aims-to-continue-winston-salem-momentum-in-musetti-test/"
       ],
       "actualResult": null
     },
@@ -165,45 +324,6 @@
       "actualResult": null
     },
     {
-      "id": "fery-musetti-2026-09-01",
-      "tournament": "US Open (Grand Slam)",
-      "round": "1 круг",
-      "kickoff": "2026-09-01T19:30:00+03:00",
-      "status": "live",
-      "playerA": { "name": "Артур Фери", "ranking": 33 },
-      "playerB": { "name": "Лоренцо Музетти", "ranking": 14 },
-      "h2h": { "summary": "Игроки никогда ранее не встречались на туре — это их первая личная встреча.", "record": null },
-      "form": {
-        "playerA": { "last5": "Прорывной сезон: полуфинал Уимблдона (второй в истории уайлд-кард финалист полуфинала), первый титул Masters 1000 в Цинциннати, финал в Уинстон-Сейлеме на прошлой неделе; 10 побед в последних 13 матчах." },
-        "playerB": { "last5": "Возвращается после длительного перерыва из-за травмы ноги, пропустил Ролан Гаррос и Уимблдон; тренировался с Роджером Федерером, но пока не набрал прежний уровень игры; посеян 13-м, защищает четвертьфинал US Open-2025." }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": ["Лучшая форма карьеры и уверенность после Уимблдона/Цинциннати", "Эффективный ресивер: больше брейк-пойнтов и очков на приёме против первой подачи", "Более высокие показатели эффективности за последние 52 недели"],
-          "weaknesses": ["Дебют в основной сетке US Open, нет опыта здесь", "Более низкий рейтинг и статус андердога против сеяного"]
-        },
-        "playerB": {
-          "strengths": ["Изящный агрессивный одноручный бэкхенд", "Высокий процент удержания подачи (83.4% за 52 недели)", "Выше по рейтингу и посеву (13-й сеяный, экс-№5)"],
-          "weaknesses": ["Долгий перерыв без соревновательной практики (пропуск РГ и Уимблдона)", "Риск не набрать ритм и физическую готовность после травмы"]
-        }
-      },
-      "prediction": {
-        "winner": "playerB",
-        "confidence": "low",
-        "reasoning": "Источники расходятся во мнениях. Букмекеры называют фаворитом Музетти (котировка около -400), прогнозируя его победу в 4-5 сетах ввиду близкого противостояния. Однако статистический анализ (эффективность, показатели на приёме) за последние 52 недели говорит в пользу Фери, который к тому же в лучшей форме карьеры. Из-за этого явного противоречия между рейтингом/коэффициентами и формой/статистикой уверенность в прогнозе низкая.",
-        "predictedScore": "2:3"
-      },
-      "sources": [
-        "https://www.lta.org.uk/fan-zone/grand-slam/us-open/news/2026/arthur-fery-to-face-lorenzo-musetti-as-draws-are-revealed-for-british-stars/",
-        "https://www.espn.com/tennis/story/_/id/49744093/us-open-tennis-arthur-fery-draws-world-no-14-tough-first-round",
-        "https://www.skysports.com/tennis/news/32833/13579318/arthur-fery-lorenzo-musetti-awaits-in-first-round-of-us-open-for-british-no-1",
-        "https://tennistonic.com/tennis-news/1048388/h2h-prediction-of-lorenzo-musetti-vs-arthur-fery-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
-        "https://www.bets.com.au/tennis/us-open/lorenzo-musetti-vs-arthur-fery-us-open-tips-prediction-live-stream-20260901-0003/",
-        "https://britwatchsports.com/tennis-us-open-2026-fery-aims-to-continue-winston-salem-momentum-in-musetti-test/"
-      ],
-      "actualResult": null
-    },
-    {
       "id": "andreeva-tjen-2026-09-01",
       "tournament": "US Open (Grand Slam)",
       "round": "1 круг",
@@ -243,45 +363,6 @@
       "actualResult": null
     },
     {
-      "id": "de-minor-guerrieri-2026-09-01",
-      "tournament": "US Open (Grand Slam)",
-      "round": "1 круг",
-      "kickoff": "2026-09-02T00:00:00+03:00",
-      "status": "scheduled",
-      "playerA": { "name": "Алекс де Минор", "ranking": 6 },
-      "playerB": { "name": "Андреа Геррьери", "ranking": 187 },
-      "h2h": { "summary": "Личных встреч не было — первая очная игра.", "record": null },
-      "form": {
-        "playerA": { "last5": "Де Минор (6-й сеяный) провёл ровный сезон, но в последних месяцах случались обидные поражения — 5-7 в последних 12 матчах против игроков топ-50. В двух предыдущих US Open доходил до 1/4 финала." },
-        "playerB": { "last5": "27-летний итальянец Геррьери пробился в основную сетку через квалификацию — это его дебют в основной сетке турнира Большого шлема. В 2026 году поднялся в рейтинге примерно на 400 позиций (до карьерного максимума ~№187), выиграл один challenger-турнир и был финалистом другого." }
-      },
-      "strengthsWeaknesses": {
-        "playerA": {
-          "strengths": ["Исключительная скорость и покрытие корта", "Неутомимый контратакующий стиль", "Сильный приём подачи", "Отличная физическая готовность"],
-          "weaknesses": ["Нет по-настоящему мощного оружия (подача, удар навылет)", "Уязвим против тяжело бьющих соперников", "Историческая нестабильность против топ-хиттеров на Шлемах"]
-        },
-        "playerB": {
-          "strengths": ["Крепкие удары с задней линии по меркам challenger-уровня", "Кураж и уверенность после успешной квалификации", "Опыт борьбы в затяжных матчах на нижних турах"],
-          "weaknesses": ["Отсутствие опыта уровня Большого шлема", "Большой разрыв в классе и рейтинге с топ-10", "Вопросы к выносливости в формате из 5 сетов на таком уровне"]
-        }
-      },
-      "prediction": {
-        "winner": "playerA",
-        "confidence": "high",
-        "reasoning": "Большинство источников уверенно прогнозируют победу де Минора: разница в опыте турниров Большого шлема и в рейтинге (№6 против дебютанта вне топ-150/187) должна сказаться. Единственный нюанс — недавняя нестабильность де Минора против качественных соперников (5-7 в последних 12 матчах против топ-50), но Геррьери близко не того уровня, поэтому это не должно повлиять на исход.",
-        "predictedScore": "3:0"
-      },
-      "sources": [
-        "https://www.sofascore.com/tennis/match/alex-de-minaur-andrea-guerrieri/CrBbsOzFb",
-        "https://www.bets.com.au/tennis/us-open/alex-de-minaur-vs-andrea-guerrieri-us-open-tips-prediction-live-stream-20260901-0005/",
-        "https://tennistonic.com/tennis-news/1048412/h2h-prediction-of-alex-de-minaur-vs-andrea-guerrieri-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
-        "https://www.oasport.it/2026/08/la-favola-di-andrea-guerrieri-qualificato-agli-us-open-primo-tabellone-slam-della-carriera/",
-        "https://www.oasport.it/2026/08/chi-e-andrea-guerrieri-dagli-itf-agli-us-open-primo-slam-della-carriera-a-27-anni/",
-        "https://www.skysports.com/tennis/news/32832/13577913/us-open-2026-order-of-play-and-match-schedule-for-arthur-ashe-stadium-louis-armstrong-stadium-and-more"
-      ],
-      "actualResult": null
-    },
-    {
       "id": "jovic-frech-2026-09-01",
       "tournament": "US Open (Grand Slam)",
       "round": "1 круг",
@@ -317,6 +398,45 @@
         "https://www.wtatennis.com/tournaments/1017/cincinnati/2026/scores/LS031",
         "https://en.tennistemple.com/player/magdalena-frech",
         "https://www.espn.com/tennis/scoreboard/tournament/_/eventId/189-2026"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "de-minor-guerrieri-2026-09-01",
+      "tournament": "US Open (Grand Slam)",
+      "round": "1 круг",
+      "kickoff": "2026-09-02T00:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Алекс де Минор", "ranking": 6 },
+      "playerB": { "name": "Андреа Геррьери", "ranking": 187 },
+      "h2h": { "summary": "Личных встреч не было — первая очная игра.", "record": null },
+      "form": {
+        "playerA": { "last5": "Де Минор (6-й сеяный) провёл ровный сезон, но в последних месяцах случались обидные поражения — 5-7 в последних 12 матчах против игроков топ-50. В двух предыдущих US Open доходил до 1/4 финала." },
+        "playerB": { "last5": "27-летний итальянец Геррьери пробился в основную сетку через квалификацию — это его дебют в основной сетке турнира Большого шлема. В 2026 году поднялся в рейтинге примерно на 400 позиций (до карьерного максимума ~№187), выиграл один challenger-турнир и был финалистом другого." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Исключительная скорость и покрытие корта", "Неутомимый контратакующий стиль", "Сильный приём подачи", "Отличная физическая готовность"],
+          "weaknesses": ["Нет по-настоящему мощного оружия (подача, удар навылет)", "Уязвим против тяжело бьющих соперников", "Историческая нестабильность против топ-хиттеров на Шлемах"]
+        },
+        "playerB": {
+          "strengths": ["Крепкие удары с задней линии по меркам challenger-уровня", "Кураж и уверенность после успешной квалификации", "Опыт борьбы в затяжных матчах на нижних турах"],
+          "weaknesses": ["Отсутствие опыта уровня Большого шлема", "Большой разрыв в классе и рейтинге с топ-10", "Вопросы к выносливости в формате из 5 сетов на таком уровне"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Большинство источников уверенно прогнозируют победу де Минора: разница в опыте турниров Большого шлема и в рейтинге (№6 против дебютанта вне топ-150/187) должна сказаться. Единственный нюанс — недавняя нестабильность де Минора против качественных соперников (5-7 в последних 12 матчах против топ-50), но Геррьери близко не того уровня, поэтому это не должно повлиять на исход.",
+        "predictedScore": "3:0"
+      },
+      "sources": [
+        "https://www.sofascore.com/tennis/match/alex-de-minaur-andrea-guerrieri/CrBbsOzFb",
+        "https://www.bets.com.au/tennis/us-open/alex-de-minaur-vs-andrea-guerrieri-us-open-tips-prediction-live-stream-20260901-0005/",
+        "https://tennistonic.com/tennis-news/1048412/h2h-prediction-of-alex-de-minaur-vs-andrea-guerrieri-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
+        "https://www.oasport.it/2026/08/la-favola-di-andrea-guerrieri-qualificato-agli-us-open-primo-tabellone-slam-della-carriera/",
+        "https://www.oasport.it/2026/08/chi-e-andrea-guerrieri-dagli-itf-agli-us-open-primo-slam-della-carriera-a-27-anni/",
+        "https://www.skysports.com/tennis/news/32832/13577913/us-open-2026-order-of-play-and-match-schedule-for-arthur-ashe-stadium-louis-armstrong-stadium-and-more"
       ],
       "actualResult": null
     },
