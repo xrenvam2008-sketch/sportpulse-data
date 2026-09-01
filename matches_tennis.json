@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T19:20:00+03:00",
+  "generatedAt": "2026-09-01T20:15:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -91,7 +91,7 @@
       "tournament": "US Open (Grand Slam)",
       "round": "1 круг",
       "kickoff": "2026-09-01T18:30:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Мэдисон Киз", "ranking": 23 },
       "playerB": { "name": "Алина Корнеева", "ranking": 89 },
       "h2h": { "summary": "Личных встреч на туре ранее не было, это первая очная встреча теннисисток.", "record": null },
@@ -130,7 +130,7 @@
       "tournament": "US Open (Grand Slam)",
       "round": "1 круг",
       "kickoff": "2026-09-01T19:40:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Тейлор Фритц", "ranking": 10 },
       "playerB": { "name": "Дарвин Бланч", "ranking": 245 },
       "h2h": { "summary": "Личных встреч на туре ATP не было — это первая очная встреча.", "record": null },
@@ -208,7 +208,7 @@
       "tournament": "US Open (Grand Slam)",
       "round": "1 круг",
       "kickoff": "2026-09-01T19:40:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Мирра Андреева", "ranking": 5 },
       "playerB": { "name": "Дженис Тьен", "ranking": 35 },
       "h2h": { "summary": "Личная встреча 1-0 в пользу Андреевой: в 3-м круге турнира в Цинциннати (август 2026) она обыграла Тьен со счётом 6:1, 7:6(5).", "record": { "aWins": 1, "bWins": 0 } },
