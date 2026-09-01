@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T15:30:00+03:00",
+  "generatedAt": "2026-09-01T16:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -418,6 +418,45 @@
         "https://www.tennismajors.com/matches/wta/us-open/iva-jovic-vs-magdalena-frech",
         "https://www.yardbarker.com/tennis/articles/american_prodigy_highlights_day_3_us_open_womens_draw/s1_13132_44244558",
         "https://www.sofascore.com/tennis/player/frech-magdalena/71250"
+      ],
+      "actualResult": null
+    },
+    {
+      "id": "deminaur-guerrieri-2026-09-01",
+      "tournament": "US Open 2026",
+      "round": "1 круг",
+      "kickoff": "2026-09-02T00:00:00+03:00",
+      "status": "scheduled",
+      "playerA": { "name": "Алекс де Минор", "ranking": 7 },
+      "playerB": { "name": "Андреа Гуэррьери", "ranking": 187 },
+      "h2h": { "summary": "Ранее не встречались; для Гуэррьери это дебютный матч основной сетки турнира Большого шлема и вообще на уровне тура ATP.", "record": { "aWins": 0, "bWins": 0 } },
+      "form": {
+        "playerA": { "last5": "Смешанное лето: поражение в четвертьфинале Вашингтона от Накашимы, вылет во 2 круге в Канаде от Норри, поражение в 1/8 Цинциннати от Филса; при этом два подряд четвертьфинала US Open в последние годы." },
+        "playerB": { "last5": "27-летний итальянский квалифай, карьерный пик по рейтингу; вышел в основную сетку, выиграв три квалификационных матча — лучший результат сезона." }
+      },
+      "strengthsWeaknesses": {
+        "playerA": {
+          "strengths": ["Одна из лучших скоростей передвижения по корту в туре", "Надёжный приём подачи", "Опыт двух подряд четвертьфиналов US Open"],
+          "weaknesses": ["Нестабильные результаты против топ-50 этим летом (5-7 в последних 12 матчах)", "Серия неудач в Вашингтоне, Канаде и Цинциннати"]
+        },
+        "playerB": {
+          "strengths": ["Уверенность после победного прохождения квалификации", "Ничего не теряет в статусе дебютанта основной сетки"],
+          "weaknesses": ["Минимальный опыт тур-уровня ATP (дебютный матч)", "Колоссальная разница в рейтинге с соперником (187 против 7)"]
+        }
+      },
+      "prediction": {
+        "winner": "playerA",
+        "confidence": "high",
+        "reasoning": "Де Минор — явный фаворит по классу и рейтингу, несмотря на не лучшую летнюю форму, тогда как Гуэррьери дебютирует на уровне тура ATP и в основной сетке турнира Большого шлема.",
+        "predictedScore": "3:0"
+      },
+      "sources": [
+        "https://www.abc.net.au/news/2026-08-28/us-open-grand-slam-draw-announced/107087948",
+        "https://www.tennis.com.au/fan-zone/news/2026/08/28/us-open-2026-singles-draws",
+        "https://lastwordonsports.com/tennis/2026/08/31/us-open-predictions-de-minaur-guerrieri/",
+        "https://www.bets.com.au/tennis/us-open/alex-de-minaur-vs-andrea-guerrieri-us-open-tips-prediction-live-stream-20260901-0005/",
+        "https://tennistonic.com/tennis-news/1048412/h2h-prediction-of-alex-de-minaur-vs-andrea-guerrieri-at-the-u-s-open-with-odds-preview-pick-1st-september-2026/",
+        "https://www.canberratimes.com.au/story/9339673/back-on-the-job-de-minaur-eyes-deep-us-open-run/"
       ],
       "actualResult": null
     }
