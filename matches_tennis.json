@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-01T18:30:00+03:00",
+  "generatedAt": "2026-09-01T19:20:00+03:00",
   "sport": "tennis",
   "matches": [
     {
@@ -169,7 +169,7 @@
       "tournament": "US Open (Grand Slam)",
       "round": "1 круг",
       "kickoff": "2026-09-01T19:30:00+03:00",
-      "status": "scheduled",
+      "status": "live",
       "playerA": { "name": "Артур Фери", "ranking": 33 },
       "playerB": { "name": "Лоренцо Музетти", "ranking": 14 },
       "h2h": { "summary": "Игроки никогда ранее не встречались на туре — это их первая личная встреча.", "record": null },
