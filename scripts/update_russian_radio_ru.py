@@ -19,49 +19,22 @@ WORDS=[
 ]
 
 def fetch():
-    req=urllib.request.Request(URL,headers={"User-Agent":"sportpulse-radio-updater/1.1"})
+    req=urllib.request.Request(URL,headers={"User-Agent":"sportpulse-radio-updater/1.0"})
     with urllib.request.urlopen(req,timeout=60) as r:
         return r.read().decode("utf-8-sig")
 
 def localize(name):
     s=name.strip()
-    for a,b in WORDS:
-        s=re.sub(re.escape(a),b,s,flags=re.I)
+    for a,b in WORDS: s=re.sub(re.escape(a),b,s,flags=re.I)
     return s
 
 src=fetch()
-lines=src.splitlines()
-out=["#EXTM3U"]
-count=0
-i=0
-while i < len(lines):
-    line=lines[i].strip()
+out=[]
+for line in src.splitlines():
     if line.startswith("#EXTINF:") and "," in line:
         meta,name=line.rsplit(",",1)
-        logo=""
-        m=re.search(r'(?:tvg-logo|tv-logo)="([^"]*)"',meta,re.I)
-        if m: logo=m.group(1).strip()
-        # Normalize every station to the simple form understood by CoverFlow.
-        ext='#EXTINF:-1'
-        if logo:
-            ext += ' tvg-logo="'+logo+'"'
-        ext += ','+localize(name)
-        # Find the following stream URL, skipping blank/comment lines.
-        j=i+1
-        while j < len(lines):
-            u=lines[j].strip()
-            if u and not u.startswith("#"):
-                out.append(ext)
-                out.append(u)
-                count+=1
-                i=j
-                break
-            if u.startswith("#EXTINF:"):
-                break
-            j+=1
-    i+=1
-
+        line=meta+","+localize(name)
+    out.append(line)
 OUT.parent.mkdir(parents=True,exist_ok=True)
-# UTF-8 without BOM, CRLF for maximum Windows/M3U parser compatibility.
-OUT.write_bytes(("\r\n".join(out)+"\r\n").encode("utf-8"))
-print(f"Saved {OUT}; stations: {count}")
+OUT.write_text("\n".join(out)+"\n",encoding="utf-8")
+print("Saved",OUT)
