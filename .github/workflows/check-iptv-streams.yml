@@ -1,6 +1,12 @@
 name: Check IPTV stream links
 
 on:
+  push:
+    paths:
+      - 'iptv/rus_RU.m3u'
+      - 'iptv/iptv-org.github.io_clean.m3u'
+      - 'scripts/check_iptv_streams.py'
+      - '.github/workflows/check-iptv-streams.yml'
   workflow_dispatch:
   schedule:
     - cron: "30 4 * * 1"
