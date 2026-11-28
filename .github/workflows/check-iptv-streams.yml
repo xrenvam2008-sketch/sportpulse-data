@@ -1,0 +1,25 @@
+name: Check IPTV stream links
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "30 4 * * 1"
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check both IPTV playlists
+        run: python3 scripts/check_iptv_streams.py
+      - name: Upload stream check report
+        uses: actions/upload-artifact@v4
+        with:
+          name: iptv-stream-check
+          path: iptv_stream_check.csv
+          if-no-files-found: error
+          retention-days: 30
