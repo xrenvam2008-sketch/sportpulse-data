@@ -60,7 +60,7 @@ def main():
 
             cats=ch.get("categories") or []
             if cats:
-                cat=", ".join(CATEGORY_RU.get(str(x).lower(), str(x)) for x in cats)
+                cat=";".join(CATEGORY_RU.get(str(x).lower(), str(x)) for x in cats)
                 if 'group-title="' in line:
                     line=re.sub(r'group-title="[^"]*"', 'group-title="'+cat+'"', line)
                 else:
