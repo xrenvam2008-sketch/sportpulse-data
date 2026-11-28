@@ -21,9 +21,9 @@ PLAYLISTS = [
     Path("iptv/iptv-org.github.io_clean.m3u"),
 ]
 REPORT = Path("iptv_stream_check.csv")
-TIMEOUT = 12
+TIMEOUT = 8
 MAX_BYTES = 65536
-WORKERS = 16
+WORKERS = 32
 UA_DEFAULT = "Mozilla/5.0 (compatible; sportpulse-iptv-check/1.0)"
 
 def parse_playlist(path):
